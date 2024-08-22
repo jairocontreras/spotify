@@ -12,9 +12,7 @@ piano sonata
   1801 no 14, op 27 no 2, quasi una fantasia ("in the manner of a fantasy"), no 1 | moonlight
 
 john field
-nocturne
-  1812 no 2
-  1817 no 6, cradle song
+1812 nocturne no 2
 
 franz schubert
 1826 standchen ("serenade")
@@ -66,14 +64,11 @@ prelude
 
 robert schumann
 1835 carnaval ("carnival"), op 9 no 12, chopin
-1837 davidsbundlertanze ("dances of the league of david"), op 6 no 2, innig ("intimately")
 
 franz liszt
-1848 romance, s169
 1850
   liebestraum ("love dream") no 3
   trostung ("consolation") no 3
-1854 berceuse ("lullaby"), s174 [version 1]
 
 johannes brahms
 1865 waltz, op 39 no 3
@@ -87,25 +82,8 @@ lyriske stykker ("lyric pieces")
 georges bizet
 1875 carmen, act 1, scene 5, l'amour est un oiseau rebelle ("love is a rebellious bird") | habanera
 
-claude debussy
-1880 danse bohemienne ("bohemian dance")
-1890 reverie
-1891 arabesque no 1
-1892 nocturne
-1894 images oubliees ("forgotten images"), no 1
-1905 suite bergamasque
-  no 1, prelude
-  no 3, clair de lune ("moonlight")
-prelude
-  1910 book 1
-    no 6, des pas sur la neige ("footsteps in the snow")
-    no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
-    no 10, la cathedrale engloutie ("the engulfed cathedral")
-  1913 no 17, book 2, no 5, bruyeres ("heather")
-
 gabriel fauré
 1887 pavane, op 50
-1902 pieces breves ("brief pieces"), op 84 no 5, improvisation
 
 erik satie
 1888 gymnopedie
@@ -120,6 +98,17 @@ gnossienne
     no 4 [comp 1891]
     no 5 [comp 1889]
 1914 les trois valses distinguees du precieux degoute ("the three distinguished waltzes of a jaded dandy"), no 2, son binocle ("his pince-nez")
+
+claude debussy
+1890 reverie
+1891 arabesque no 1
+1892 nocturne
+1905 suite bergamasque
+  no 1, prelude
+  no 3, clair de lune ("moonlight")
+prelude
+  1910 no 8, book 1, la fille aux cheveux de lin ("the girl with the flaxen hair")
+  1913 no 17, book 2, no 5, bruyeres ("heather")
 
 sergei rachmaninoff
 1892 morceaux de fantaisie ("fantasy pieces"), op 3 no 1, elegie ("elegy")
