@@ -94,10 +94,8 @@ gnossienne
   1890
     no 1
     no 3
-  1968
-    no 4 [comp 1891]
-    no 5 [comp 1889]
-1914 les trois valses distinguees du precieux degoute ("the three distinguished waltzes of a jaded dandy"), no 2, son binocle ("his pince-nez")
+  1891 no 4
+  1968 no 5 [comp 1889]
 
 claude debussy
 1890 reverie
@@ -112,10 +110,6 @@ prelude
 
 sergei rachmaninoff
 1892 morceaux de fantaisie ("fantasy pieces"), op 3 no 1, elegie ("elegy")
-1903 variations on a theme of chopin, op 22 no 13
-
-enrique granados
-1895 valses poeticos ("poetic waltzes"), no 3, tempo de vals lento ("slow waltz")
 
 alexander scriabin
 1896 prelude
