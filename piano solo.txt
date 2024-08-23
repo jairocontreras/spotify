@@ -130,29 +130,15 @@ manuel de falla
 1914 canciones populares españolas ("spanish popular songs"), no 6, cancion ("song")
 
 manuel blancafort
-1917 peces de joventut ("youthful pieces")
-  record ("memory")
-  retorn ("return")
+1917 peces de joventut ("youthful pieces"), no 1, record ("memory")
 1918 cancons de muntanya ("mountain songs")
-  canco del vent gronxant les branques ("song of the wind swaying the branches")
-  canco dalt del cingle ("song on top of the cliff")
-  canco de l'hivern ("winter song")
-  canco de l'adeu ("farewell song")
-  canco de la tarda morint ("song of the dying afternoon")
-  canco d'enyoranca ("longing song")
-  canco del silenci del capvespre ("song of the sunset silence")
+  no 3, canco de l'hivern ("winter song")
+  no 8, canco del silenci del capvespre ("song of the sunset silence")
 1919
+  cancons ("songs"), no 8, canco a la platja ("song on the beach")
   notes d'antany ("notes from years gone by")
-    la lluna brilla ("the moon shines")
-    tema popular ("popular theme")
-  cancons ("songs")
-    canco ("song")
-    canco en la solitud ("song in solitude")
-    canco del capvespre ("sunset song")
-    canco en l'ermita ("song in the hermitage")
-    canconeta per adormir ("lullaby to fall asleep")
-    canco a la platja ("song on the beach")
-    senyora isabel ("mrs. isabel") [version 2]
+    no 6, la lluna brilla ("the moon shines")
+    no 8, tema popular ("popular theme")
 
 george gurdjieff
 1924 untitled
