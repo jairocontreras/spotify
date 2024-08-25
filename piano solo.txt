@@ -28,6 +28,9 @@ waltz
   1831 no 3, op 34 no 2
   1835 no 9, op 69 no 1, l'adieu ("farewell")
   1855 no 10, op 69 no 2 [comp 1829]
+etude
+  1832 no 3, op 10, tristesse ("sadness")
+  1835 no 19, op 25 no 7, cello
 nocturne
   1832 op 9
     no 1
@@ -52,7 +55,6 @@ nocturne
   1855 no 19, op posth 72 no 1 [comp 1826]
   1875 no 20, op posth [comp 1830]
   1938 no 21, op posth [comp 1848]
-1835 etude no 19, op 25 no 7
 piano sonata
   1837 no 2, op 35, no 3, marche funebre ("funeral march")
   1844 no 3, op 58, no 3
@@ -142,31 +144,17 @@ manuel blancafort
 
 george gurdjieff
 1924 untitled
-1927 untitled
 
 william grant still
 1935 visions, no 2, summerland
-
-joaquín rodrigo
-1939 concierto de aranjuez ("aranjuez concerto"), no 2
 
 francis poulenc
 1959
   improvisation no 13
   novelette no 3, sur un theme de manuel de falla tire de "el amor brujo" ("on a theme by manuel de falla from 'love bewitched'")
 
-antônio carlos jobim
-1962 the girl from ipanema
-
-nino rota
-1968 a time for us ("romeo and juliet" movie)
-1972 love theme ("the godfather" movie)
-1974 the immigrant ("the godfather part ii" movie)
-
 the beatles
-1969
-  (sep) because (abbey road)
-  (dec) across the universe (no one's gonna change our world)
+1969 across the universe (no one's gonna change our world)
 
 francis lai
 1970 theme ("love story" movie)
