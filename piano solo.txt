@@ -313,18 +313,6 @@ joep beving
   little waltz
   transfiguration
 
-luchs / patrik berg almkvisth
-2016 (jun) reverie
-2022 fran dagar av vila ("from days of rest")
-  braddjup ("precipice")
-  stravan ("ambition")
-
-neil cowley trio
-2016 (sep) the city and the stars [rework]
-
-harry styles
-2017 from the dining table (harry styles)
-
 víkingur ólafsson
 2018 (oct 5) bach reworks (pt. 1) | the well-tempered clavier [rework] ft johann sebastian bach
   for johann | bwv 847
@@ -336,18 +324,16 @@ finneas o'connell
 jeroen van veen
 2019 fountain | frozen fountain [rework] ft ryuichi sakamoto
 
+lambert
+2020 (may 21) gdansk (single)
+
 yiruma
-2020 (may) room with a view
+2020 (may 22) room with a view
   preludio al vento ("overture of the wind")
   room with a view
   sunset bird
   berrylands rd
   yellow room
-
-lambert
-2020 (jul) alone ii
-  in in
-  gdansk
 
 tom ashbrook
 2020 (oct) solitude i (single)
@@ -359,21 +345,13 @@ sophie hutchings
 2021 (sep 3) empty city (single)
 
 jung jaeil
-2021 (sep 17) squid game (series)
-  owe
-  let's go out tonight
+2021 (sep 17) let's go out tonight ("squid game" series)
 
-hiroko murakami
-2021 seis [improv] (live)
-2022
-  (jul) muku
-  (dec) seis [rework] ft daigo hanada
+luchs / patrik berg almkvisth
+2021 (nov) braddjup ("precipice") (single)
 
 rob burger
 2022 (jan) night feet (single)
-
-jordane tumarinson
-2022 (mar 4) desolation
 
 mark slater
 2022 (mar 18) descent
@@ -383,6 +361,11 @@ alexandra stréliski
 
 bea boethius
 2022 (may) the first birds
+
+hiroko murakami
+2022
+  (jul) muku ft daigo hanada
+  (dec) seis [rework] ft daigo hanada
 
 hania rani
 2023 (feb) on giacometti
