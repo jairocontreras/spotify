@@ -8,7 +8,9 @@ christoph willibald gluck
 
 ludwig van beethoven
 piano sonata
-  1798 no 8, op 13, pathetique ("emotional"), no 2
+  1798 no 8, op 13, pathetique ("emotional")
+    no 1
+    no 2
   1801 no 14, op 27 no 2, quasi una fantasia ("in the manner of a fantasy"), no 1 | moonlight
 
 john field
@@ -20,7 +22,9 @@ franz schubert
 felix mendelssohn
 lieder ohne worte ("songs without words")
   1830 no 6, book 1, op 19b no 6, venetianisches gondellied ("venetian boat song")
-  1834 no 12, book 2, op 30 no 6
+  1834 book 2
+    no 7, op 30 no 1
+    no 12, op 30 no 6
   1845 no 46, book 8, op posth 102 no 4
 
 frédéric chopin
@@ -28,6 +32,7 @@ waltz
   1831 no 3, op 34 no 2
   1835 no 9, op 69 no 1, l'adieu ("farewell")
   1855 no 10, op 69 no 2 [comp 1829]
+  1860 no 19 [comp 1849]
 etude
   1832 no 3, op 10, tristesse ("sadness")
   1835 no 19, op 25 no 7, cello
@@ -73,7 +78,9 @@ franz liszt
   trostung ("consolation") no 3
 
 johannes brahms
-1865 waltz, op 39 no 3
+1865 waltz, op 39
+  no 3
+  no 15
 1883 symphony no 3, op 90, no 3
 
 edvard grieg
@@ -163,10 +170,13 @@ leslie bricusse
 1971 pure imagination ("willy wonka & the chocolate factory" movie)
 
 paul de senneville
-1974 dolannes melodie ("dolannes melody") ("un linceul n'a pas de poches" movie)
+1974 (nov) dolannes melodie ("dolannes melody") ("un linceul n'a pas de poches" movie)
 1978
   a comme amour ("l as in love")
   mariage d'amour ("marriage of love")
+
+nino rota
+1974 (dec) the immigrant ("the godfather part ii" movie)
 
 john williams
 1977 princess leia's theme ("star wars: episode iv - a new hope" movie)
@@ -194,7 +204,9 @@ ryuichi sakamoto
 1983 merry christmas, mr. lawrence (movie)
   theme
   germination
-1987 before long
+1987
+  (jul) before long
+  (oct) theme [version 2] ("the last emperor" movie)
 1990 theme ("the sheltering sky" movie)
 1995 smoochy
   bibo no aozora ("beautiful blue sky")
