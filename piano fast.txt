@@ -1,9 +1,15 @@
+johann sebastian bach
+1722 the well-tempered clavier, book 1, no 2, prelude and fugue, no 1, prelude | bwv 847
+
 ludwig van beethoven
-1806 piano sonata no 23, op 57, appassionata ("passionate")
-  no 1
-  no 3
+piano sonata
+  1801 no 14, op 27 no 2, quasi una fantasia ("in the manner of a fantasy"), no 3 | moonlight
+  1806 no 23, op 57, appassionata ("passionate")
+    no 1
+    no 3
 
 frédéric chopin
+1830 waltz no 14, op posth
 etude
   1832 no 4, op 10 no 4
   1836 no 24, op 25 no 12, ocean
@@ -19,9 +25,6 @@ sergei prokofiev
 
 dmitri shostakovich
 1956 suite for variety orchestra no 1, no 7, waltz no 2
-
-maurice jarre
-1962 overture (theme) ("lawrence of arabia" movie)
 
 stephen flaherty
 1997 once upon a december ("anastasia" movie)

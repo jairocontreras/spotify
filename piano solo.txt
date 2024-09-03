@@ -34,8 +34,8 @@ waltz
     no 9, op posth 69 no 1, l'adieu ("farewell") [comp 1835]
     no 10, op posth 69 no 2 [comp 1829]
     no 12, op posth 70 no 2 [comp 1842]
-  1868 no 14 [comp 1830]
-  1955 no 19 [comp 1849]
+  1868 no 14, op posth [comp 1830]
+  1955 no 19, op posth [comp 1849]
 etude
   1832 no 3, op 10, tristesse ("sadness")
   1835 no 19, op 25 no 7, cello
