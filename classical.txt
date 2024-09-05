@@ -1,7 +1,6 @@
 traditional
 1670 scarborough fair
 1726 star of the county down
-1927 misirlou ("egyptian woman")
 
 marin marais
 pieces de viole ("violin pieces")
@@ -14,29 +13,12 @@ nocturne
   1844 no 15, op 55 no 1
   1875 no 20, op posth [comp 1830]
 
-edvard grieg
-peer gynt suite
-  1876 no 1, op 46, no 3, anitra's dance
-  1893 no 2, op 55, no 4, solveig's song
-
-gabriel fauré
-1879 les berceaux ("the cradles"), op 23 no 1
-1880 elegie ("elegy"), op 24
-
 erik satie
 1888 gymnopedie no 3
 1890 gnossienne no 3
 
-pyotr ilyich tchaikovsky
-1892 the nutcracker, op 71, act 2, no 12b, coffee (arabian dance)
-
 manuel de falla
 1914 canciones populares españolas ("spanish popular songs"), no 5, nana ("lullaby")
-  [guitar]
-  [piano]
-
-camille saint-saëns
-1922 le carnaval des animaux ("the carnival of the animals"), no 13, le cygne ("the swan")
 
 joaquín rodrigo
 1923 canconeta ("little song")
