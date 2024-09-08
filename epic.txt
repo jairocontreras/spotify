@@ -1,40 +1,60 @@
+pyotr ilyich tchaikovsky
 1876 slavonic march, op 31
+
+maurice jarre
 1962 overture (theme) ("lawrence of arabia" movie)
+
+koji kondo
 1986 suite ("the legend of zelda" game)
+
+john williams
 1993 end credits ("jurassic park" movie)
+2008 raiders march ("indiana jones and the kingdom of the crystal skull" movie)    
+
+hans zimmer
 2000 gladiator (movie)
   the battle
   barbarian horde
-2001 (nov)
-  (13) main theme ("metal gear solid 2: sons of liberty" game)
-  (15) halo ("halo: combat evolved" game)
-2002 the lord of the rings: the two towers (movie)
-  the three hunters
-  the battle of the hornburg
-2004 ben ("national treasure" movie)
-2005
-  (may) molossus ("batman begins" movie)
-  (dec) a narnia lullaby ("the chronicles of narnia: the lion, the witch and the wardrobe" movie)
+2005 molossus ("batman begins" movie)
 2006 pirates of the caribbean: dead man's chest (movie)
   jack sparrow
   davy jones
-2008
-  (may) indiana jones and the kingdom of the crystal skull (movie)
-    raiders march
-  (jul) the dark knight (movie)
-    i'm not a hero
-    like a dog chasing cars
-    a dark knight
-2010
-  (mar) coming back around ("how to train your dragon" movie)
-  (may) the prince of persia ("prince of persia: the sands of time" movie)
-2013
-  (jun) man of steel (movie)
-    dna
-    han's original sketchbook
-  (nov) says
-2016 (apr)
-  (12) cap's promise ("captain america: civil war" movie)
-  (24) coronation ("game of thrones" series, season 6)
+2008 the dark knight (movie)
+  i'm not a hero
+  like a dog chasing cars
+  a dark knight
+2013 man of steel (movie)
+  dna
+  han's original sketchbook
+
+harry gregson-williams
+2001 (nov 13) main theme ("metal gear solid 2: sons of liberty" game)
+2005 a narnia lullaby ("the chronicles of narnia: the lion, the witch and the wardrobe" movie)
+2010 the prince of persia ("prince of persia: the sands of time" movie)
+
+martin o'donnell
+2001 (nov 15) halo ("halo: combat evolved" game)
+
+howard shore
+2002 the lord of the rings: the two towers (movie)
+  the three hunters
+  the battle of the hornburg
+
+trevor rabin
+2004 ben ("national treasure" movie)
+
+john powell
+2010 coming back around ("how to train your dragon" movie)
+
+nils frahm
+2013 says
+
+henry jackman
+2016 (apr 12) cap's promise ("captain america: civil war" movie)
+
+ramin djawadi
+2016 (apr 24) coronation ("game of thrones" series, season 6)
+
+ludwig göransson
 2020 windmills ("tenet" movie)
 2023 can you hear the music ("oppenheimer" movie)
