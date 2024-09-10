@@ -4,17 +4,17 @@ domenico scarlatti
   k466 [upright]
 
 johann sebastian bach
-1748 chorale prelude no 9, 'nun komm, der heiden heiland' ("now come, savior of the heathens") | bwv 659
+1748 choralvorspiele ("chorale preludes"), no 9, 'nun komm, der heiden heiland' ("now come, savior of the heathens") | bwv 659
 
 christoph willibald gluck
-1762 orfeo ed euridice ("orpheus and eurydice"), act 2, dance of the blessed spirits, melodie ("melody")
+1774 orfeo ed euridice ("orpheus and eurydice"), melodie ("melody")
 
 ludwig van beethoven
 piano sonata
   1798 no 8, op 13, pathetique ("emotional")
     no 1
     no 2
-  1801 no 14, op 27 no 2, quasi una fantasia ("in the manner of a fantasy"), no 1 | moonlight
+  1801 no 14, op 27, quasi una fantasia ("in the manner of a fantasy"), no 2, no 1 | moonlight
 
 john field
 1812 nocturne no 2
@@ -24,46 +24,46 @@ franz schubert
 
 felix mendelssohn
 lieder ohne worte ("songs without words")
-  1830 no 6, book 1, op 19b no 6, venetianisches gondellied ("venetian boat song")
-  1834 book 2
-    no 7, op 30 no 1
-    no 12, op 30 no 6
-  1845 no 46, book 8, op posth 102 no 4
+  1830 book 1, op 19, no 6, venetianisches gondellied ("venetian boat song")
+  1834 book 2, op 30
+    (no 7) no 1
+    (no 12) no 6
+  1845 (no 46) book 8, op posth 102, no 4
 
 frédéric chopin
 waltz
-  1838 no 3, op 34 no 2
+  1838 (no 3) op 34, no 2
   1855
-    no 9, op posth 69 no 1, l'adieu ("farewell") [comp 1835]
-    no 10, op posth 69 no 2 [comp 1829]
-    no 12, op posth 70 no 2 [comp 1842]
+    (no 9) op posth 69, no 1, l'adieu ("farewell") [comp 1835]
+    (no 10) op posth 69, no 2 [comp 1829]
+    (no 12) op posth 70, no 2 [comp 1842]
   1868 no 14, op posth [comp 1830]
   1955 no 19, op posth [comp 1849]
 etude
-  1832 no 3, op 10, tristesse ("sadness")
-  1835 no 19, op 25 no 7, cello
+  1832 op 10, no 3, tristesse ("sadness")
+  1835 (no 19) op 25, no 7, cello
 nocturne
   1832 op 9
     no 1
     no 2
     no 3
-  1833
-    no 5, op 15 no 2
-    no 6, op 15 no 3
-  1836
-    no 7, op 27 no 1
-    no 8, op 27 no 2
-  1837 no 9, op 32 no 1
-  1839
-    no 11, op 37 no 1
-    no 12, op 37 no 2
-  1841
-    no 13, op 48 no 1
-    no 14, op 48 no 2
-  1844
-    no 15, op 55 no 1
-    no 16, op 55 no 2
-  1855 no 19, op posth 72 no 1 [comp 1826]
+  1833 op 15
+    (no 5) no 2
+    (no 6) no 3
+  1836 op 27
+    (no 7) no 1
+    (no 8) no 2
+  1837 (no 9) op 32, no 1
+  1839 op 37
+    (no 11) no 1
+    (no 12) no 2
+  1841 op 48
+    (no 13) no 1
+    (no 14) no 2
+  1844 op 55
+    (no 15) no 1
+    (no 16) no 2
+  1855 (no 19) op posth 72, no 1 [comp 1826]
   1875 no 20, op posth [comp 1830]
   1938 no 21, op posth [comp 1848]
 piano sonata
@@ -73,10 +73,10 @@ prelude
   1839 op 28
     no 4
     no 6
-  1841 no 25, op 45
+  1841 (no 25) op 45
 
 robert schumann
-1835 carnaval ("carnival"), op 9 no 12, chopin
+1835 carnaval ("carnival"), op 9, no 12, chopin
 
 franz liszt
 1850
@@ -93,8 +93,9 @@ johannes brahms
 
 edvard grieg
 lyriske stykker ("lyric pieces")
-  1867 book 1, op 12 no 1, arietta
-  1888 book 4, op 47 no 3, melodi ("melody")
+  1867 book 1, op 12, no 1, arietta
+  1888 (no 25) book 4, op 47, no 3, melodi ("melody")
+1876 peer gynt, op 23, act 4, no 4, anitras dans ("anitra's dance") | suite no 1, op 46, no 3
 
 georges bizet
 1875 carmen, act 1, scene 5, l'amour est un oiseau rebelle ("love is a rebellious bird") | habanera
@@ -115,23 +116,23 @@ gnossienne
   1968 no 5 [comp 1889]
 
 claude debussy
-1890 reverie
-1891 arabesque no 1
+1890 reverie ("daydream")
+1891 arabesque ("in the arabic style") no 1
 1892 nocturne
 1905 suite bergamasque
   no 1, prelude
   no 3, clair de lune ("moonlight")
 prelude
-  1910 no 8, book 1, la fille aux cheveux de lin ("the girl with the flaxen hair")
-  1913 no 17, book 2, no 5, bruyeres ("heather")
+  1910 book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
+  1913 (no 17) book 2, no 5, bruyeres ("heather")
 
 sergei rachmaninoff
-1892 morceaux de fantaisie ("fantasy pieces"), op 3 no 1, elegie ("elegy")
+1892 morceaux de fantaisie ("fantasy pieces"), op 3, no 1, elegie ("elegy")
 
 alexander scriabin
 1896 prelude
-  no 21, op 11 no 21 [upright]
-  no 36, op 16 no 1 [upright] [comp 1895]
+  op 11, no 21 [upright]
+  (no 36) op 16, no 1 [upright] [comp 1895]
 
 maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
@@ -166,7 +167,7 @@ william grant still
 francis poulenc
 1959
   improvisation no 13
-  novelette no 3, sur un theme de manuel de falla tire de "el amor brujo" ("on a theme by manuel de falla from 'love bewitched'")
+  novelette no 3, sur un theme de manuel de falla tire de 'el amor brujo' ("on a theme by manuel de falla from 'love bewitched'")
 
 the beatles
 1969 across the universe (no one's gonna change our world)
@@ -201,10 +202,10 @@ philip glass
 1989 metamorphosis five
 1991 orphee, act 1, scene 5, la chambre d'orphee ("orphee's bedroom")
 etude
-  1994 book 1
+  1994 vol 1
     no 2
     no 5
-  2013 book 2
+  2013 vol 2
     no 18
     no 20
 1998 truman sleeps ("the truman show" movie)
@@ -260,7 +261,7 @@ tarō iwashiro
 2003 memories of night ("memories of murder" movie)
 
 dustin o'halloran
-2004 opus 28 [live]
+2004 opus 28 (live)
 
 john powell
 2008 oogway ascends ("kung fu panda" movie)
@@ -307,8 +308,8 @@ ben lukas boysen
 
 chad lawson
 2014 (sep) the chopin variations [rework] ft frédéric chopin
-  nocturne no 2
-  prelude
+  nocturne, op 9, no 2
+  prelude, op 28
     no 6
     no 15
     no 20
@@ -317,7 +318,7 @@ hans zimmer
 2014 (oct) message from home ("interstellar" movie)
 
 london piano consort
-2014 (nov) nocturne no 13 [rework] ft frédéric chopin
+2014 (nov) nocturne, op 48, no 1 [rework] ft frédéric chopin
 
 the weeknd
 2015 (feb) earned it ("fifty shades of grey" movie)
@@ -342,7 +343,7 @@ joep beving
   transfiguration
 
 víkingur ólafsson
-2018 (oct 5) bach reworks (pt. 1) | the well-tempered clavier [rework] ft johann sebastian bach
+2018 (oct 5) bach reworks - pt. 1 [rework] ft johann sebastian bach
   for johann | bwv 847
   and at the hour of death | bwv 846
 

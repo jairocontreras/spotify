@@ -1,9 +1,9 @@
 johann sebastian bach
-1722 the well-tempered clavier, book 1, no 2, prelude and fugue, no 1, prelude | bwv 847
+1722 das wohltemperirte clavier ("the well-tempered clavier"), book 1, no 2, prelude and fugue, no 1, prelude | bwv 847
 
 ludwig van beethoven
 piano sonata
-  1801 no 14, op 27 no 2, quasi una fantasia ("in the manner of a fantasy"), no 3 | moonlight
+  1801 no 14, op 27, quasi una fantasia ("in the manner of a fantasy"), no 2, no 3 | moonlight
   1806 no 23, op 57, appassionata ("passionate")
     no 1
     no 3
@@ -11,14 +11,14 @@ piano sonata
 frédéric chopin
 1830 waltz no 14, op posth
 etude
-  1832 no 4, op 10 no 4
-  1836 no 24, op 25 no 12, ocean
+  1832 op 10, no 4
+  1836 (no 24) op 25, no 12, ocean
 scherzo
   1833 no 1, op 20
   1837 no 2, op 31
 
 isaac albéniz
-1892 cantos de españa ("songs of spain"), op 232 no 1, preludio ("prelude") | asturias (leyenda) ("legend")
+1892 cantos de españa ("songs of spain"), op 232, no 1, preludio ("prelude") | suite española ("spanish suite") no 1, op 47, no 5, asturias, leyenda ("legend")
 
 sergei prokofiev
 1935 romeo and juliet, op 64, act 1, scene 2, no 13, dance of the knights | suite no 2, no 1, montagues and capulets

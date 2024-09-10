@@ -22,7 +22,7 @@ johann sebastian bach
   cello suite no 1, no 1, prelude | bwv 1007
 
 felix mendelssohn
-1830 lieder ohne worte ("songs without words"), no 6, book 1, op 19b no 6, venetianisches gondellied ("venetian boat song")
+1830 lieder ohne worte ("songs without words"), book 1, op 19, no 6, venetianisches gondellied ("venetian boat song")
 
 frédéric chopin
 1839 prelude, op 28
@@ -49,7 +49,7 @@ isaac albéniz
 1890
   españa ("spain"), op 165, no 3, malagueña
   mallorca, op 202
-1892 cantos de españa ("songs of spain"), op 232 no 1, preludio ("prelude") | suite española ("spanish suite") no 1, op 47, no 5, asturias (leyenda) ("legend")
+1892 cantos de españa ("songs of spain"), op 232, no 1, preludio ("prelude") | suite española ("spanish suite") no 1, op 47, no 5, asturias, leyenda ("legend")
 
 francisco tárrega
 1891 lagrima ("teardrop")
@@ -59,7 +59,7 @@ francisco tárrega
 1909 endecha ("lament")
 
 alexander scriabin
-1895 prelude no 40, op 16 no 4
+1895 prelude (no 40), op 16, no 4
 
 maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
@@ -72,8 +72,8 @@ joaquín malats
 
 abel fleury
 1903-1958
-  milongueo del ayer ("yesterday's milongueo")
-  te vas milonga ("you're leaving milonga")
+  milongueo del ayer ("milongueo of yesterday")
+  te vas milonga ("you're going milonga")
 
 manuel ponce
 1912 estrellita ("little star")
@@ -115,7 +115,7 @@ antonio lauro
 1940 vals venezolano ("venezuelan waltz") no 3, natalia
 
 ernesto grenet
-1942 drume negrita ("sleep, little one") | cancion de cuna ("cradle song")
+1942 drume negrita ("sleep little one") | cancion de cuna ("cradle song")
 
 federico mompou
 1942 cancons i danses ("songs and dances"), no 6
@@ -125,7 +125,7 @@ andrés segovia
 1954 estudio sin luz ("study without light")
 
 mario castelnuovo-tedesco
-1954 tonadilla sur le nom de andres segovia ("tonadilla in the name of andres segovia"), op 170 no 5
+1954 tonadilla sur le nom de andres segovia ("tonadilla in the name of andres segovia"), op 170, no 5
 
 antônio carlos jobim
 1958 estrada do sol ("road to the sun")
@@ -171,7 +171,7 @@ john rutter
 
 leo brouwer
 1981 un dia de noviembre ("one day in november")
-1999 an idea (passacaglia por eli)
+1999 an idea, passacaglia for eli
 
 takashi yoshimatsu
 1984 tender toys
@@ -198,7 +198,7 @@ josé luis merlin
   no 3, chacarera
 
 jorge cardoso
-1990 (jun) piezas sudamericanas ("south american pieces"), no 12, milonga (uruguay)
+1990 (jun) piezas sudamericanas ("south american pieces"), no 12, milonga, uruguay
 
 jorge morel
 1992 suite del sur ("southern suite"), no 2, preludio ("prelude")
