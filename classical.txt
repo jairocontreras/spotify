@@ -1,6 +1,7 @@
 traditional
 1670 scarborough fair
 1726 star of the county down
+1939 el cant dels ocells ("song of the birds") | catalan folksong
 
 marin marais
 pieces de viole ("violin pieces")
@@ -13,9 +14,15 @@ nocturne
   1844 (no 15) op 55, no 1
   1875 no 20, op posth [comp 1830]
 
+césar franck
+1873 lied ("song"), fwv 83
+
 erik satie
 1888 gymnopedie no 3
 1890 gnossienne no 3
+
+claude debussy
+1891 beau soir ("beautiful evening")
 
 manuel de falla
 1914 canciones populares españolas ("spanish popular songs"), no 5, nana ("lullaby")

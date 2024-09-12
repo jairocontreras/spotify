@@ -1,28 +1,5 @@
-anonymous
-1313-1374 lama bada yatathana ("when she began to sway")
-
-traditional
-1580 greensleeves
-1670 scarborough fair
-
-john dowland
-1620 preludium
-
-domenico scarlatti
-1685–1757 keyboard sonata, k32
-
-robert de visée
-1716 pieces de theorbe et de luth ("theorbo and lute pieces"), suite en la mineur ("suite in a minor")
-  no 1, prelude
-  no 4, sarabande
-
 johann sebastian bach
-1723
-  prelude | bwv 999
-  cello suite no 1, no 1, prelude | bwv 1007
-
-felix mendelssohn
-1830 lieder ohne worte ("songs without words"), book 1, op 19, no 6, venetianisches gondellied ("venetian boat song")
+1723 cello suite no 1, no 1, prelude | bwv 1007
 
 frédéric chopin
 1839 prelude, op 28
@@ -35,9 +12,6 @@ agustín barrios mangoré
   preludio en do menor ("prelude in c minor")
   una limosna por el amor de dios ("an alm for the love of god")
 1938 la catedral ("the cathedral"), preludio ("prelude"), saudade ("nostalgia")
-
-emilio pujol
-1886-1980 piezas españolas ("spanish pieces"), no 3, guajira ("peasant woman")
 
 enrique granados
 1890 danzas españolas ("spanish dances"), op 37
