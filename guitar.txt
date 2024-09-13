@@ -35,9 +35,6 @@ francisco tárrega
 alexander scriabin
 1895 prelude (no 40), op 16, no 4
 
-maurice ravel
-1899 pavane pour une infante defunte ("pavane for a dead princess")
-
 manuel de falla
 1900 serenata andaluza ("andalusian serenade")
 
@@ -46,7 +43,7 @@ joaquín malats
 
 abel fleury
 1903-1958
-  milongueo del ayer ("milongueo of yesterday")
+  milongueo del ayer ("yesterday's milongueo")
   te vas milonga ("you're going milonga")
 
 manuel ponce
@@ -172,7 +169,7 @@ josé luis merlin
   no 3, chacarera
 
 jorge cardoso
-1990 (jun) piezas sudamericanas ("south american pieces"), no 12, milonga, uruguay
+1990 (jun) piezas sudamericanas ("south american pieces"), no 12, milonga (uruguay)
 
 jorge morel
 1992 suite del sur ("southern suite"), no 2, preludio ("prelude")
