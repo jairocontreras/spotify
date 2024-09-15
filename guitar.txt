@@ -114,9 +114,6 @@ the beatles
 violeta parra
 1966 gracias a la vida ("thanks to life")
 
-george douglas
-1967 what a wonderful world | この素晴らしき世界
-
 ariel ramírez
 1969 alfonsina y el mar ("alfonsina and the sea")
 
@@ -132,9 +129,6 @@ nino rota
 egberto gismonti
 1972 (apr) agua e vinho ("water and wine")
 
-eagles
-1976 hotel california (album)
-
 john rutter
 1979 suite antique, no 1, prelude
 
@@ -146,20 +140,10 @@ takashi yoshimatsu
 1984 tender toys
   romance for tree
   angels in twilight
-1993 water color scalar, op 57
-  no 1, prelude
-  no 2, intermezzo a
-1997 atom hearts club duo, no 2
-
-george michael
-1984 (jul) careless whisper
+1993 water color scalar, op 57, no 1, prelude
 
 sérgio assad
-1986 aquarelle ("watercolor"), no 2, valseana | アクアレル ヴァルセアーナ
-1992 children's cradle, no 1, berceuse ("lullaby") | cradle song
-
-ennio morricone
-1988 main theme + love theme [medley] ("cinema paradiso" movie)
+1986 aquarelle ("watercolor"), no 2, valseana
 
 josé luis merlin
 1990 suite del recuerdo ("memory suite")
@@ -170,7 +154,7 @@ jorge cardoso
 1990 (jun) piezas sudamericanas ("south american pieces"), no 12, milonga (uruguay)
 
 jorge morel
-1992 suite del sur ("southern suite"), no 2, preludio ("prelude")
+1992 suite del sur ("southern suite"), no 2, prelude, in memory of my wife olga
 2015 milonga del viento ("milonga of the wind")
 
 paulo bellinati
