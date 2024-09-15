@@ -164,9 +164,6 @@ paulo bellinati
 dominic miller
 1995 eclipse
 
-ryuichi sakamoto
-1995 (oct) bibo no aozora ("beautiful blue sky")
-
 máximo diego pujol
 1996 suite del plata no 1
   no 1, preludio ("prelude")
@@ -176,18 +173,8 @@ máximo diego pujol
 ralph towner
 1997 green and golden
 
-francis kleynjans
-2000 tristesse ("sadness")
-
-coldplay
-2002 the scientist (a rush of blood to the head)
-
 gustavo santaolalla
 2004 lima ("the motorcycle diaries" movie)
-2007 pajaros ("birds") ("my blueberry nights" movie)
-
-javier navarrete
-2006 lullaby ("pan's labyrinth" movie)
 
 juan falú
 2007 yusberiana
@@ -195,18 +182,11 @@ juan falú
 john powell
 2008 oogway ascends ("kung fu panda" movie)
 
-soyoka hayashi
-2016 coin of happiness | 幸福の硬貨
-
 karl vandu
 2020 (apr) nachklang ("echo")
 
 hermanos gutiérrez
-2020 (sep) hijos del sol ("children of the sun")
-  mesa redonda ("round table")
-  agua roja ("red water")
-  sonora
-  railroad vista
+2020 (sep) sonora
 
 harry styles
 2022 as it was
