@@ -30,6 +30,9 @@ manuel de falla
 joaquín rodrigo
 1923 canconeta ("little song")
 
+sergei rachmaninoff
+1934 rhapsody on a theme of paganini, op 43, no 18
+
 samuel barber
 1936 string quartet, op 11, no 2, adagio for strings
 
@@ -40,14 +43,29 @@ the beatles
 1967 within you without you (sgt. pepper's lonely hearts club band)
 1969 because (abbey road)
 
+ennio morricone
+1968 theme ("once upon a time in the west" movie)
+1984 deborah's theme ("once upon a time in america" movie)
+1986 gabriel's oboe ("the mission" movie)
+
 egberto gismonti
 1972 agua e vinho ("water and wine")
 
 radiohead
 1992 creep
 
+kenji yamamoto
+1994 theme ("super metroid" game)
+
+yasunori mitsuda
+1995 (mar) main theme ("chrono trigger" game)
+
 ryuichi sakamoto
-1995 bibo no aozora ("beautiful blue sky")
+1995 (oct) bibo no aozora ("beautiful blue sky")
+2014 blu (live)
+
+hans zimmer
+2000 now we are free ("gladiator" movie)
 
 valentin silvestrov
 2002 stille musik ("silent music"), no 2, abendserenade ("evening serenade")
@@ -55,23 +73,43 @@ valentin silvestrov
 max richter
 2004 on the nature of daylight [orchestral]
 
+garry schyman
+2007 the ocean on his shoulders ("bioshock" game)
+
+inon zur
+2008 theme ("fallout 3" game)
+
 brian eno
 2010 emerald and stone
 
 a winged victory for the sullen
 2011 requiem for the static king part 1
 
+chad lawson
+2014 (sep) nocturne, op 55, no 1 [rework] ft frédéric chopin
+
 petter udland johansen
-2014 meditation ii
+2014 (nov) meditation ii
 
 ólafur arnalds
-2016 kinethesia i
+2016 (jun) kinethesia i
+
+sophie hutchings
+2016 (jul) grace
+
+bremer/mccoy
+2016 (sep) forsvinder ("disappearing")
+  i eet ("in one")
+  krystalklar ("crystal clear")
 
 the weeknd
 2018 call out my name (my dear melancholy)
 
-finneas o'connell
-2019 i love you (when we all fall asleep, where do we go?)
+ludovico einaudi
+2019 (mar 15) seven days walking, day 1, fox tracks
+
+billie eilish
+2019 (mar 29) i love you (when we all fall asleep, where do we go?)
 
 robert thies
 2020 forest path
