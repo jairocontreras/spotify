@@ -74,6 +74,7 @@ prelude
     no 4
     no 6
   1841 (no 25) op 45
+1846 mazurka (no 41), op 63, no 3
 
 robert schumann
 1835 carnaval ("carnival"), op 9, no 12, chopin
@@ -166,6 +167,9 @@ george gurdjieff
 
 william grant still
 1935 visions, no 2, summerland
+
+samuel barber
+1936 string quartet, op 11, no 2, adagio
 
 francis poulenc
 1959
