@@ -55,6 +55,15 @@ ennio morricone
 egberto gismonti
 1972 agua e vinho ("water and wine")
 
+ryuichi sakamoto
+1983 theme ("merry christmas, mr. lawrence" movie)
+1987 theme ("the last emperor" movie)
+1995 aoneko no torso ("torso of a blue cat")
+2004
+  (jan) ending theme ("seven samurai 20xx" game)
+  (nov) tamago ("egg")
+2014 blu (live)
+
 radiohead
 1992 creep
 
@@ -62,11 +71,7 @@ kenji yamamoto
 1994 theme ("super metroid" game)
 
 yasunori mitsuda
-1995 (mar) main theme ("chrono trigger" game)
-
-ryuichi sakamoto
-1995 (oct) bibo no aozora ("beautiful blue sky")
-2014 blu (live)
+1995 main theme ("chrono trigger" game)
 
 hans zimmer
 2000 now we are free ("gladiator" movie)
@@ -76,6 +81,7 @@ valentin silvestrov
 
 max richter
 2004 on the nature of daylight [orchestral]
+2012 le quattro stagioni ("the four seasons"), concerto no 3, op 8, l'autunno ("autumn"), no 3 [rework] ft antonio vivaldi
 
 garry schyman
 2007 the ocean on his shoulders ("bioshock" game)
