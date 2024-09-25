@@ -4,7 +4,7 @@ domenico scarlatti
   k 466 [upright]
 
 johann sebastian bach
-1748 choralvorspiele ("chorale preludes"), no 9, 'nun komm, der heiden heiland' ("now come, savior of the heathens") | bwv 659
+1748 bwv 659, choralvorspiele ("chorale preludes"), no 9, 'nun komm, der heiden heiland' ("now come, savior of the heathens")
 
 christoph willibald gluck
 1774 orfeo ed euridice ("orpheus and eurydice"), melodie ("melody")
@@ -186,7 +186,7 @@ leslie bricusse
 1971 pure imagination ("willy wonka & the chocolate factory" movie)
 
 paul de senneville
-1974 (nov) dolannes melodie ("dolannes melody") ("un linceul n'a pas de poches" movie)
+1974 (nov) dolannes melodie ("dolannes melody") ("no pockets in a shroud" movie)
 1978
   a comme amour ("l as in love")
   mariage d'amour ("marriage of love")
@@ -228,11 +228,12 @@ ryuichi sakamoto
   germination
 1987
   (jul) before long
-  (oct) theme [version 2] ("the last emperor" movie)
+  (oct) theme ("the last emperor" movie)
 1990 theme ("the sheltering sky" movie)
 1995 smoochy
   bibo no aozora ("beautiful blue sky")
   aoneko no torso ("torso of a blue cat")
+1999 opus
 2004 ending theme ("seven samurai 20xx" game)
 2022 ieta
 
@@ -261,7 +262,9 @@ secret garden
 1996 (apr) song from a secret garden
 
 joe hisaishi
-1997 ashitaka and san ("princess mononoke" movie)
+1997
+  (jul) ashitaka and san ("princess mononoke" movie)
+  (sep) theme (hana-bi) ("fireworks" movie)
 2004 howl's moving castle (movie)
   merry-go-round of life
   you're in love

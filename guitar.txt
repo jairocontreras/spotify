@@ -1,17 +1,10 @@
 johann sebastian bach
-1723 cello suite no 1, no 1, prelude | bwv 1007
+1723 bwv 1007, cello suite no 1, no 1, prelude
 
 frédéric chopin
 1839 prelude, op 28
   no 4
   no 20, chord
-
-agustín barrios mangoré
-1885-1944
-  el sueño de la muñequita ("dream of the little doll")
-  preludio en do menor ("prelude in c minor")
-  una limosna por el amor de dios ("an alm for the love of god")
-1938 la catedral ("the cathedral"), preludio ("prelude"), saudade ("nostalgia")
 
 enrique granados
 1890 danzas españolas ("spanish dances"), op 37
@@ -41,29 +34,18 @@ manuel de falla
 joaquín malats
 1903 serenata española ("spanish serenade")
 
-abel fleury
-1903-1958
-  milongueo del ayer ("yesterday's milongueo")
-  te vas milonga ("you're going milonga")
-
 manuel ponce
 1912 estrellita ("little star")
 1926 por ti mi corazon ("for you my heart")
 1927 guitar sonata no 3, no 2
 
-héctor ayala
-1914-1990 serie americana ("american series"), no 1, preludio ("prelude")
-
-dilermando reis
-1916-1977
-  se ela perguntar ("if she asks")
-  uma valsa e dois amores ("a waltz and two loves")
-
 federico moreno tórroba
+1924 sonatina, no 2
 1926 suite castellana ("spanish suite")
   no 1, fandanguillo ("little fandango")
   no 2, arada ("plowing")
 1970 castillos de españa ("castles of spain"), vol 1, no 7, montemayor, romance de los pinos ("romance of the pines")
+1891-1982 madroños
 
 heitor villa-lobos
 1928 etude no 1
@@ -82,6 +64,13 @@ duke ellington
 manuel lópez-quiroga
 1937 copla no 4, ojos verdes ("green eyes")
 
+agustín barrios mangoré
+1938 la catedral ("the cathedral"), preludio ("prelude"), saudade ("nostalgia")
+1885-1944
+  el sueño de la muñequita ("dream of the little doll")
+  preludio en do menor ("prelude in c minor")
+  una limosna por el amor de dios ("an alm for the love of god")
+
 antonio lauro
 1940 vals venezolano ("venezuelan waltz") no 3, natalia
 
@@ -96,14 +85,22 @@ andrés segovia
 1954 estudio sin luz ("study without light")
 
 mario castelnuovo-tedesco
-1954 greetings cards, op 170, no 5, tonadilla sur le nom de andres segovia ("tonadilla in the name of andres segovia")
+greetings cards, op 170
+  1954 no 5, tonadilla sur le nom de andres segovia ("tonadilla on the name of andres segovia")
+  1957 no 14, ninna nanna ("lullaby"), a lullaby for eugene
+  1958 no 15, canto delle azzorre sul nome di enos ("song of the azores on the name of enos")
+
+abel fleury
+1903-1958
+  milongueo del ayer ("yesterday's milongueo")
+  te vas milonga ("you're going milonga")
 
 antônio carlos jobim
 1958 estrada do sol ("road to the sun")
-1962 the girl from ipanema | イパネマの娘
+1962 the girl from ipanema
 
 luiz bonfá
-1959 manha de carnaval ("carnival morning") ("orfeu negro" movie)
+1959 manha de carnaval ("carnival morning") ("black orpheus" movie)
 
 the beatles
 1965
@@ -129,6 +126,11 @@ nino rota
 egberto gismonti
 1972 (apr) agua e vinho ("water and wine")
 
+dilermando reis
+1916-1977
+  se ela perguntar ("if she asks")
+  uma valsa e dois amores ("a waltz and two loves")
+
 john rutter
 1979 suite antique, no 1, prelude
 
@@ -144,6 +146,9 @@ takashi yoshimatsu
 
 sérgio assad
 1986 aquarelle ("watercolor"), no 2, valseana
+
+héctor ayala
+1914-1990 serie americana ("american series"), no 1, preludio ("prelude")
 
 josé luis merlin
 1990 suite del recuerdo ("memory suite")
