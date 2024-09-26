@@ -16,7 +16,7 @@ nocturne
 1839 prelude, op 28, no 6
 
 césar franck
-1873 fwv 83, lied ("song")
+1873 lied ("song") | fwv 83
 
 erik satie
 1888 gymnopedie no 3
@@ -33,7 +33,9 @@ maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
 
 manuel de falla
-1914 canciones populares españolas ("spanish popular songs"), no 5, nana ("lullaby")
+1914 canciones populares españolas ("spanish popular songs")
+  no 3, asturiana
+  no 5, nana ("lullaby")
 
 joaquín rodrigo
 1923 canconeta ("little song")

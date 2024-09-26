@@ -4,7 +4,7 @@ domenico scarlatti
   k 466 [upright]
 
 johann sebastian bach
-1748 bwv 659, choralvorspiele ("chorale preludes"), no 9, 'nun komm, der heiden heiland' ("now come, savior of the heathens")
+1748 choralvorspiele ("chorale preludes"), no 9, 'nun komm, der heiden heiland' ("now come, savior of the heathens") | bwv 659
 
 christoph willibald gluck
 1774 orfeo ed euridice ("orpheus and eurydice"), melodie ("melody")
@@ -193,7 +193,7 @@ paul de senneville
 
 nino rota
 1974 (dec) the godfather part ii (movie)
-  the immigrant
+  the immigrant (main title)
   end title + waltz (main title) ("the godfather" movie) [medley]
 
 john williams
@@ -388,7 +388,7 @@ sophie hutchings
 jung jaeil
 2021 (sep 17) let's go out tonight ("squid game" series)
 
-luchs / patrik berg almkvisth
+patrik berg almkvisth / luchs
 2021 (nov) braddjup ("precipice") (single)
 
 rob burger
