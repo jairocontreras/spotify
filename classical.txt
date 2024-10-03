@@ -62,16 +62,25 @@ ennio morricone
 1968 theme ("once upon a time in the west" movie)
 1970 nocturne ("lady caliph" movie)
 1975 theme (journey) ("moses the lawgiver" series)
-1983 theme ("merry christmas, mr. lawrence" movie)
 1984 deborah's theme ("once upon a time in america" movie)
 1986 gabriel's oboe ("the mission" movie)
-1987 theme ("the last emperor" movie)
 1988 main theme ("cinema paradiso" movie)
 1998 playing love ("the legend of 1900" movie)
 2000 theme ("malèna" movie)
 
 egberto gismonti
 1972 agua e vinho ("water and wine")
+
+ryuichi sakamoto
+1983 theme ("merry christmas, mr. lawrence" movie)
+1987 theme ("the last emperor" movie)
+1995 smoochy
+  bibo no aozora ("beautiful blue sky")
+  aoneko no torso ("torso of a blue cat")
+2004
+  (jan) ending theme ("seven samurai 20xx" game)
+  (nov) tamago ("egg")
+2014 blu (live)
 
 radiohead
 1992 creep
@@ -83,16 +92,7 @@ kenji yamamoto
 1994 (mar) theme ("super metroid" game)
 
 yasunori mitsuda
-1995 (mar) main theme ("chrono trigger" game)
-
-ryuichi sakamoto
-1995 (oct) smoochy
-  bibo no aozora ("beautiful blue sky")
-  aoneko no torso ("torso of a blue cat")
-2004
-  (jan) ending theme ("seven samurai 20xx" game)
-  (nov) tamago ("egg")
-2014 blu (live)
+1995 main theme ("chrono trigger" game)
 
 hans zimmer
 2000 now we are free ("gladiator" movie)
