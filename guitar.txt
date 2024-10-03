@@ -117,6 +117,9 @@ ariel ramírez
 henry mancini
 1970 love theme ("sunflower" movie) | ひまわり
 
+william walton
+1971 bagatelle no 4
+
 malcolm arnold
 1971 fantasy, op 107, no 3, arietta
 
@@ -130,6 +133,9 @@ dilermando reis
 1916-1977
   se ela perguntar ("if she asks")
   uma valsa e dois amores ("a waltz and two loves")
+
+john williams
+1977 princess leia's theme ("star wars: episode iv - a new hope" movie)
 
 john rutter
 1979 suite antique, no 1, prelude
@@ -178,6 +184,17 @@ máximo diego pujol
 ralph towner
 1997 green and golden
 
+koji kondo
+1998 title theme ("the legend of zelda: ocarina of time" game)
+
+marcelo coronel
+2000 imaginario popular argentino ("popular argentine fantasy")
+  no 2, salamanca
+  no 5, velando al angelito ("watching over the little angel")
+
+nobuo uematsu
+2001 to zanarkand ("final fantasy x" game)
+
 gustavo santaolalla
 2004 lima ("the motorcycle diaries" movie)
 
@@ -186,6 +203,9 @@ juan falú
 
 john powell
 2008 oogway ascends ("kung fu panda" movie)
+
+jeremy soule
+2011 far horizons ("the elder scrolls v: skyrim" game)
 
 karl vandu
 2020 (apr) nachklang ("echo")

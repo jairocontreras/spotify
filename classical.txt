@@ -22,8 +22,13 @@ erik satie
 1888 gymnopedie no 3
 1890 gnossienne no 3
 
+enrique granados
+1890 danzas españolas ("spanish dances"), op 37, no 2, oriental
+
 claude debussy
 1891 beau soir ("beautiful evening")
+1905 suite bergamasque, no 3, clair de lune ("moonlight")
+1910 prelude, book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
 
 sergei rachmaninoff
 1892 morceaux de fantaisie ("fantasy pieces"), op 3, no 1, elegie ("elegy")
@@ -33,12 +38,15 @@ maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
 
 manuel de falla
-1914 canciones populares españolas ("spanish popular songs")
+1914 canciones populares españolas ("spanish folksongs")
   no 3, asturiana
   no 5, nana ("lullaby")
 
 joaquín rodrigo
 1923 canconeta ("little song")
+
+george gershwin
+1935 porgy and bess, summertime
 
 samuel barber
 1936 string quartet, op 11, no 2, adagio
@@ -50,24 +58,44 @@ the beatles
 1967 within you without you (sgt. pepper's lonely hearts club band)
 1969 because (abbey road)
 
+ennio morricone
+1968 theme ("once upon a time in the west" movie)
+1970 nocturne ("lady caliph" movie)
+1975 theme (journey) ("moses the lawgiver" series)
+1983 theme ("merry christmas, mr. lawrence" movie)
+1984 deborah's theme ("once upon a time in america" movie)
+1986 gabriel's oboe ("the mission" movie)
+1987 theme ("the last emperor" movie)
+1988 main theme ("cinema paradiso" movie)
+1998 playing love ("the legend of 1900" movie)
+2000 theme ("malèna" movie)
+
 egberto gismonti
 1972 agua e vinho ("water and wine")
 
 radiohead
 1992 creep
 
+philip glass
+1994 etude no 2 | echorus
+
 kenji yamamoto
-1994 theme ("super metroid" game)
+1994 (mar) theme ("super metroid" game)
 
 yasunori mitsuda
 1995 (mar) main theme ("chrono trigger" game)
 
 ryuichi sakamoto
-1995 (oct) aoneko no torso ("torso of a blue cat")
+1995 (oct) smoochy
+  bibo no aozora ("beautiful blue sky")
+  aoneko no torso ("torso of a blue cat")
 2004
   (jan) ending theme ("seven samurai 20xx" game)
   (nov) tamago ("egg")
 2014 blu (live)
+
+hans zimmer
+2000 now we are free ("gladiator" movie)
 
 valentin silvestrov
 2002 stille musik ("silent music"), no 2, abendserenade ("evening serenade")
