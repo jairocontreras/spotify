@@ -9,10 +9,17 @@ pieces de viole ("violin pieces")
   1725 book 5, no 16, prelude en harpegement ("prelude in harp")
 
 frédéric chopin
+1829 waltz (no 10) op posth 69, no 2
 nocturne
+  1832 op 9, no 2
   1837 (no 9) op 32, no 1
   1844 (no 15) op 55, no 1
-1839 prelude, op 28, no 6
+  1875 no 20, op posth [comp 1830]
+1835 etude (no 19) op 25, no 7, cello
+1839 prelude, op 28
+  no 4
+  no 6
+  no 20
 
 césar franck
 1873 lied ("song") | fwv 83
@@ -72,7 +79,11 @@ egberto gismonti
 
 ryuichi sakamoto
 1983 theme ("merry christmas, mr. lawrence" movie)
-1987 theme ("the last emperor" movie)
+1987 the last emperor (movie)
+  theme
+  rain
+1991 main theme ("high heels" movie)
+1993 theme ("wild palms" series)
 1995 smoochy
   bibo no aozora ("beautiful blue sky")
   aoneko no torso ("torso of a blue cat")
@@ -127,16 +138,17 @@ brian eno
 2010 emerald and stone
 
 a winged victory for the sullen
-2011 requiem for the static king part 1
+2011 (sep) requiem for the static king part 1
+
+ólafur arnalds
+2011 (dec) near light
+2016 kinethesia i
 
 chad lawson
 2014 (sep) nocturne, op 55, no 1 [rework] ft frédéric chopin
 
 petter udland johansen
 2014 (nov) meditation ii
-
-ólafur arnalds
-2016 (jun) kinethesia i
 
 sophie hutchings
 2016 (jul) grace

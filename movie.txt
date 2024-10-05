@@ -36,13 +36,10 @@
   (18) crouching tiger, hidden dragon
     theme
     silk road
-2001
-  (jul) spirited away
-    one summer's day
-  (dec) the lord of the rings: the fellowship of the ring
-    the shire
-    flight to the ford
-    lothlorien (lament for gandalf)
+2001 the lord of the rings: the fellowship of the ring
+  the shire
+  flight to the ford
+  lothlorien (lament for gandalf)
 2002
   (may) star wars: episode ii - attack of the clones
     across the stars
@@ -85,7 +82,6 @@
     race to resting rock
     the vote
   (sep) howl's moving castle
-    merry-go-round of life
     the secret cave
   (nov) national treasure
     declaration of independence
