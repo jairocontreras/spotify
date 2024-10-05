@@ -12,7 +12,6 @@ frédéric chopin
 nocturne
   1837 (no 9) op 32, no 1
   1844 (no 15) op 55, no 1
-  1875 no 20, op posth [comp 1830]
 1839 prelude, op 28, no 6
 
 césar franck
@@ -77,10 +76,12 @@ ryuichi sakamoto
 1995 smoochy
   bibo no aozora ("beautiful blue sky")
   aoneko no torso ("torso of a blue cat")
+2002 bolerish ("femme fatale" movie)
 2004
   (jan) ending theme ("seven samurai 20xx" game)
   (nov) tamago ("egg")
 2014 blu (live)
+2015 main theme ("the revenant" movie)
 
 radiohead
 1992 creep
@@ -94,8 +95,20 @@ kenji yamamoto
 yasunori mitsuda
 1995 main theme ("chrono trigger" game)
 
+joe hisaishi
+1997 hana-bi ("fireworks" movie)
+2001 one summer's day ("spirited away" movie)
+2004 merry-go-round of life ("howl's moving castle" movie)
+
 hans zimmer
-2000 now we are free ("gladiator" movie)
+2000 (may) now we are free ("gladiator" movie)
+
+james newton howard
+2000 (nov) survivor ("unbreakable" movie)
+2002 after you were born ("signs" movie)
+2004 the village (movie)
+  morning
+  noah visits
 
 valentin silvestrov
 2002 stille musik ("silent music"), no 2, abendserenade ("evening serenade")
@@ -141,6 +154,9 @@ ludovico einaudi
 
 billie eilish
 2019 (mar 29) i love you (when we all fall asleep, where do we go?)
+
+ramin djawadi
+2019 (apr) the rains of castamere ("game of thrones" series, season 8)
 
 robert thies
 2020 forest path

@@ -141,15 +141,15 @@ alexander scriabin
 maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
 
+manuel de falla
+1900 cancion ("song")
+
 henrique oswald
 1900 en nacelle ("in nacelle")
 1932 valsa lenta ("slow waltz"), op posth
 
 heitor villa-lobos
 1910 tristorosa ("sad rose")
-
-manuel de falla
-1914 canciones populares españolas ("spanish folksongs"), no 6, cancion ("song")
 
 manuel blancafort
 1917 peces de joventut ("youthful pieces"), no 1, record ("memory")
@@ -261,8 +261,9 @@ secret garden
 
 joe hisaishi
 1997
-  (jul) ashitaka and san ("princess mononoke" movie)
+  (jul) ashitaka and san ("princess mononoke" movie) | アシタカとサン
   (sep) hana-bi ("fireworks" movie)
+2001 one summer's day ("spirited away" movie) | あの夏へ
 2004 howl's moving castle (movie)
   merry-go-round of life
   you're in love
@@ -304,7 +305,9 @@ dario marianelli
 2011 (dec) tomorrow's song
 
 max richter
-2012 written on the sky ("disconnect" movie)
+2012 disconnect (movie)
+  written on the sky
+  unwritten
 2014 h in new england
 
 gustavo santaolalla
