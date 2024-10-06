@@ -9,13 +9,13 @@ pieces de viole ("violin pieces")
   1725 book 5, no 16, prelude en harpegement ("prelude in harp")
 
 frédéric chopin
-1829 waltz (no 10) op posth 69, no 2
+1829 waltz (no 10), op posth 69, no 2
 nocturne
   1832 op 9, no 2
   1837 (no 9) op 32, no 1
   1844 (no 15) op 55, no 1
   1875 no 20, op posth [comp 1830]
-1835 etude (no 19) op 25, no 7, cello
+1835 etude (no 19), op 25, no 7, cello
 1839 prelude, op 28
   no 4
   no 6
@@ -145,7 +145,7 @@ a winged victory for the sullen
 2016 kinethesia i
 
 chad lawson
-2014 (sep) nocturne, op 55, no 1 [rework] ft frédéric chopin
+2014 (sep) nocturne (no 15), op 55, no 1 [rework] ft frédéric chopin
 
 petter udland johansen
 2014 (nov) meditation ii
