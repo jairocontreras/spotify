@@ -1,7 +1,7 @@
 domenico scarlatti
 1685–1757 keyboard sonata
   k 32
-  k 466 [upright]
+  k 466
 
 johann sebastian bach
 1748 choralvorspiele ("chorale preludes"), no 9, 'nun komm, der heiden heiland' ("now come, savior of the heathens") | bwv 659
@@ -135,8 +135,8 @@ sergei rachmaninoff
 
 alexander scriabin
 1896 prelude
-  op 11, no 21 [upright]
-  (no 36) op 16, no 1 [upright] [comp 1895]
+  op 11, no 21
+  (no 36) op 16, no 1 [comp 1895]
 
 maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
@@ -149,7 +149,7 @@ henrique oswald
 1932 valsa lenta ("slow waltz"), op posth
 
 béla bartók
-1907 hungarian folksongs from csik, no 1, rubato [upright]
+1907 hungarian folksongs from csik, no 1, rubato
 
 heitor villa-lobos
 1910 tristorosa ("sad rose")
@@ -275,7 +275,7 @@ tarō iwashiro
 2003 memories of night ("memories of murder" movie)
 
 dustin o'halloran
-2004 opus 28 (live)
+2004 opus 28
 
 john powell
 2008 oogway ascends ("kung fu panda" movie)
@@ -364,7 +364,7 @@ víkingur ólafsson
   and at the hour of death | bwv 846
 
 billie eilish
-2018 (oct 17) when the party's over [slowed]
+2018 (oct 17) when the party's over
 
 jeroen van veen
 2019 fountain | frozen fountain [rework] ft ryuichi sakamoto
