@@ -6,6 +6,20 @@ frédéric chopin
   no 4
   no 20, chord
 
+julián arcas
+1865 fantasia sobre motivos de "la traviata" de verdi ("fantasy on themes from 'the fallen woman' by verdi")
+
+edvard grieg
+lyriske stykker ("lyric pieces")
+  1867 book 1, op 12
+    no 1, arietta
+    no 2, vals ("waltz")
+    no 6, norsk ("norwegian melody")
+  1883 book 2, op 38
+    (no 9) no 1, berceuse ("lullaby")
+    (no 13) no 5, springdans ("spring dance")
+    (no 14) no 6, elegi ("elegy")
+
 enrique granados
 1890 danzas españolas ("spanish dances"), op 37
   no 2, oriental
@@ -33,6 +47,9 @@ manuel de falla
 
 joaquín malats
 1903 serenata española ("spanish serenade")
+
+claude debussy
+1910 prelude, book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
 
 manuel ponce
 1912 estrellita ("little star")
@@ -102,6 +119,15 @@ antônio carlos jobim
 luiz bonfá
 1959 manha de carnaval ("carnival morning") ("black orpheus" movie)
 
+eduardo sainz de la maza
+1963 campanas del alba ("bells at dawn")
+
+emilio sojo
+1965 piezas de venezuela ("pieces from venezuela")
+  no 1, cantico ("chant")
+  no 3, cancion ("song")
+  no 5, galeron
+
 the beatles
 1965
   (jul) yesterday ("help!" movie)
@@ -153,6 +179,12 @@ takashi yoshimatsu
 sérgio assad
 1986 aquarelle ("watercolor"), no 2, valseana
 
+ennio morricone
+1986 (may) gabriel's oboe ("the mission" movie)
+
+ryuichi sakamoto
+1987 theme ("the last emperor" movie)
+
 héctor ayala
 1914-1990 serie americana ("american series"), no 1, preludio ("prelude")
 
@@ -193,7 +225,10 @@ marcelo coronel
   no 5, velando al angelito ("watching over the little angel")
 
 nobuo uematsu
-2001 to zanarkand ("final fantasy x" game)
+2001 (jul) to zanarkand ("final fantasy x" game)
+
+howard shore
+2001 (dec) may it be ("the lord of the rings: the fellowship of the ring" movie)
 
 gustavo santaolalla
 2004 lima ("the motorcycle diaries" movie)
@@ -213,8 +248,11 @@ karl vandu
 hermanos gutiérrez
 2020 (sep) sonora
 
+olivia belli
+2022 (feb) prelude
+
 harry styles
-2022 as it was
+2022 (apr) as it was
 
 matthias lindner
 2023 fragile

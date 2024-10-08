@@ -1,20 +1,26 @@
 traditional
 1670 scarborough fair
 1726 star of the county down
-1939 el cant dels ocells ("song of the birds") | catalan folksong
+1939 el cant dels ocells ("song of the birds")
 
 marin marais
 pieces de viole ("violin pieces")
   1717 book 4, no 6, muzette ("bagpipe")
   1725 book 5, no 16, prelude en harpegement ("prelude in harp")
 
+christoph willibald gluck
+1774 orfeo ed euridice ("orpheus and eurydice"), melodie ("melody")
+
 frédéric chopin
-1829 waltz (no 10), op posth 69, no 2
+waltz
+  1829 (no 10) op posth 69, no 2
+  1849 no 19, op posth
 nocturne
   1832 op 9, no 2
   1837 (no 9) op 32, no 1
   1844 (no 15) op 55, no 1
   1875 no 20, op posth [comp 1830]
+  1938 no 21, op posth [comp 1848]
 1835 etude (no 19), op 25, no 7, cello
 1839 prelude, op 28
   no 4
@@ -23,6 +29,9 @@ nocturne
 
 césar franck
 1873 lied ("song") | fwv 83
+
+gabriel fauré
+1887 pavane, op 50
 
 erik satie
 1888 gymnopedie no 3
@@ -64,8 +73,14 @@ the beatles
 1967 within you without you (sgt. pepper's lonely hearts club band)
 1969 because (abbey road)
 
+nino rota
+1972 (mar) love theme ("the godfather" movie) | speak softly love
+
 egberto gismonti
-1972 agua e vinho ("water and wine")
+1972 (apr) agua e vinho ("water and wine")
+
+the police
+1983 every breath you take
 
 radiohead
 1992 creep
@@ -100,6 +115,9 @@ garry schyman
 
 inon zur
 2008 theme ("fallout 3" game)
+
+nils frahm
+2009 ambre
 
 brian eno
 2010 emerald and stone

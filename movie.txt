@@ -9,7 +9,7 @@
   nocturne
 1974 the godfather part ii
   the immigrant (main title)
-1975 moses the lawgiver
+1975 moses the lawgiver (series)
   theme (journey)
 1980 somewhere in time
   theme
@@ -26,8 +26,12 @@
   theme
   rain
 1988 cinema paradiso
-  main theme | nostalgia
+  main theme
+1989 kiki's delivery service
+  a town with an ocean view
 1991
+  (may) chizuko's younger sister | ふたり
+    two of us
   (oct) high heels
     main theme
   (dec) hook
@@ -47,10 +51,14 @@
   main title
   a gift of a thistle
   the princess pleads for wallace's life
-1997 fireworks
-  hana-bi
-  tenderness
-  hana-bi [2021]
+1997
+  (jul) princess mononoke | もののけ姫
+    the legend of ashitaka
+    ashitaka and san
+  (sep) fireworks
+    hana-bi
+    tenderness
+    hana-bi [2021]
 1998 the legend of 1900
   playing love
 2000
@@ -154,6 +162,8 @@
     a dream discarded
 2006 pirates of the caribbean: dead man's chest
   hello beastie
+2007 avatar: the last airbender (series, season 3)
+  the last agni kai
 2008 the dark knight
   harvey two-face
   blood on my hands

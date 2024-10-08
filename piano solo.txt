@@ -4,7 +4,7 @@ domenico scarlatti
   k 466
 
 johann sebastian bach
-1748 choralvorspiele ("chorale preludes"), no 9, 'nun komm, der heiden heiland' ("now come, savior of the heathens") | bwv 659
+1748 choralvorspiele ("chorale preludes"), no 9, "nun komm, der heiden heiland" ("now come, savior of the heathens") | bwv 659
 
 christoph willibald gluck
 1774 orfeo ed euridice ("orpheus and eurydice"), melodie ("melody")
@@ -177,7 +177,7 @@ samuel barber
 francis poulenc
 1959
   improvisation no 13
-  novelette no 3, sur un theme de manuel de falla tire de 'el amor brujo' ("on a theme by manuel de falla from 'love bewitched'")
+  novelette no 3, sur un theme de manuel de falla tire de "el amor brujo" ("on a theme by manuel de falla from 'love bewitched'")
 
 the beatles
 1969 across the universe (no one's gonna change our world)
