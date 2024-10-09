@@ -63,7 +63,7 @@
       theme
       silk road
   (nov) unbreakable
-    survivor [2023]
+    survivor
 2001
   (jul) spirited away
     one summer's day
@@ -82,7 +82,7 @@
     the farm
     a blind eye
   (aug) signs
-    after you were born [2023]
+    after you were born
   (dec) the lord of the rings: the two towers
     the story foretold
 2003
@@ -97,39 +97,27 @@
   (nov) the last samurai
     a way of life
     a hard teacher
-    idyll's end
     safe passage
     a small measure of peace
   (dec)
     (1) the lord of the rings: the return of the king
       roots and beginnings
       eowyn's dream
-      marshalling at dunharrow
-      merry's simple courage
-      elanor
     (25) paycheck
       i don't remember
 2004
   (jul) the village
+    morning
     noah visits
-    what are you asking me?
-    will you help me?
-    race to resting rock
     the vote
-    [2023]
-      morning
-      noah visits
   (sep) howl's moving castle
     merry-go-round of life
-    the secret cave
   (nov) national treasure
     declaration of independence
   (dec) lemony snicket's a series of unfortunate events
     the baudelaire orphans
-    resilience
     the reptile room
     curious feeling of falling
-    the wide window
     verisimilitude
     one last look
     the letter that never came
@@ -145,7 +133,6 @@
     chiyo's prayer
     becoming a geisha
     the chairman's waltz
-    the garden meeting
     as the water
     confluence
     a dream discarded
@@ -199,12 +186,9 @@
   (feb) victoria
     our own roof
     them
-    the shooting
   (dec) the revenant
     main theme
-    main theme [atmospheric]
     hell ensemble
-    main theme [2016]
 2016 game of thrones (series, season 6)
   light of the seven
   my watch has ended
@@ -213,18 +197,13 @@
   i need you by my side
 2017 blade runner 2049
   2049
-  sapper's tree
   wallace
-  memory
   someone lived this
-  that's why we believe
   her eyes were green
   all the best memories are hers
 2018 avengers: infinity war
   porch
 2019
-  (apr) game of thrones (series, season 8)
-    the rains of castamere
   (aug) joker
     a bad comedian
     bathroom dance
@@ -238,11 +217,13 @@
   i remember my name
   it hurts so bad
 2022 the lord of the rings: the rings of power (series)
+  where the shadows lie
   durin iv
 2023 (may)
   (18) indiana jones and the dial of destiny
     to athens
   (30) spider-man: across the spider-verse
     under the clocktower
+    i beat them all
     father and son
     triumph
