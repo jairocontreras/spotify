@@ -1,10 +1,10 @@
+johann sebastian bach
+1748 choralvorspiele ("chorale preludes"), no 9, "nun komm, der heiden heiland" ("now come, savior of the heathens") | bwv 659
+
 domenico scarlatti
 1685–1757 keyboard sonata
   k 32
   k 466
-
-johann sebastian bach
-1748 choralvorspiele ("chorale preludes"), no 9, "nun komm, der heiden heiland" ("now come, savior of the heathens") | bwv 659
 
 christoph willibald gluck
 1774 orfeo ed euridice ("orpheus and eurydice"), melodie ("melody")
@@ -20,7 +20,7 @@ john field
 1812 nocturne no 2
 
 franz schubert
-1826 standchen ("serenade")
+1828 schwanengesang ("swan song"), no 4, standchen ("serenade")
 
 felix mendelssohn
 lieder ohne worte ("songs without words")
@@ -31,14 +31,6 @@ lieder ohne worte ("songs without words")
   1845 (no 46) book 8, op posth 102, no 4
 
 frédéric chopin
-waltz
-  1838 (no 3) op 34, no 2
-  1855
-    (no 9) op posth 69, no 1, l'adieu ("farewell") [comp 1835]
-    (no 10) op posth 69, no 2 [comp 1829]
-    (no 12) op posth 70, no 2 [comp 1842]
-  1868 no 14, op posth [comp 1830]
-  1955 no 19, op posth [comp 1849]
 etude
   1832 op 10, no 3, tristesse ("sadness")
   1835 (no 19) op 25, no 7, cello
@@ -69,6 +61,14 @@ nocturne
 piano sonata
   1837 no 2, op 35, no 3, marche funebre ("funeral march")
   1844 no 3, op 58, no 3
+waltz
+  1838 (no 3) op 34, no 2
+  1855
+    (no 9) op posth 69, no 1, l'adieu ("farewell") [comp 1835]
+    (no 10) op posth 69, no 2 [comp 1829]
+    (no 12) op posth 70, no 2 [comp 1842]
+  1868 no 14, op posth [comp 1830]
+  1955 no 19, op posth [comp 1849]
 prelude
   1839 op 28
     no 4
@@ -149,7 +149,7 @@ henrique oswald
 1932 valsa lenta ("slow waltz"), op posth
 
 béla bartók
-1907 hungarian folksongs from csik, no 1, rubato
+1907 hungarian folksongs from csik, no 1, the peacock
 
 heitor villa-lobos
 1910 tristorosa ("sad rose")

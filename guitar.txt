@@ -143,11 +143,11 @@ ariel ramírez
 henry mancini
 1970 love theme ("sunflower" movie) | ひまわり
 
-william walton
-1971 bagatelle no 4
-
 malcolm arnold
 1971 fantasy, op 107, no 3, arietta
+
+william walton
+1971 bagatelle no 4
 
 nino rota
 1972 (mar) love theme ("the godfather" movie)
@@ -196,6 +196,10 @@ josé luis merlin
 jorge cardoso
 1990 (jun) piezas sudamericanas ("south american pieces"), no 12, milonga (uruguay)
 
+philip glass
+1991 orphee, act 1, scene 5, la chambre d'orphee ("orphee's bedroom")
+1998 truman sleeps ("the truman show" movie)
+
 jorge morel
 1992 suite del sur ("southern suite"), no 2, prelude, in memory of my wife olga
 2015 milonga del viento ("milonga of the wind")
@@ -223,6 +227,9 @@ marcelo coronel
 2000 imaginario popular argentino ("popular argentine fantasy")
   no 2, salamanca
   no 5, velando al angelito ("watching over the little angel")
+
+simone iannarelli
+2000 "etudes faciles, ou presque" ("easy studies, or almost"), no 1, moderato
 
 nobuo uematsu
 2001 (jul) to zanarkand ("final fantasy x" game)
