@@ -142,7 +142,7 @@ maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
 
 manuel de falla
-1900 cancion ("song")
+1900 cancion ("song") | track: canciones populares españolas
 
 henrique oswald
 1900 en nacelle ("in nacelle")
