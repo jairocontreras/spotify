@@ -3,20 +3,28 @@
 1967 you only live twice
   theme
   capsule in space
-1970 lady caliph
-  la cena ("dinner") | track: nocturne
+1970 (dec)
+  (16) love story
+    theme
+  (31) lady caliph
+    la cena ("dinner") | track: nocturne
 1974 the godfather part ii
   the immigrant (main title)
 1975 moses the lawgiver (series)
   theme (journey)
 1980 somewhere in time
   theme
+1983 merry christmas, mr. lawrence
+  theme
+1984 once upon a time in america
+  deborah's theme
 1985 out of africa
   have you got a story for me?
   i had a compass from denys (karen's theme ii)
 1986 the mission
   gabriel's oboe
 1987 the last emperor
+  theme
   rain
 1988 cinema paradiso
   main theme
@@ -62,6 +70,8 @@
     (18) crouching tiger, hidden dragon
       theme
       silk road
+  (oct) malèna
+    theme
   (nov) unbreakable
     survivor
 2001
@@ -202,8 +212,6 @@
   someone lived this
   her eyes were green
   all the best memories are hers
-2018 avengers: infinity war
-  porch
 2019
   (aug) joker
     a bad comedian
