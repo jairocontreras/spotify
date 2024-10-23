@@ -124,6 +124,7 @@
       sprinter
     (16) violence (everything was green)
     (22) lagunas (genesis)
+    (23) too young to die (supernatural thing)
   (jul)
     (21)
       famous last words (an ode to eaters)
@@ -151,7 +152,9 @@
   (mar)
     (14) low sun
     (28) the last bit of us
-  (jun) roses
+  (jun)
+    (21) roses
+    (28) be careful with me (god said no)
   (jul)
     (10) giza
     (26) i'd rather pretend (vanity)
