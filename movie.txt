@@ -9,7 +9,7 @@
   (31) lady caliph
     la cena ("dinner") | track: nocturne
 1974 the godfather part ii
-  the immigrant (main title)
+  the immigrant
 1975 moses the lawgiver (series)
   theme (journey)
 1980 somewhere in time
@@ -24,8 +24,8 @@
 1986 the mission
   gabriel's oboe
 1987 the last emperor
-  theme
-  rain
+  theme | endroll
+  rain (i want a divorce)
 1988 cinema paradiso
   main theme | nostalgia
 1989 kiki's delivery service
@@ -100,7 +100,7 @@
     (2) memories of murder
       factory lights
     (18) finding nemo
-      nemo egg (main title)
+      nemo egg
       haiku
   (jun) pirates of the caribbean: the curse of the black pearl
     the medallion calls
