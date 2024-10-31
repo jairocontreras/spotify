@@ -6,8 +6,12 @@ frédéric chopin
   no 4
   no 20, chord
 
+johannes brahms
+1865 waltz, op 39, no 15
+
 julián arcas
 1865 fantasia sobre motivos de "la traviata" de verdi ("fantasy on themes from 'the fallen woman' by verdi")
+1867 solea
 
 edvard grieg
 lyriske stykker ("lyric pieces")
@@ -121,6 +125,7 @@ luiz bonfá
 
 eduardo sainz de la maza
 1963 campanas del alba ("bells at dawn")
+1972 platero y yo ("platero and i") suite, no 7, la muerte ("death")
 
 emilio sojo
 1965 piezas de venezuela ("pieces from venezuela")
@@ -199,6 +204,7 @@ jorge cardoso
 philip glass
 1991 orphee, act 1, scene 5, la chambre d'orphee ("orphee's bedroom")
 1998 truman sleeps ("the truman show" movie)
+2002 the poet acts ("the hours" movie)
 
 jorge morel
 1992 suite del sur ("southern suite"), no 2, prelude, in memory of my wife olga
@@ -238,16 +244,22 @@ howard shore
 2001 (dec) may it be ("the lord of the rings: the fellowship of the ring" movie)
 
 gustavo santaolalla
-2004 lima ("the motorcycle diaries" movie)
+2004 (jan) lima ("the motorcycle diaries" movie)
+
+max richter
+2004 (feb) on the nature of daylight
 
 juan falú
 2007 yusberiana
 
-hans zimmer, john powell
-2008 oogway ascends ("kung fu panda" movie)
+hans zimmer
+2008 oogway ascends ("kung fu panda" movie) ft john powell
 
 jeremy soule
-2011 far horizons ("the elder scrolls v: skyrim" game)
+2011 (nov) far horizons ("the elder scrolls v: skyrim" game)
+
+ólafur arnalds
+2011 (dec) tomorrow's song
 
 karl vandu
 2020 (apr) nachklang ("echo")

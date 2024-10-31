@@ -14,6 +14,9 @@ antonio vivaldi
 christoph willibald gluck
 1774 orfeo ed euridice ("orpheus and eurydice"), melodie ("melody")
 
+franz schubert
+1828 schwanengesang ("swan song"), no 4, standchen ("serenade")
+
 frédéric chopin
 waltz
   1829 (no 10) op posth 69, no 2
@@ -21,7 +24,9 @@ waltz
 nocturne
   1832 op 9, no 2
   1837 (no 9) op 32, no 1
-  1844 (no 15) op 55, no 1
+  1844 op 55
+    (no 15) no 1
+    (no 16) no 2
   1875 no 20, op posth [comp 1830]
   1938 no 21, op posth [comp 1848]
 1835 etude (no 19), op 25, no 7, cello
@@ -29,6 +34,9 @@ nocturne
   no 4
   no 6
   no 20
+
+johannes brahms
+1865 waltz, op 39, no 15
 
 césar franck
 1873 lied ("song") | fwv 83
@@ -44,6 +52,7 @@ enrique granados
 1890 danzas españolas ("spanish dances"), op 37, no 2, oriental
 
 claude debussy
+1890 reverie ("daydream")
 1891 beau soir ("beautiful evening")
 1905 suite bergamasque, no 3, clair de lune ("moonlight")
 1910 prelude, book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
@@ -54,6 +63,9 @@ sergei rachmaninoff
 
 maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
+
+manuel ponce
+1912 estrellita ("little star")
 
 manuel de falla
 1914 canciones populares españolas ("spanish folksongs")
@@ -72,6 +84,9 @@ samuel barber
 dmitri shostakovich
 1957 piano concerto no 2, op 102, no 2
 
+simon & garfunkel
+1964 the sound of silence (wednesday morning, 3 a.m.)
+
 the beatles
 1967 within you without you (sgt. pepper's lonely hearts club band)
 1969 because (abbey road)
@@ -80,6 +95,9 @@ ennio morricone
 1968 theme ("once upon a time in the west" movie)
 1984 deborah's theme ("once upon a time in america" movie)
 2000 theme ("malèna" movie)
+
+john lennon
+1971 imagine (album)
 
 nino rota
 1972 love theme ("the godfather" movie) | speak softly love
@@ -98,6 +116,13 @@ ryuichi sakamoto
 
 the police
 1983 (may 20) every breath you take
+
+sting
+1987 fragile (nothing like the sun)
+1993 shape of my heart (ten summoner's tales)
+
+alan menken
+1991 theme ("beauty and the beast" movie)
 
 radiohead
 1992 creep
@@ -137,6 +162,9 @@ a winged victory for the sullen
 2011 (dec) near light
 2016 kinethesia i
 
+howard shore
+2012 misty mountains ("the hobbit: an unexpected journey" movie)
+
 chad lawson
 2014 (sep) nocturne (no 15), op 55, no 1 [rework] ft frédéric chopin
 
@@ -160,7 +188,7 @@ ludovico einaudi
 billie eilish
 2019 (mar 29) i love you (when we all fall asleep, where do we go?)
 
-damjan krajacic, robert thies
+robert thies
 2020 forest path
 
 edmund finnis
