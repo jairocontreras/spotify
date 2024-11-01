@@ -63,6 +63,7 @@ sergei rachmaninoff
 
 maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
+1928 bolero
 
 manuel ponce
 1912 estrellita ("little star")
@@ -135,6 +136,9 @@ kenji yamamoto
 
 yasunori mitsuda
 1995 main theme ("chrono trigger" game)
+
+secret garden
+1996 song from a secret garden
 
 valentin silvestrov
 2002 stille musik ("silent music"), no 2, abendserenade ("evening serenade")
