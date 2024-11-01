@@ -185,10 +185,10 @@ henry mancini
 francis lai
 1970 (dec) theme ("love story" movie)
 
-leslie bricusse
+anthony newley + leslie bricusse ft gene wilder
 1971 pure imagination ("willy wonka & the chocolate factory" movie)
 
-paul de senneville ft olivier toussaint
+olivier toussaint + paul de senneville
 1974 (nov) dolannes melodie ("dolannes melody") ("no pockets in a shroud" movie)
 1978
   a comme amour ("l as in love")
@@ -237,6 +237,7 @@ ryuichi sakamoto
 1999 opus
 2002 bolerish ("femme fatale" movie)
 2004 ending theme ("seven samurai 20xx" game)
+2005 fountain
 2022 ieta
 
 ennio morricone
@@ -330,18 +331,18 @@ ben lukas boysen
   eos
 2014 sleepers beat theme
 
-chad lawson
-2014 (sep) the chopin variations [rework] ft frédéric chopin
+chad lawson ft frédéric chopin
+2014 (sep) the chopin variations [rework]
   nocturne, op 9, no 2
   prelude, op 28
     no 6
     no 15
     no 20
 
-london piano consort
-2014 (nov) nocturne (no 13), op 48, no 1 [rework] ft frédéric chopin
+london piano consort ft frédéric chopin
+2014 (nov) nocturne (no 13), op 48, no 1 [rework]
 
-the weeknd
+stephan moccio ft the weeknd
 2015 (feb) earned it ("fifty shades of grey" movie)
 
 joep beving
@@ -363,16 +364,13 @@ joep beving
   little waltz
   transfiguration
 
-víkingur ólafsson
-2018 (oct 5) bach reworks - pt. 1 [rework] ft johann sebastian bach
+víkingur ólafsson ft johann sebastian bach
+2018 (oct 5) bach reworks - pt. 1 [rework]
   for johann | bwv 847
   and at the hour of death | bwv 846
 
-billie eilish
+finneas o'connell ft billie eilish
 2018 (oct 17) when the party's over
-
-jeroen van veen
-2019 fountain | frozen fountain [rework] ft ryuichi sakamoto
 
 lambert
 2020 (may 21) gdansk (single)
@@ -397,7 +395,7 @@ sophie hutchings
 jung jaeil
 2021 (sep 17) let's go out tonight ("squid game" series)
 
-patrik berg almkvisth / luchs
+patrik berg almkvisth
 2021 (nov) braddjup ("precipice") (single)
 
 rob burger
@@ -406,20 +404,19 @@ rob burger
 mark slater
 2022 (mar 18) descent
 
-alexandra stréliski
-2022 (mar 22) gnossienne no 1 [rework] ft erik satie
+alexandra stréliski ft erik satie
+2022 (mar 22) gnossienne no 1 [rework]
 
 bea boethius
 2022 (may) the first birds
 
 daigo hanada
-2022 (jul) muku ft hiroko murakami
+2022 ft hiroko murakami
+  (jul) muku
+  (dec) seis [rework]
 2023 journey through memories
   reminiscence
   hide away
-
-hiroko murakami
-2022 (dec) seis [rework] ft daigo hanada
 
 hania rani
 2023 on giacometti
