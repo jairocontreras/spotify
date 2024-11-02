@@ -18,6 +18,7 @@ piano sonata
     no 1
     no 2
   1801 no 14, op 27, quasi una fantasia ("in the manner of a fantasy"), no 2, no 1 | moonlight
+1812 symphony no 7, op 92, no 2
 
 john field
 1812 nocturne no 2
@@ -77,6 +78,7 @@ prelude
   1839 op 28
     no 4
     no 6
+    no 20
   1841 (no 25) op 45
   2014 op 28 [rework] ft chad lawson
     no 6
@@ -174,11 +176,20 @@ manuel blancafort
 george gurdjieff
 1924 untitled
 
+duke ellington
+1935 in a sentimental mood
+
+george gershwin
+1935 porgy and bess, summertime
+
 william grant still
 1935 visions, no 2, summerland
 
 samuel barber
 1936 string quartet, op 11, no 2, adagio
+
+jule styne ft frank sinatra
+1945 i fall in love too easily ("anchors aweigh" movie)
 
 francis poulenc
 1959
@@ -256,7 +267,9 @@ ennio morricone
 1988 cinema paradiso (movie)
   main theme
   love theme
-1998 nocturne with no moon ("the legend of 1900" movie)
+1998 the legend of 1900 (movie)
+  playing love
+  nocturne with no moon
 
 michael nyman
 1993 the heart asks pleasure first ("the piano" movie)
