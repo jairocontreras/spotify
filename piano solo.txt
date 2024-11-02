@@ -1,5 +1,8 @@
 johann sebastian bach
 1748 choralvorspiele ("chorale preludes"), no 9, "nun komm, der heiden heiland" ("now come, savior of the heathens") | bwv 659
+2018 das wohltemperirte clavier ("the well-tempered clavier"), book 1, no [x], prelude and fugue, no 1, prelude [rework] ft víkingur ólafsson
+  no 1 | bwv 846 | and at the hour of death
+  no 2 | bwv 847 | for johann
 
 domenico scarlatti
 1685–1757 keyboard sonata
@@ -58,6 +61,7 @@ nocturne
   1855 (no 19) op posth 72, no 1 [comp 1826]
   1875 no 20, op posth [comp 1830]
   1938 no 21, op posth [comp 1848]
+  2014 op 9, no 2 [rework] ft chad lawson
 piano sonata
   1837 no 2, op 35, no 3, marche funebre ("funeral march")
   1844 no 3, op 58, no 3
@@ -74,6 +78,10 @@ prelude
     no 4
     no 6
   1841 (no 25) op 45
+  2014 op 28 [rework] ft chad lawson
+    no 6
+    no 15
+    no 20
 1846 mazurka (no 41), op 63, no 3
 
 robert schumann
@@ -115,6 +123,7 @@ gnossienne
     no 3
   1891 no 4
   1968 no 5 [comp 1889]
+  2022 no 1 [rework] ft alexandra stréliski
 
 claude debussy
 1890 reverie ("daydream")
@@ -331,17 +340,6 @@ ben lukas boysen
   eos
 2014 sleepers beat theme
 
-chad lawson ft frédéric chopin
-2014 (sep) the chopin variations [rework]
-  nocturne, op 9, no 2
-  prelude, op 28
-    no 6
-    no 15
-    no 20
-
-london piano consort ft frédéric chopin
-2014 (nov) nocturne (no 13), op 48, no 1 [rework]
-
 stephan moccio ft the weeknd
 2015 (feb) earned it ("fifty shades of grey" movie)
 
@@ -364,13 +362,8 @@ joep beving
   little waltz
   transfiguration
 
-víkingur ólafsson ft johann sebastian bach
-2018 (oct 5) bach reworks - pt. 1 [rework]
-  for johann | bwv 847
-  and at the hour of death | bwv 846
-
 finneas o'connell ft billie eilish
-2018 (oct 17) when the party's over
+2018 when the party's over
 
 lambert
 2020 (may 21) gdansk (single)
@@ -402,10 +395,7 @@ rob burger
 2022 (jan) night feet (single)
 
 mark slater
-2022 (mar 18) descent
-
-alexandra stréliski ft erik satie
-2022 (mar 22) gnossienne no 1 [rework]
+2022 (mar) descent
 
 bea boethius
 2022 (may) the first birds

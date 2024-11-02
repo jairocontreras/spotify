@@ -9,7 +9,9 @@ pieces de viole ("violin pieces")
   1725 book 5, no 16, prelude en harpegement ("prelude in harp")
 
 antonio vivaldi
-1723 le quattro stagioni ("the four seasons"), concerto no 1, op 8, la primavera ("spring"), no 2
+le quattro stagioni ("the four seasons")
+  1723 concerto no 1, op 8, la primavera ("spring"), no 2
+  2012 concerto no 3, op 8, l'autunno ("autumn"), no 3 [rework] ft max richter
 
 christoph willibald gluck
 1774 orfeo ed euridice ("orpheus and eurydice"), melodie ("melody")
@@ -29,6 +31,7 @@ nocturne
     (no 16) no 2
   1875 no 20, op posth [comp 1830]
   1938 no 21, op posth [comp 1848]
+  2014 (no 15), op 55, no 1 [rework] ft chad lawson
 1835 etude (no 19), op 25, no 7, cello
 1839 prelude, op 28
   no 4
@@ -143,7 +146,6 @@ valentin silvestrov
 
 max richter
 2004 on the nature of daylight
-2012 le quattro stagioni ("the four seasons"), concerto no 3, op 8, l'autunno ("autumn"), no 3 [rework] ft antonio vivaldi
 
 garry schyman
 2007 the ocean on his shoulders ("bioshock" game)
@@ -167,11 +169,8 @@ a winged victory for the sullen
 howard shore ft richard armitage
 2012 misty mountains ("the hobbit: an unexpected journey" movie)
 
-chad lawson ft frédéric chopin
-2014 (sep) nocturne (no 15), op 55, no 1 [rework]
-
 petter udland johansen
-2014 (nov) meditation ii
+2014 meditation ii
 
 sophie hutchings
 2016 (jul) grace
