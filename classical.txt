@@ -9,9 +9,8 @@ pieces de viole ("violin pieces")
   1725 book 5, no 16, prelude en harpegement ("prelude in harp")
 
 antonio vivaldi
-le quattro stagioni ("the four seasons")
-  1723 concerto no 1, op 8, la primavera ("spring"), no 2
-  2012 concerto no 3, op 8, l'autunno ("autumn"), no 3 [rework] ft max richter
+1723 le quattro stagioni ("the four seasons"), concerto no 1, op 8, la primavera ("spring"), no 2
+2012 le quattro stagioni ("the four seasons"), concerto no 3, op 8, l'autunno ("autumn"), no 3 [rework] ft max richter
 
 johann sebastian bach
 1725 prelude | bwv 999
@@ -34,13 +33,13 @@ nocturne
     (no 16) no 2
   1875 no 20, op posth [comp 1830]
   1938 no 21, op posth [comp 1848]
-  2014 (no 15) op 55, no 1 [rework] ft chad lawson
 1835 etude (no 19), op 25, no 7, cello
 prelude
   1839 op 28
     no 4
     no 6
     no 20
+2014 nocturne (no 15), op 55, no 1 [rework] ft chad lawson
 
 johannes brahms
 1865 waltz, op 39, no 15
@@ -91,17 +90,22 @@ samuel barber
 1936 string quartet, op 11, no 2, adagio
 
 dmitri shostakovich
+1956 suite for variety orchestra no 1, no 7, waltz no 2
 1957 piano concerto no 2, op 102, no 2
 
 simon & garfunkel
 1964 the sound of silence (wednesday morning, 3 a.m.)
 
 the beatles
+1965 yesterday (help!)
 1967 within you without you (sgt. pepper's lonely hearts club band)
 1969 because (abbey road)
 
 john lennon
 1971 imagine (album)
+
+john tavener
+1981 funeral ikos
 
 ryuichi sakamoto
 1983 (may 10) theme ("merry christmas, mr. lawrence" movie)

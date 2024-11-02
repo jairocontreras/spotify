@@ -1,7 +1,5 @@
 1962 lawrence of arabia
   overture (theme)
-1965 help!
-  yesterday
 1967 you only live twice
   theme
   capsule in space
@@ -64,8 +62,11 @@
     theme
   (nov) unbreakable
     survivor
-2001 spirited away
-  one summer's day
+2001
+  (may) the mummy returns
+    theme
+  (jul) spirited away
+    one summer's day
 2002
   (apr) femme fatale
     bolerish

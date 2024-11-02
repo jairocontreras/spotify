@@ -62,7 +62,6 @@ nocturne
   1855 (no 19) op posth 72, no 1 [comp 1826]
   1875 no 20, op posth [comp 1830]
   1938 no 21, op posth [comp 1848]
-  2014 op 9, no 2 [rework] ft chad lawson
 piano sonata
   1837 no 2, op 35, no 3, marche funebre ("funeral march")
   1844 no 3, op 58, no 3
@@ -80,11 +79,13 @@ prelude
     no 6
     no 20
   1841 (no 25) op 45
-  2014 op 28 [rework] ft chad lawson
+1846 mazurka (no 41), op 63, no 3
+2014 the chopin variations [rework] ft chad lawson
+  nocturne, op 9, no 2
+  prelude, op 28
     no 6
     no 15
     no 20
-1846 mazurka (no 41), op 63, no 3
 
 robert schumann
 1835 carnaval ("carnival"), op 9, no 12, chopin
@@ -125,7 +126,7 @@ gnossienne
     no 3
   1891 no 4
   1968 no 5 [comp 1889]
-  2022 no 1 [rework] ft alexandra stréliski
+2022 gnossienne no 1 [rework] ft alexandra stréliski
 
 claude debussy
 1890 reverie ("daydream")
