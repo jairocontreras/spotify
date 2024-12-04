@@ -1,59 +1,39 @@
-1961 stand by me
-1969 here comes the sun (abbey road)
-1971 ain't no sunshine (just as i am)
 1972 superstition
-1975 bohemian rhapsody
 1976 hotel california (album)
-1977 saturday night fever (movie)
-  stayin' alive
-  how deep is your love
+1977 stayin' alive ("saturday night fever" movie)
 1979 don't stop 'til you get enough
 1980 another one bites the dust (the game)
 1981 endless love (movie)
-1982
-  (sep) mad world
-  (nov) thriller
-    thriller
-    billie jean
-      [2022]
-      [2023]
-1987
-  (jul) sweet child o' mine (appetite for destruction)
-  (aug) smooth criminal (bad)
+1982 thriller
+  thriller
+  billie jean
+1987 smooth criminal (bad)
 1992 creep
 1993 shape of my heart (ten summoner's tales)
-  [2022]
-  [2023]
 1997 make you feel my love (time out of mind)
 1999
   (jun) you'll be in my heart ("tarzan" movie)
   (sep) drizzle ("age of empires ii: the age of kings" game)
   (nov) still d.r.e.
-2000
-  (apr) the real slim shady
-  (oct) in the end (hybrid theory)
+2000 in the end (hybrid theory)
 2001
+  (jan) mad world ("donnie darko" movie)
   (jul) one summer's day | the name of life ("spirited away" movie)
   (sep) taijiya sango ("inuyasha" series)
-  (dec) may it be ("the lord of the rings: the fellowship of the ring" movie)
 2002
   (feb) don't know why
   (jun) this love (songs about jane)
   (aug) clocks (a rush of blood to the head)
-  (nov) cry me a river (justified)
-    [2021]
-    [2023]
-2003
-  (mar) numb (meteora)
-  (jul) señorita
+  (nov) justified
+    señorita
+    cry me a river
+      [2021]
+      [2023]
+2003 numb (meteora)
 2004
-  (feb) i don't wanna know | creepin'
-    [2022]
-    [2023]
+  (feb) i don't wanna know
   (sep) you're in love ("howl's moving castle" movie)
-  (oct)
-    (4) let me love you
-    (11) you're beautiful (back to bedlam)
+  (oct) you're beautiful (back to bedlam)
 2005 winter, spring, summer and fall | four seasons, four loves ("avatar: the last airbender" series)
 2006
   (mar) crazy
@@ -64,9 +44,7 @@
 2008 viva la vida
 2010
   (mar) this is berk ("how to train your dragon" movie)
-  (jul) just the way you are
   (sep) grenade
-  (oct) talking to the moon (doo-wops & hooligans)
 2011 somebody that i used to know
 2012
   (sep) demons (night visions)
@@ -77,42 +55,26 @@
   (dec) treasure (unorthodox jukebox)
 2013
   (feb) mirrors
-  (apr) get lucky
   (may) cool kids
-    [2022]
-    [2024]
   (sep) take me to church
-    [2021]
-    [2023]
 2014 a sky full of stars
 2014 (jun)
   (3) let it go (ep)
-    [2020]
-    [2024]
   (20) photograph
 2015
   (feb) where are ü now (skrillex and diplo present jack ü)
   (apr)
     (1) see you again ("furious 7" movie)
     (7) the night we met (strange trails)
-    (28) stressed out
   (jun) 7 years (lukas graham)
   (nov) love yourself (purpose)
 2016
-  (jan)
-    (27) work
-    (28) love on the brain (anti)
+  (jan) love on the brain (anti)
   (jul) closer
   (aug)
     (1) heathens ("suicide squad" movie)
     (20) pink + white (blonde)
-      [2020]
-      [2023]
-  (sep)
-    (9) say you won't let go
-    (21) starboy
-      [2023]
-      [2024]
+  (sep) starboy
   (oct) 24k magic
   (nov)
     (17)
@@ -123,12 +85,7 @@
   (dec) congratulations (stoney)
 2017
   (jan) shape of you
-    [2020]
-    [2021]
   (mar) passionfruit (more life)
-    [2021]
-    [2023]
-  (apr) attention
   (jun) wild thoughts
   (aug) havana
   (sep) rockstar
@@ -137,25 +94,14 @@
   (apr) better now (beerbongs & bentleys)
   (nov) someone you loved
   (dec) sunflower ("spider-man: into the spider-verse" movie)
-    [2020]
-    [2024]
 2019
   (feb) please me
   (nov)
     (13) everything i wanted
-      [2021]
-      [2022]
     (29) blinding lights
-2020
-  (feb) heartbreak anniversary
-    [jun]
-    [aug]
-  (mar) save your tears (after hours)
-  (aug 14)
-    laugh now cry later
-      [2022]
-      [2023]
-    lemonade
+2020 (aug 14)
+  laugh now cry later
+  lemonade
 2021
   (mar)
     (5) leave the door open
@@ -165,5 +111,3 @@
   (jul) nda
   (nov) enemy ("arcane" series)
 2022 as it was
-  [jun]
-  [sep]
