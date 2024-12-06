@@ -4,12 +4,17 @@
 1979 don't stop 'til you get enough
 1980 another one bites the dust (the game)
 1981 endless love (movie)
-1982 thriller
-  thriller
-  billie jean
+1982
+  (apr) africa (toto iv)
+  (nov) thriller
+    thriller
+    billie jean
+1983 jump
 1987 smooth criminal (bad)
 1992 creep
-1993 shape of my heart (ten summoner's tales)
+1993
+  (jan) what is love
+  (mar) shape of my heart (ten summoner's tales)
 1997 make you feel my love (time out of mind)
 1999
   (jun) you'll be in my heart ("tarzan" movie)
@@ -42,10 +47,15 @@
   (dec) leaves from the vine ("avatar: the last airbender" season 2)
 2007 apologize (shock value)
 2008 viva la vida
+2009 whataya want from me
+  [2020]
+  [2024]
 2010
   (mar) this is berk ("how to train your dragon" movie)
   (sep) grenade
-2011 somebody that i used to know
+2011
+  (jun) stereo hearts
+  (jul) somebody that i used to know
 2012
   (sep) demons (night visions)
   (oct)
@@ -66,7 +76,9 @@
   (apr)
     (1) see you again ("furious 7" movie)
     (7) the night we met (strange trails)
-  (jun) 7 years (lukas graham)
+  (jun)
+    (8) can't feel my face
+    (16) 7 years (lukas graham)
   (nov) love yourself (purpose)
 2016
   (jan) love on the brain (anti)
@@ -92,8 +104,17 @@
 2018
   (mar) moonlight ("?")
   (apr) better now (beerbongs & bentleys)
-  (nov) someone you loved
-  (dec) sunflower ("spider-man: into the spider-verse" movie)
+  (may) heat waves
+    [2022]
+    [2024]
+  (nov)
+    (3) thank u, next
+      [2020]
+      [2023]
+    (8) someone you loved
+  (dec)
+    (1) sunflower ("spider-man: into the spider-verse" movie)
+    (24) wow
 2019
   (feb) please me
   (nov)
@@ -108,6 +129,7 @@
     (19) justice
       ghost
       peaches
+  (apr) deja vu
   (jul) nda
   (nov) enemy ("arcane" series)
 2022 as it was
