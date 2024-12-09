@@ -5,6 +5,7 @@
 1945 i fall in love too easily [cover] ("anchors aweigh" movie)
 1951 unforgettable
 1953 blue gardenia [cover] (movie)
+1959 beyond the sea [cover] (that's all)
 1960 verano [cover]
 1964 wednesday morning, 3 a.m.
   sparrow
@@ -13,7 +14,9 @@
   (jul) yesterday ("help!" movie)
   (dec) michelle (rubber soul)
 1968 blackbird [cover] (the beatles)
-1969 helplessly hoping [cover] (crosby, stills & nash)
+1969
+  (may) helplessly hoping [cover] (crosby, stills & nash)
+  (sep) because [cover] (abbey road)
 1971
   (jan) what's going on [cover]
   (nov)
@@ -25,6 +28,7 @@
   (aug) landslide (live)
   (oct) dust in the wind [cover] (point of know return)
 1982 mad world [cover]
+1987 fragile (nothing like the sun) [my songs]
 1992 creep [cover]
 1993 shape of my heart (ten summoner's tales)
 1994
@@ -47,7 +51,7 @@
 2014 georgia (dream your life away)
 2015
   (feb)
-    (9) earned it [beauty behind the madness] ("fifty shades of grey" movie)
+    (9) earned it ("fifty shades of grey" movie) [beauty behind the madness]
     (16) no shade in the shadow of the cross
   (mar)
     (11) should have known better
