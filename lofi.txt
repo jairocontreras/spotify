@@ -1,6 +1,8 @@
 1972 superstition
 1976 hotel california (album)
-1977 stayin' alive ("saturday night fever" movie)
+1977
+  (nov) wonderful tonight (slowhand)
+  (dec) stayin' alive ("saturday night fever" movie)
 1979 don't stop 'til you get enough
 1980 another one bites the dust (the game)
 1981 endless love (movie)
@@ -10,7 +12,9 @@
     thriller
     billie jean
 1983 jump
-1987 smooth criminal (bad)
+1987
+  (jul) sweet child o' mine (appetite for destruction)
+  (aug) smooth criminal (bad)
 1992 creep
 1993
   (jan) what is love
@@ -18,7 +22,10 @@
 1997 make you feel my love (time out of mind)
 1999
   (jun) you'll be in my heart ("tarzan" movie)
-  (sep) drizzle ("age of empires ii: the age of kings" game)
+  (sep) age of empires ii: the age of kings (game)
+    drizzle
+    ride, lawrence, ride!
+    operation: monkey
   (nov) still d.r.e.
 2000 in the end (hybrid theory)
 2001
@@ -46,6 +53,7 @@
   (mar) crazy
     [2021]
     [2022]
+  (jun) say it right (loose)
   (dec) leaves from the vine ("avatar: the last airbender" season 2)
 2007 apologize (shock value)
 2008 viva la vida
@@ -103,11 +111,15 @@
   (jan) shape of you
   (mar) passionfruit (more life)
   (jun) wild thoughts
-  (aug) havana
+  (aug)
+    (3) havana
+    (25) best part (freudian)
   (sep) rockstar
 2018
   (mar) moonlight ("?")
-  (apr) better now (beerbongs & bentleys)
+  (apr)
+    (12) youngblood
+    (27) better now (beerbongs & bentleys)
   (may) heat waves
     [2022]
     [2024]
