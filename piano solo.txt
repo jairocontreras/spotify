@@ -1,8 +1,5 @@
 johann sebastian bach
 1748 choralvorspiele ("chorale preludes"), no 9, "nun komm, der heiden heiland" ("now come, savior of the heathens") | bwv 659
-2018 das wohltemperirte clavier ("the well-tempered clavier"), book 1, no [x], prelude and fugue, no 1, prelude [rework] ft víkingur ólafsson
-  no 1 | bwv 846 | and at the hour of death
-  no 2 | bwv 847 | for johann
 
 domenico scarlatti
 1685–1757 keyboard sonata
@@ -62,6 +59,8 @@ nocturne
   1855 (no 19) op posth 72, no 1 [comp 1826]
   1875 no 20, op posth [comp 1830]
   1938 no 21, op posth [comp 1848]
+1834 andante spianato et grande polonaise brillante ("smooth andante and great brilliant polonaise"), op 22, no 1
+1835 ballade no 1, op 23
 piano sonata
   1837 no 2, op 35, no 3, marche funebre ("funeral march")
   1844 no 3, op 58, no 3
@@ -80,15 +79,10 @@ prelude
     no 20
   1841 (no 25) op 45
 1846 mazurka (no 41), op 63, no 3
-2014 the chopin variations [rework] ft chad lawson
-  nocturne, op 9, no 2
-  prelude, op 28
-    no 6
-    no 15
-    no 20
 
 robert schumann
 1835 carnaval ("carnival"), op 9, no 12, chopin
+1838 kreisleriana, op 16, no 3, sehr aufgeregt ("very agitated")
 
 franz liszt
 1850
@@ -126,7 +120,6 @@ gnossienne
     no 3
   1891 no 4
   1968 no 5 [comp 1889]
-2022 gnossienne no 1 [rework] ft alexandra stréliski
 
 claude debussy
 1890 reverie ("daydream")
@@ -189,10 +182,16 @@ william grant still
 samuel barber
 1936 string quartet, op 11, no 2, adagio
 
+alberto ginastera
+1937 danzas argentinas ("argentine dances"), op 2, no 2, danza de la moza donosa ("dance of the graceful girl")
+
 francis poulenc
 1959
   improvisation no 13
   novelette no 3, sur un theme de manuel de falla tire de "el amor brujo" ("on a theme by manuel de falla from 'love bewitched'")
+
+antônio carlos jobim
+1962 garota de ipanema ("the girl from ipanema")
 
 the beatles
 1969 across the universe (no one's gonna change our world)
@@ -203,10 +202,10 @@ henry mancini
 francis lai
 1970 (dec) theme ("love story" movie)
 
-anthony newley + leslie bricusse ft gene wilder
-1971 pure imagination ("willy wonka & the chocolate factory" movie)
+anthony newley; leslie bricusse
+1971 pure imagination ("willy wonka & the chocolate factory" movie) ft. gene wilder
 
-olivier toussaint + paul de senneville
+olivier toussaint; paul de senneville
 1974 (nov) dolannes melodie ("dolannes melody") ("no pockets in a shroud" movie)
 1978
   a comme amour ("l as in love")
@@ -307,9 +306,8 @@ tarō iwashiro
 dustin o'halloran
 2004 opus 28
 
-hans zimmer
-2008 oogway ascends ("kung fu panda" movie) ft john powell
-2014 message from home ("interstellar" movie)
+hans zimmer; john powell
+2008 oogway ascends ("kung fu panda" movie)
 
 nils frahm
 2009 (dec 7) ambre
@@ -323,9 +321,6 @@ nils frahm
     ode
     some
     merry
-2016 trance frendz ft ólafur arnalds
-  20:17
-  21:05
 2021
   (mar) because this must be
   (dec) late
@@ -347,8 +342,19 @@ ben lukas boysen
   eos
 2014 sleepers beat theme
 
-stephan moccio ft the weeknd
-2015 (feb) earned it ("fifty shades of grey" movie)
+chad lawson
+2014 (sep) the chopin variations [rework] ft frédéric chopin
+  nocturne, op 9, no 2
+  prelude, op 28
+    no 6
+    no 15
+    no 20
+
+hans zimmer
+2014 (nov) message from home ("interstellar" movie)
+
+stephan moccio
+2015 (feb) earned it ("fifty shades of grey" movie) ft. the weeknd
 
 joep beving
 2015 (mar) solipsism
@@ -369,11 +375,21 @@ joep beving
   little waltz
   transfiguration
 
+nils frahm; ólafur arnalds
+2016 trance frendz
+  20:17
+  21:05
+
 luke faulkner
 2018 (jan) equinox
 
-finneas o'connell ft billie eilish
-2018 (oct) when the party's over
+víkingur ólafsson
+2018 (oct 5) das wohltemperirte clavier ("the well-tempered clavier"), book 1, no [x], prelude and fugue, no 1, prelude | bach reworks (pt. 1) [rework] ft johann sebastian bach
+  no 1 | bwv 846 | and at the hour of death
+  no 2 | bwv 847 | for johann
+
+finneas o'connell
+2018 (oct 17) when the party's over ft. billie eilish
 
 lambert
 2020 (may 21) gdansk (single)
@@ -405,15 +421,19 @@ rob burger
 2022 (jan) night feet (single)
 
 mark slater
-2022 (mar) descent
+2022 (mar 18) descent
+
+alexandra stréliski
+2022 (mar 22) gnossienne no 1 [rework] ft erik satie
 
 bea boethius
 2022 (may) the first birds
 
+daigo hanada; hiroko murakami
+2022 (jul) muku
+
 daigo hanada
-2022 ft hiroko murakami
-  (jul) muku
-  (dec) seis [rework]
+2022 (dec) seis [rework] ft hiroko murakami
 2023 journey through memories
   reminiscence
   hide away

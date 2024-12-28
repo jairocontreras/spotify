@@ -1,5 +1,5 @@
 1962 lawrence of arabia
-  overture (theme)
+  overture | theme
 1967 you only live twice
   theme
   capsule in space
@@ -31,6 +31,8 @@
     the legend of the wind
   (may) once upon a time in america
     deborah's theme
+1985 back to the future
+  overture | theme
 1986 the mission
   gabriel's oboe
 1987 the last emperor
