@@ -13,6 +13,7 @@
 1965
   (jul) yesterday ("help!" movie)
   (dec) michelle (rubber soul)
+1967 within you without you (sgt. pepper's lonely hearts club band)
 1968 blackbird [cover] (the beatles)
 1969
   (may) helplessly hoping [cover] (crosby, stills & nash)
@@ -20,15 +21,15 @@
 1971
   (jan) what's going on [cover]
   (nov)
-    (1) danny's song (sittin' in)
-    (8) going to california [cover] (led zeppelin iv)
+    (01) danny's song (sittin' in)
+    (08) going to california [cover] (led zeppelin iv)
 1972 time in a bottle [cover] (you don't mess around with jim)
 1974 pick up the pieces
 1977
   (aug) landslide (live)
   (oct) dust in the wind [cover] (point of know return)
 1982 mad world [cover]
-1987 fragile (nothing like the sun) [my songs]
+1987 fragile [my songs] (nothing like the sun)
 1992 creep [cover]
 1993 shape of my heart (ten summoner's tales)
 1994
@@ -36,23 +37,31 @@
   (sep) big poppa (ready to die)
 1996 change the world ("phenomenon" movie)
 1998 i just don't think i'll ever get over you (transcendental highway)
+2000 in the end [cover] (hybrid theory)
 2001 creole (songs from the analog playground)
+2003 the reason (album)
 2004
   (sep) la camisa negra (mi sangre)
   (oct) let me love you [acoustic]
   (dec) ordinary people (get lifted)
-2005 winter, spring, summer and fall ("avatar: the last airbender" series)
+2005
+  (nov) lonely day (hypnotize)
+  (dec) winter, spring, summer and fall ("avatar: the last airbender" series)
 2007 (oct)
-  (2) electric feel [cover] (oracular spectacular)
+  (02) electric feel [cover] (oracular spectacular)
   (10) weird fishes [cover] (in rainbows)
-2009 and it's alright [remix] (erased tapes collection ii)
+2008 and it's alright [remix] (home)
 2011 paradise [cover]
 2012 boyfriend [acoustic]
-2013 up down (do this all day)
-2014 georgia (dream your life away)
+2013
+  (feb) lay me down [remix]
+  (aug) up down (do this all day)
+2014
+  (jun) let it go (ep)
+  (sep) georgia (dream your life away)
 2015
   (feb)
-    (9) earned it ("fifty shades of grey" movie) [beauty behind the madness]
+    (09) earned it [beauty behind the madness] ("fifty shades of grey" movie)
     (16) no shade in the shadow of the cross
   (mar)
     (11) should have known better
@@ -70,25 +79,31 @@
 2017
   (jan) (no one knows me) like the piano
   (feb)
-    (3) trust the sun (little fictions)
+    (03) trust the sun (little fictions)
     (22) boo'd up (ready)
   (apr)
     (14) love (damn)
     (21) attention
-  (may) from the dining table (harry styles)
+  (may)
+    (12) from the dining table (harry styles)
+    (19) one more light (album)
   (sep)
+    (08) too good at goodbyes [acoustic]
     (15) rockstar
     (22) self-help tape (aromanticism)
 2018
   (feb)
-    (9) plug walk
+    (09) plug walk
     (23) psycho
-  (mar) call out my name (my dear melancholy)
+  (mar)
+    (13) lucid dreams (9 9 9)
+    (30) call out my name (my dear melancholy)
   (jun)
-    (4) don't miss it
+    (04) don't miss it
     (29) don't matter to me (scorpion)
   (sep) shrike (nina cried power)
   (oct) when the party's over
+  (nov) someone you loved
   (dec) sunflower ("spider-man: into the spider-verse" movie)
 2019
   (jan) i'll come too (assume form)
@@ -107,18 +122,20 @@
   (aug)
     (13) take care of you
     (14) lemonade
-  (oct) still your best (when it's all said and done)
+  (oct)
+    (02) still your best (when it's all said and done)
+    (30) essence [remix] (made in lagos)
 2021
   (mar) peaches (justice)
   (jul)
-    (9) even is the lie (alpha)
+    (09) even is the lie (alpha)
     (23) coloratura
-  (aug) essence [remix]
 2022
   (feb) sus huellas
   (may)
-    (6) party (un verano sin ti)
+    (06) party (un verano sin ti)
     (20) love of my life (harry's house)
+  (dec) breaking point [remix]
 2023
   (mar)
     (17) ribbons
@@ -127,21 +144,19 @@
     bye
     the bridge (petals to thorns)
   (jun)
-    (1)
+    (01)
       bzrp music sessions, vol. 55
       sprinter
     (16) violence (everything was green)
     (22) lagunas (génesis)
     (23) too young to die (supernatural thing)
-  (jul)
-    (21)
-      famous last words (an ode to eaters)
-      k-pop
-      prime years (the summer i lost my lover)
-    (28) breaking point [remix]
+  (jul 21)
+    famous last words (an ode to eaters)
+    k-pop
+    prime years (the summer i lost my lover)
   (aug)
-    (4) left 4 dead
-    (9) you already know [demo]
+    (04) left 4 dead
+    (09) you already know [demo]
     (14) so you are tired
     (25) meridian
     (26) ice slippin
@@ -151,11 +166,11 @@
   (oct) excesos (pa las baby's y belikeada)
   (nov) daily duppy
   (dec)
-    (7) bubba
+    (07) bubba
     (28) rompe la dompe
 2024
   (feb)
-    (9) tu name (dolido pero no arrepentido)
+    (09) tu name (dolido pero no arrepentido)
     (23) cutting thru the country
   (mar)
     (14) low sun
@@ -167,6 +182,6 @@
     (10) giza
     (26) i'd rather pretend (vanity)
   (aug)
-    (9) dream
+    (09) dream
     (23) crooked the road
     (27) august
