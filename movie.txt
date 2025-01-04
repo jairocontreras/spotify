@@ -10,8 +10,8 @@
     welcome to jurassic park
   (nov) schindler's list
     theme
-    remembrances
     theme (reprise)
+    remembrances
 1995 braveheart
   main title
   a gift of a thistle
@@ -21,6 +21,8 @@
     malcolm's journey
   (sep) fireworks
     hana-bi
+1998 the mask of zorro
+  theme
 1999 the mummy
   giza port
 2000
@@ -56,6 +58,8 @@
       the story foretold
     (25) the hours
       the poet acts
+      i'm going to make a cake
+      an unwelcome friend
 2003
   (may)
     (2) memories of murder
@@ -95,6 +99,8 @@
     macrotus
     corynorhinus
     lasiurus
+  (oct) the legend of zorro
+    my family is my life
   (nov) memoirs of a geisha
     sayuri's theme
     chiyo's prayer
@@ -112,9 +118,13 @@
   blood on my hands
   watch the world burn
   halfway to hong kong
-2009 up
-  stuff we did
-  the ellie badge
+2009
+  (may) up
+    stuff we did
+    the ellie badge
+  (dec) sherlock holmes
+    data, data, data
+    catatonic
 2010
   (mar) how to train your dragon
     this is berk
@@ -126,9 +136,14 @@
     old souls
   (nov) tron: legacy
     overture
-2011 jane eyre
-  the end of childhood
-  in jest or earnest
+2011
+  (mar) jane eyre
+    the end of childhood
+    in jest or earnest
+  (jun) game of thrones (series)
+    the king's arrival
+  (jul) captain america: the first avenger
+    theme
 2012
   (jun) game of thrones (season 2)
     warrior of light
@@ -155,6 +170,8 @@
   (feb) victoria
     our own roof
     them
+  (jun) game of thrones (season 5)
+    forgive me
   (dec) the revenant
     hell ensemble
 2016
@@ -169,13 +186,17 @@
       winter has come
       hear me roar
       i need you by my side
-
-2017 blade runner 2049
-  2049
-  wallace
-  someone lived this
-  her eyes were green
-  all the best memories are hers
+2017
+  (aug) game of thrones (season 7)
+    see you for what you are
+  (oct) blade runner 2049
+    2049
+    wallace
+    someone lived this
+    her eyes were green
+    all the best memories are hers
+2018 spider-man: into the spider-verse
+  saying goodbye
 2019
   (aug) joker
     a bad comedian
@@ -192,11 +213,14 @@
 2022 the lord of the rings: the rings of power (series)
   where the shadows lie
   durin iv
-2023 (may)
-  (18) indiana jones and the dial of destiny
-    to athens
-  (30) spider-man: across the spider-verse
-    under the clocktower
-    i beat them all
-    father and son
-    triumph
+2023
+  (may)
+    (18) indiana jones and the dial of destiny
+      to athens
+    (30) spider-man: across the spider-verse
+      under the clocktower
+      i beat them all
+      father and son
+      triumph
+  (aug) the equalizer 3
+    first walk
