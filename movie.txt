@@ -93,6 +93,8 @@
     one last look
     the letter that never came
 2005
+  (feb) avatar: the last airbender (series)
+    iroh's tsungi horn
   (may) batman begins
     eptesicus
     barbastella
@@ -109,8 +111,6 @@
     as the water
     confluence
     a dream discarded
-  (dec) avatar: the last airbender (series)
-    iroh's tsungi horn
 2006 pirates of the caribbean: dead man's chest
   hello beastie
 2008 the dark knight
@@ -140,12 +140,12 @@
   (mar) jane eyre
     the end of childhood
     in jest or earnest
-  (jun) game of thrones (series)
+  (apr) game of thrones (series)
     the king's arrival
   (jul) captain america: the first avenger
     theme
 2012
-  (jun) game of thrones (season 2)
+  (apr) game of thrones (season 2)
     warrior of light
     winterfell
   (sep)
@@ -170,24 +170,23 @@
   (feb) victoria
     our own roof
     them
-  (jun) game of thrones (season 5)
+  (apr) game of thrones (season 5)
     forgive me
   (dec) the revenant
     hell ensemble
 2016
   (mar) batman v superman: dawn of justice
     day of the dead
-  (jun)
-    (8) finding dory
-      everything about you
-    (26) game of thrones (season 6)
-      light of the seven
-      my watch has ended
-      winter has come
-      hear me roar
-      i need you by my side
+  (apr) game of thrones (season 6)
+    light of the seven
+    my watch has ended
+    winter has come
+    hear me roar
+    i need you by my side
+  (jun) finding dory
+    everything about you
 2017
-  (aug) game of thrones (season 7)
+  (jul) game of thrones (season 7)
     see you for what you are
   (oct) blade runner 2049
     2049
