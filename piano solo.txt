@@ -21,6 +21,7 @@ john field
 1812 nocturne no 2
 
 franz schubert
+1827 impromptu, op 90, no 3
 1828 schwanengesang ("swan song"), no 4, standchen ("serenade")
 
 felix mendelssohn
@@ -100,6 +101,7 @@ johannes brahms
 edvard grieg
 lyriske stykker ("lyric pieces")
   1867 book 1, op 12, no 1, arietta
+  1886 (no 22) book 3, op 43, no 6, til foraret ("to spring")
   1888 (no 25) book 4, op 47, no 3, melodi ("melody")
 1876 peer gynt, op 23, act 4, no 4, anitras dans ("anitra's dance") | suite no 1, op 46, no 3
 
@@ -251,7 +253,9 @@ ryuichi sakamoto
 1995 smoochy
   bibo no aozora ("beautiful blue sky")
   aoneko no torso ("torso of a blue cat")
-1999 opus
+1999 bttb
+  opus
+  energy flow
 2002 bolerish ("femme fatale" movie)
 2004 ending theme ("seven samurai 20xx" game)
 2005 fountain
