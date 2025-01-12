@@ -125,19 +125,8 @@ john tavener
 astor piazzolla
 1982 oblivion
 
-ryuichi sakamoto
-1983 (may 10) theme ("merry christmas, mr. lawrence" movie)
-1987 theme ("the last emperor" movie)
-1995 smoochy
-  bibo no aozora ("beautiful blue sky")
-  aoneko no torso ("torso of a blue cat")
-2004
-  (jan) ending theme ("seven samurai 20xx" game)
-  (nov) tamago ("egg")
-2014 blu
-
 sting
-1983 (may 20) every breath you take ft. the police
+1983 every breath you take ft. the police
 1987 fragile (nothing like the sun)
 1993 ten summoner's tales
   fields of gold
@@ -153,7 +142,16 @@ kenji yamamoto; minako hamano
 1994 (mar) theme ("super metroid" game)
 
 yasunori mitsuda
-1995 theme ("chrono trigger" game)
+1995 (mar) theme ("chrono trigger" game)
+
+ryuichi sakamoto
+1995 (oct) smoochy
+  bibo no aozora ("beautiful blue sky")
+  aoneko no torso ("torso of a blue cat")
+2004
+  (jan) ending theme ("seven samurai 20xx" game)
+  (nov) tamago ("egg")
+2014 blu
 
 secret garden
 1996 (apr) song from a secret garden
@@ -224,12 +222,10 @@ bradley cooper; lady gaga
 
 finneas o'connell
 2018 (oct) when the party's over ft. billie eilish
+2019 i love you (when we all fall asleep, where do we go?) ft. billie eilish
 
 ludovico einaudi
-2019 (mar 15) seven days walking, day 1, fox tracks
-
-finneas o'connell
-2019 (mar 29) i love you (when we all fall asleep, where do we go?) ft. billie eilish
+2019 seven days walking, day 1, fox tracks
 
 damjan krajacic; robert thies
 2020 forest path

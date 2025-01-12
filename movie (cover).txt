@@ -26,6 +26,8 @@
   rachel's song
 1983 merry christmas, mr. lawrence
   theme
+    [2012]
+    [2016]
 1984
   (mar) nausicaä of the valley of the wind
     the legend of the wind
@@ -37,6 +39,8 @@
   gabriel's oboe
 1987 the last emperor
   theme | endroll
+    [2012]
+    [2016]
   rain (i want a divorce)
 1988 cinema paradiso
   theme | nostalgia
