@@ -64,6 +64,7 @@ piano sonata
   1844 no 3, op 58, no 3
 waltz
   1838 (no 3) op 34, no 2
+  1847 (no 7) op 64, no 2
   1855
     (no 9) op posth 69, no 1, l'adieu ("farewell") [comp 1835]
     (no 10) op posth 69, no 2 [comp 1829]
@@ -83,6 +84,7 @@ robert schumann
 1838 kreisleriana, op 16, no 3, sehr aufgeregt ("very agitated")
 
 franz liszt
+1848 romance
 1850
   liebestraum ("love dream") no 3
   trostung ("consolation") no 3
