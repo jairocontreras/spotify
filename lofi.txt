@@ -73,8 +73,8 @@
 2012
   (sep) demons (night visions)
   (oct)
-    (1) locked out of heaven
-    (8) latch
+    (01) locked out of heaven
+    (08) latch
   (nov) stay (unapologetic)
   (dec) treasure (unorthodox jukebox)
 2013
@@ -83,22 +83,22 @@
   (sep) take me to church
 2014 a sky full of stars
 2014 (jun)
-  (3) let it go (ep)
+  (03) let it go (ep)
   (20) photograph
 2015
   (feb) where are ü now (skrillex and diplo present jack ü)
   (apr)
-    (1) see you again ("furious 7" movie)
-    (7) the night we met (strange trails)
+    (01) see you again ("furious 7" movie)
+    (07) the night we met (strange trails)
   (jun)
-    (8) can't feel my face
+    (08) can't feel my face
     (16) 7 years (lukas graham)
   (nov) love yourself (purpose)
 2016
   (jan) love on the brain (anti)
   (jul) closer
   (aug)
-    (1) heathens ("suicide squad" movie)
+    (01) heathens ("suicide squad" movie)
     (20) pink + white (blonde)
   (sep) starboy
   (oct) 24k magic
@@ -114,7 +114,7 @@
   (mar) passionfruit (more life)
   (jun) wild thoughts
   (aug)
-    (3) havana
+    (03) havana
     (25) best part (freudian)
   (sep) rockstar
 2018
@@ -124,12 +124,12 @@
     [2022]
     [2024]
   (nov)
-    (3) thank u, next
+    (03) thank u, next
       [2020]
       [2023]
-    (8) someone you loved
+    (08) someone you loved
   (dec)
-    (1) sunflower ("spider-man: into the spider-verse" movie)
+    (01) sunflower ("spider-man: into the spider-verse" movie)
     (24) wow
 2019
   (feb) please me
@@ -142,7 +142,7 @@
   lemonade
 2021
   (mar)
-    (5) leave the door open
+    (05) leave the door open
     (19) justice
       ghost
       peaches
