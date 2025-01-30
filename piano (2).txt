@@ -28,7 +28,9 @@ manuel de falla
 1913 la vida breve ("the brief life"), act 2, scene 1, danza española ("spanish dance") no 1
 
 george gershwin
-1924 rhapsody in blue
+1924
+  (jan) rhapsody in blue
+  (dec) the man i love
 
 sergei prokofiev
 1935 romeo and juliet, op 64, act 1, scene 2, no 13, dance of the knights

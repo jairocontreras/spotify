@@ -55,6 +55,13 @@ johannes brahms
 césar franck
 1873 lied ("song") | fwv 83
 
+claude debussy
+1880 piano trio, no 2, scherzo
+1890 reverie ("daydream")
+1891 beau soir ("beautiful evening")
+1905 suite bergamasque, no 3, clair de lune ("moonlight")
+1910 prelude, book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
+
 gabriel fauré
 1887 pavane, op 50
 
@@ -63,20 +70,19 @@ erik satie
 1890 gnossienne
   no 1
   no 3
+1897 je te veux ("i want you")
 
 enrique granados
 1890 danzas españolas ("spanish dances"), op 37, no 2, oriental
 
-claude debussy
-1890 reverie ("daydream")
-1891 beau soir ("beautiful evening")
-1905 suite bergamasque, no 3, clair de lune ("moonlight")
-1910 prelude, book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
-
 sergei rachmaninoff
 1892 morceaux de fantaisie ("fantasy pieces"), op 3, no 1, elegie ("elegy")
+1901 piano concerto no 2, op 18, no 2
 1902 romance no 5, lilacs ("siren")
 1934 rhapsody on a theme of paganini, op 43, no 18
+
+antonín dvořák
+1894 humoreska ("humoresque"), op 101, no 7
 
 maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
@@ -95,7 +101,7 @@ joaquín rodrigo
 1923 canconeta ("little song")
 
 george gershwin
-1935 porgy and bess, summertime
+1935 porgy and bess, act 1, scene 1, summertime
 
 samuel barber
 1936 string quartet, op 11, no 2, adagio
@@ -105,6 +111,9 @@ alberto ginastera
 
 dmitri shostakovich
 1957 piano concerto no 2, op 102, no 2
+
+henry mancini
+1961 lujon
 
 simon & garfunkel
 1964 the sound of silence (wednesday morning, 3 a.m.)

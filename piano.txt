@@ -15,7 +15,9 @@ piano sonata
     no 1
     no 2
   1801 no 14, op 27, quasi una fantasia ("in the manner of a fantasy"), no 2, no 1 | moonlight
-1812 symphony no 7, op 92, no 2
+symphony
+  1808 no 5, op 67, no 3 | fate
+  1812 no 7, op 92, no 2
 
 john field
 1812 nocturne no 2
@@ -94,6 +96,10 @@ franz liszt
   liebestraum ("love dream") no 3
   trostung ("consolation") no 3
 
+georges bizet
+1854 nocturne, wd 49
+1875 carmen, act 1, scene 5, l'amour est un oiseau rebelle ("love is a rebellious bird") | habanera
+
 johannes brahms
 1865 waltz, op 39
   no 3
@@ -104,17 +110,31 @@ johannes brahms
 
 edvard grieg
 lyriske stykker ("lyric pieces")
-  1867 book 1, op 12, no 1, arietta
-  1886 (no 22) book 3, op 43, no 6, til foraret ("to spring")
+  1867 book 1, op 12
+    no 1, arietta
+    no 2, vals ("waltz")
+  1886 book 3, op 43
+    (no 20) no 4, smafugl ("little bird")
+    (no 22) no 6, til foraret ("to spring")
   1888 (no 25) book 4, op 47, no 3, melodi ("melody")
 1876 peer gynt, op 23, act 4, no 4, anitras dans ("anitra's dance") | suite no 1, op 46, no 3
-
-georges bizet
-1875 carmen, act 1, scene 5, l'amour est un oiseau rebelle ("love is a rebellious bird") | habanera
 
 gabriel fauré
 1887 pavane, op 50
 1902 pieces breves ("short pieces"), op 84, no 5, improvisation
+
+claude debussy
+1888 la damoiselle elue ("the blessed damozel"), prelude
+1890 reverie ("daydream")
+1891 arabesque ("in the arabic style") no 1
+1892 nocturne
+1903 estampes ("prints"), no 1, pagodes ("pagodas")
+1905 suite bergamasque
+  no 1, prelude
+  no 3, clair de lune ("moonlight")
+prelude
+  1910 book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
+  1913 (no 17) book 2, no 5, bruyeres ("heather")
 
 erik satie
 1888 gymnopedie
@@ -128,23 +148,14 @@ gnossienne
   1891 no 4
   1968 no 5 [comp 1889]
 
-claude debussy
-1890 reverie ("daydream")
-1891 arabesque ("in the arabic style") no 1
-1892 nocturne
-1905 suite bergamasque
-  no 1, prelude
-  no 3, clair de lune ("moonlight")
-prelude
-  1910 book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
-  1913 (no 17) book 2, no 5, bruyeres ("heather")
-
 sergei rachmaninoff
 1892 morceaux de fantaisie ("fantasy pieces"), op 3
   no 1, elegie ("elegy")
   no 2, prelude
 1901 piano concerto no 2, op 18, no 2 | ピアノ協奏曲
 1902 romance no 5, lilacs ("siren")
+1903 prelude, op 23, no 4
+1911 etudes-tableaux ("study pictures"), op 33, no 7 | track: no 8
 
 alexander scriabin
 1896 prelude
@@ -153,6 +164,7 @@ alexander scriabin
 
 maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
+1905 sonatine ("sonatina"), no 2
 
 manuel de falla
 1900 cancion ("song") | track: canciones populares españolas
@@ -175,14 +187,15 @@ manuel blancafort
     no 6, la lluna brilla ("the moon shines")
     no 8, tema popular ("popular theme")
 
+george gershwin
+1924 the man i love
+1935 porgy and bess, act 1, scene 1, summertime
+
 george gurdjieff
 1924 untitled
 
 duke ellington
 1935 in a sentimental mood
-
-george gershwin
-1935 porgy and bess, summertime
 
 william grant still
 1935 visions, no 2, summerland
@@ -193,13 +206,14 @@ samuel barber
 alberto ginastera
 1937 danzas argentinas ("argentine dances"), op 2, no 2, danza de la moza donosa ("dance of the graceful girl")
 
-harry warren
-1941 at last ("sun valley serenade" movie) ft. pat friday
-
 francis poulenc
+1940 melancolie ("melancholy")
 1959
   improvisation no 13
   novelette no 3, sur un theme de manuel de falla tire de "el amor brujo" ("on a theme by manuel de falla from 'love bewitched'")
+
+harry warren
+1941 at last ("sun valley serenade" movie) ft. pat friday
 
 antônio carlos jobim
 1962 garota de ipanema ("the girl from ipanema")
