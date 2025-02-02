@@ -41,7 +41,6 @@
 2001 creole (songs from the analog playground)
 2003 the reason (album)
 2004
-  (sep) la camisa negra (mi sangre)
   (oct) let me love you [acoustic]
   (dec) ordinary people (get lifted)
 2005
@@ -127,11 +126,9 @@
   (oct)
     (02) still your best (when it's all said and done)
     (30) essence [remix] (made in lagos)
-2021
-  (mar) peaches (justice)
-  (jul)
-    (09) even is the lie (alpha)
-    (23) coloratura
+2021 (jul)
+  (09) even is the lie (alpha)
+  (23) coloratura
 2022
   (feb) sus huellas
   (may)
@@ -174,9 +171,7 @@
   (feb)
     (09) tu name (dolido pero no arrepentido)
     (23) cutting thru the country
-  (mar)
-    (14) low sun
-    (28) the last bit of us
+  (mar) the last bit of us
   (jun)
     (21) roses
     (28) be careful with me (god said no)
@@ -185,5 +180,4 @@
     (26) i'd rather pretend (vanity)
   (aug)
     (09) dream
-    (23) crooked the road
     (27) august
