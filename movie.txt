@@ -69,6 +69,7 @@
       haiku
   (jun) pirates of the caribbean: the curse of the black pearl
     the medallion calls
+    underwater march
   (nov) the last samurai
     a way of life
     a hard teacher
@@ -114,8 +115,12 @@
     as the water
     confluence
     a dream discarded
+  (dec) king kong
+    central park
 2006 pirates of the caribbean: dead man's chest
   hello beastie
+2007 ratatouille
+  anyone can cook
 2008 the dark knight
   harvey two-face
   blood on my hands
@@ -199,8 +204,11 @@
     someone lived this
     her eyes were green
     all the best memories are hers
-2018 spider-man: into the spider-verse
-  saying goodbye
+2018
+  (mar) a.i.c.o. -incarnation- (series)
+    where a family live still
+  (dec) spider-man: into the spider-verse
+    saying goodbye
 2019
   (aug) joker
     a bad comedian
@@ -211,6 +219,8 @@
       song of hal, conclusio
     (06) the spy (series)
       love theme
+  (dec) 1917
+    theme
 2021 (sep)
   (03) dune
     herald of the change

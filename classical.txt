@@ -48,6 +48,7 @@ prelude
 
 franz liszt
 1850 trostung ("consolation") no 3
+1880 romance oubliee ("forgotten romance")
 
 johannes brahms
 1865 waltz, op 39, no 15
@@ -61,6 +62,10 @@ claude debussy
 1891 beau soir ("beautiful evening")
 1905 suite bergamasque, no 3, clair de lune ("moonlight")
 1910 prelude, book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
+
+antonín dvořák
+1886 (no 10) slovanske tance ("slavonic dances"), op 72, no 2
+1894 humoreska ("humoresque"), op 101, no 7
 
 gabriel fauré
 1887 pavane, op 50
@@ -80,9 +85,6 @@ sergei rachmaninoff
 1901 piano concerto no 2, op 18, no 2
 1902 romance no 5, lilacs ("siren")
 1934 rhapsody on a theme of paganini, op 43, no 18
-
-antonín dvořák
-1894 humoreska ("humoresque"), op 101, no 7
 
 maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
@@ -183,7 +185,10 @@ inon zur
 2008 theme ("fallout 3" game)
 
 nils frahm
-2009 ambre
+2009 (dec 7) ambre
+
+masashi hamauzu
+2009 (dec 17) the promise | fabula nova crystallis ("the new tale of the crystal") ("final fantasy xiii" game)
 
 brian eno
 2010 emerald and stone
@@ -194,6 +199,13 @@ a winged victory for the sullen
 ólafur arnalds
 2011 (dec) near light
 2016 kinethesia i
+
+ludovico einaudi
+2013 (jan) walk
+2019 seven days walking, day 1, fox tracks
+
+gustavo santaolalla
+2013 (jun) theme ("the last of us" game)
 
 ed sheeran
 2014 (jun) thinking out loud (x)
@@ -234,14 +246,15 @@ finneas o'connell
 2018 (oct) when the party's over ft. billie eilish
 2019 i love you (when we all fall asleep, where do we go?) ft. billie eilish
 
-ludovico einaudi
-2019 seven days walking, day 1, fox tracks
-
 damjan krajacic; robert thies
 2020 forest path
 
 kian soltani
-2021 (oct) intermezzo, a scene from the past
+2021 (sep) intermezzo, a scene from the past
+
+mark slater
+2021 (oct) next winter
+2022 bones
 
 edmund finnis
 2021 (nov) prelude no 1
@@ -251,20 +264,15 @@ darker in vine
 2023 largo introspectivo ("long introspective")
 
 benjamin gustafsson
-2022 (mar 4) close to her
-
-mark slater
-2022 (mar 18) insula
-  next winter
-  bones
+2022 close to her
 
 daigo hanada
-2023 journey through memories
-  sakura sakura ("cherry blossoms")
-  iris
+2023
+  (mar) iris
+  (apr) sakura sakura ("cherry blossoms")
 
 tom ashbrook
-2024 (jan) out (single) [rework] ft matthew wilcock
+2024 (jan) out [rework] ft matthew wilcock
 
 joep beving; maarten vos
 2024 (jul) the heron
@@ -273,4 +281,4 @@ alexis ffrench
 2024 (sep) reverie ("lullaby")
 
 thomas newman
-2024 (nov) shoulder length
+2024 (oct) shoulder length

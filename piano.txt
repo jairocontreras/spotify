@@ -6,8 +6,14 @@ domenico scarlatti
 baldassare galuppi
 1706-1785 harpsichord sonata, r.50, no 1
 
+johann sebastian bach
+1729 ich steh mit einem fuß im grabe ("i stand with one foot in the grave"), no 1, sinfonia ("symphony") | arioso ("airy") | bwv 156
+
 christoph willibald gluck
 1774 orfeo ed euridice ("orpheus and eurydice"), melodie ("melody")
+
+wolfgang amadeus mozart
+1792 requiem, no 3, sequentia ("sequence"), no 6, lacrimosa ("weeping")
 
 ludwig van beethoven
 piano sonata
@@ -95,6 +101,7 @@ franz liszt
 1850
   liebestraum ("love dream") no 3
   trostung ("consolation") no 3
+1880 romance oubliee ("forgotten romance")
 
 georges bizet
 1854 nocturne, wd 49
@@ -265,6 +272,9 @@ etude
   escape!
   choosing life
 
+astor piazzolla
+1982 oblivion
+
 ryuichi sakamoto
 1983 merry christmas, mr. lawrence (movie)
   theme
@@ -326,6 +336,7 @@ max richter
 2004 on the nature of daylight
 2012 unwritten ("disconnect" movie)
 2014 h in new england
+2017 the end of all our exploring ("the leftovers" season 3)
 
 tarō iwashiro
 2003 memories of night ("memories of murder" movie)
@@ -339,18 +350,17 @@ hans zimmer; john powell
 nils frahm
 2009 (dec 7) ambre
 2010 over there, it's raining
-2012 screws
+2012 screws {reworked}
   you
   re
 2015
   (feb) them ("victoria" movie)
-  (mar) solo
+  (mar) solo {remains}
     ode
     some
     merry
-2021
-  (mar) because this must be
-  (dec) late
+2017 because this must be
+2021 late
 
 masashi hamauzu
 2009 (dec 17) the promise / the sunleth wasterscape [medley] ("final fantasy xiii" game)
@@ -382,6 +392,9 @@ hans zimmer
 
 stephan moccio
 2015 (feb) earned it ("fifty shades of grey" movie) ft. the weeknd
+2021 ow
+2023 the sound of snow
+2024 nightingale
 
 joep beving
 2015 (mar) solipsism
@@ -393,14 +406,15 @@ joep beving
   the light she brings
   reflection #2
   autumn
-2022 hermetism
-  la fee verte ("the green fairy")
-  nocturnal
-  paris s'enflamme ("paris is burning")
-  accent grave ("grave accent")
-  dervish
-  little waltz
-  transfiguration
+2022
+  (jan) nocturnal
+  (apr) hermetism
+    la fee verte ("the green fairy")
+    paris s'enflamme ("paris is burning")
+    accent grave ("grave accent")
+    dervish
+    little waltz
+    transfiguration
 
 nils frahm; ólafur arnalds
 2016 trance frendz
@@ -411,41 +425,42 @@ luke faulkner
 2018 (jan) equinox
 
 víkingur ólafsson
-2018 (oct 5) das wohltemperirte clavier ("the well-tempered clavier"), book 1, no [x], prelude and fugue, no 1, prelude | bach reworks (pt. 1) [rework] ft johann sebastian bach
-  no 1 | bwv 846 | and at the hour of death
-  no 2 | bwv 847 | for johann
+2018 das wohltemperirte clavier ("the well-tempered clavier"), book 1, no [x], prelude and fugue, no 1, prelude | bach reworks (pt. 1) [rework] ft johann sebastian bach
+  (sep) no 2 | bwv 847 | for johann
+  (oct) no 1 | bwv 846 | and at the hour of death
 
 finneas o'connell
-2018 (oct 17) when the party's over ft. billie eilish
-
-lambert
-2020 (may 21) gdansk (single)
+2018 (oct) when the party's over ft. billie eilish
 
 yiruma
-2020 (may 22) room with a view
-  preludio al vento ("overture of the wind")
-  room with a view
-  sunset bird
-  berrylands rd
-  yellow room
+2020 (may)
+  (8) sunset bird
+  (22) room with a view
+    preludio al vento ("overture of the wind")
+    room with a view
+    berrylands rd
+    yellow room
+
+lambert
+2020 (may 21) gdansk
 
 tom ashbrook
-2020 (oct) solitude i (single)
+2020 (oct) solitude i
 
 christian badzura
-2021 (feb) muse d'eau ("water muse") (single)
+2021 (feb) muse d'eau ("water muse")
 
 sophie hutchings
-2021 (sep 3) empty city (single)
+2021 (sep 3) empty city
 
 jung jaeil
 2021 (sep 17) let's go out tonight ("squid game" series)
 
 patrik berg almkvisth
-2021 (nov) braddjup ("precipice") (single)
+2021 (nov) braddjup ("precipice")
 
 rob burger
-2022 (jan) night feet (single)
+2022 (jan) night feet
 
 mark slater
 2022 (mar 18) descent
@@ -466,9 +481,12 @@ daigo hanada
   hide away
 
 hania rani
-2023 on giacometti
+2023 (feb) on giacometti
   stampa ("print")
   dreamy
+
+alexis ffrench
+2023 (may) when the bells ring
 
 julius asal
 2024 december 32nd

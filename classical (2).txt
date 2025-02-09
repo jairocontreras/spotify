@@ -14,7 +14,7 @@ koji kondo
 1986 title theme ("the legend of zelda" game)
 
 harry gregson-williams
-2001 (nov 13) main theme ("metal gear solid 2: sons of liberty" game)
+2001 (nov 13) theme ("metal gear solid 2: sons of liberty" game)
 
 martin o'donnell; michael salvatori
 2001 (nov 15) theme ("halo: combat evolved" game)

@@ -1,6 +1,9 @@
 johann sebastian bach
 1723 cello suite no 1, no 1, prelude | bwv 1007
 
+fernando sor
+1828 exercices tres faciles ("very easy exercises"), op 35, no 22
+
 frédéric chopin
 1839 prelude, op 28
   no 4
@@ -189,11 +192,17 @@ takashi yoshimatsu
 astor piazzolla
 1985 histoire du tango ("history of the tango"), no 2, cafe 1930
 
+juan falú
+1986 la antuquera
+2000 ayer es siempre ("yesterday is forever")
+2007 yusberiana
+
 sérgio assad
 1986 aquarelle ("watercolor"), no 2, valseana
 
 ennio morricone
 1986 (may) gabriel's oboe ("the mission" movie)
+1988 first youth ("cinema paradiso" movie)
 
 ryuichi sakamoto
 1987 theme ("the last emperor" movie)
@@ -205,6 +214,7 @@ josé luis merlin
 1990 suite del recuerdo ("memory suite")
   no 1, evocacion ("evocation")
   no 3, chacarera
+1997 a ricardo bertin, no 2, la siesta ("the nap")
 
 jorge cardoso
 1990 (jun) piezas sudamericanas ("south american pieces"), no 12, milonga (uruguay)
@@ -225,6 +235,7 @@ paulo bellinati
 
 dominic miller
 1995 eclipse
+1999 the last song
 
 máximo diego pujol
 1996 suite del plata no 1
@@ -255,12 +266,10 @@ howard shore
 
 gustavo santaolalla
 2004 (jan) lima ("the motorcycle diaries" movie)
+2020 longing ("the last of us part ii" game)
 
 max richter
 2004 (feb) on the nature of daylight
-
-juan falú
-2007 yusberiana
 
 hans zimmer; john powell
 2008 oogway ascends ("kung fu panda" movie)
