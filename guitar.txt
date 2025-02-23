@@ -1,5 +1,5 @@
 johann sebastian bach
-1723 cello suite no 1, no 1, prelude | bwv 1007
+1723 cello suite no 1, mov 1, prelude | bwv 1007
 
 fernando sor
 1828 exercices tres faciles ("very easy exercises"), op 35, no 22
@@ -7,7 +7,7 @@ fernando sor
 frédéric chopin
 1839 prelude, op 28
   no 4
-  no 20, chord
+  no 20 | chord
 
 johannes brahms
 1865 waltz, op 39, no 15
@@ -32,15 +32,15 @@ césar franck
 
 enrique granados
 1890 danzas españolas ("spanish dances"), op 37
-  no 2, oriental
-  no 5, andaluza ("andalusian")
-  no 8, sardana
+  mov 2, oriental
+  mov 5, andaluza ("andalusian")
+  mov 8, sardana
 
 isaac albéniz
 1890
-  españa ("spain"), op 165, no 3, malagueña
+  españa ("spain"), op 165, mov 3, malagueña
   mallorca, op 202
-1892 cantos de españa ("songs of spain"), op 232, no 1, preludio ("prelude") | suite española ("spanish suite") no 1, op 47, no 5, asturias, leyenda ("legend")
+1892 cantos de españa ("songs of spain"), op 232, mov 1, preludio ("prelude") | suite española no 1 ("spanish suite"), op 47, mov 5, asturias, leyenda ("legend")
 
 francisco tárrega
 1891 lagrima ("teardrop")
@@ -54,7 +54,7 @@ alexander scriabin
 
 manuel de falla
 1900 serenata andaluza ("andalusian serenade")
-1913 la vida breve ("the brief life"), act 2, scene 1, danza española ("spanish dance") no 1
+1913 la vida breve ("the brief life"), act 2, scene 1, danza española no 1 ("spanish dance")
 
 joaquín malats
 1903 serenata española ("spanish serenade")
@@ -65,26 +65,26 @@ claude debussy
 manuel ponce
 1912 estrellita ("little star")
 1926 por ti mi corazon ("for you my heart")
-1927 guitar sonata no 3, no 2
+1927 guitar sonata no 3, mov 2
 
 federico moreno tórroba
-1924 sonatina, no 2
+1924 sonatina, mov 2
 1926 suite castellana ("spanish suite")
-  no 1, fandanguillo ("little fandango")
-  no 2, arada ("plowing")
-1970 castillos de españa ("castles of spain"), vol 1, no 7, montemayor, romance de los pinos ("romance of the pines")
+  mov 1, fandanguillo ("little fandango")
+  mov 2, arada ("plowing")
+1970 castillos de españa no 1 ("castles of spain"), mov 7, montemayor, romance de los pinos ("romance of the pines")
 1891-1982 madroños
 
 heitor villa-lobos
 1928 etude no 1
-1954 suite populaire bresilienne ("brazilian popular suite"), no 1, mazurka-choro
+1954 suite populaire bresilienne ("brazilian popular suite"), mov 1, mazurka-choro
 
 francisco calleja
 1931 cancion triste ("sad song")
 
 joaquín turina
-1931 sonata, op 61, no 2
-1932 homenaje a tarrega ("tribute to tarrega"), op 69, no 1, garrotin
+1931 sonata, op 61, mov 2
+1932 homenaje a tarrega ("tribute to tarrega"), op 69, mov 1, garrotin
 
 duke ellington
 1935 in a sentimental mood
@@ -93,21 +93,21 @@ manuel lópez-quiroga
 1937 copla no 4, ojos verdes ("green eyes")
 
 agustín barrios mangoré
-1938 la catedral ("the cathedral"), no 1, preludio ("prelude"), saudade ("nostalgia")
+1938 la catedral ("the cathedral"), mov 1, preludio ("prelude"), saudade ("nostalgia")
 1885-1944
   el sueño de la muñequita ("dream of the little doll")
   preludio en do menor ("prelude in c minor")
   una limosna por el amor de dios ("an alm for the love of god")
 
 antonio lauro
-1940 vals venezolano ("venezuelan waltz") no 3, natalia
+1940 vals venezolano no 3 ("venezuelan waltz"), natalia
 
 ernesto grenet
 1942 drume negrita ("sleep little one") | cancion de cuna ("cradle song")
 
 federico mompou
-1942 cancons i danses ("songs and dances"), no 6
-1962 suite compostelana, no 2, coral ("chorale")
+1942 cancion y danza ("song and dance"), no 6
+1962 suite compostelana, mov 2, coral ("chorale")
 
 andrés segovia
 1954 estudio sin luz ("study without light")
@@ -132,7 +132,7 @@ luiz bonfá
 
 eduardo sainz de la maza
 1963 campanas del alba ("bells at dawn")
-1972 platero y yo ("platero and i") suite, no 7, la muerte ("death")
+1972 platero y yo ("platero and i"), mov 7, la muerte ("death")
 
 vicente emilio sojo
 1965 piezas de venezuela ("pieces from venezuela")
@@ -157,7 +157,7 @@ henry mancini
 1970 love theme ("sunflower" movie) | ひまわり
 
 malcolm arnold
-1971 fantasy, op 107, no 3, arietta
+1971 fantasy, op 107, mov 3, arietta
 
 william walton
 1971 bagatelle no 4
@@ -177,7 +177,7 @@ john williams
 1977 princess leia's theme ("star wars" movie)
 
 john rutter
-1979 suite antique, no 1, prelude
+1979 suite antique, mov 1, prelude
 
 leo brouwer
 1981 un dia de noviembre ("one day in november")
@@ -190,7 +190,7 @@ takashi yoshimatsu
 1993 water color scalar, op 57, no 1, prelude
 
 astor piazzolla
-1985 histoire du tango ("history of the tango"), no 2, cafe 1930
+1985 histoire du tango ("history of the tango"), mov 2, cafe 1930
 
 juan falú
 1986 la antuquera
@@ -198,7 +198,7 @@ juan falú
 2007 yusberiana
 
 sérgio assad
-1986 aquarelle ("watercolor"), no 2, valseana
+1986 aquarelle ("watercolor"), mov 2, valseana
 
 ennio morricone
 1986 (may) gabriel's oboe ("the mission" movie)
@@ -208,13 +208,13 @@ ryuichi sakamoto
 1987 theme ("the last emperor" movie)
 
 héctor ayala
-1914-1990 serie americana ("american series"), no 1, preludio ("prelude")
+1914-1990 serie americana ("american series"), mov 1, preludio ("prelude")
 
 josé luis merlin
 1990 suite del recuerdo ("memory suite")
-  no 1, evocacion ("evocation")
-  no 3, chacarera
-1997 a ricardo bertin, no 2, la siesta ("the nap")
+  mov 1, evocacion ("evocation")
+  mov 3, chacarera
+1997 a ricardo bertin, mov 2, la siesta ("the nap")
 
 jorge cardoso
 1990 (jun) piezas sudamericanas ("south american pieces"), no 12, milonga (uruguay)
@@ -226,7 +226,7 @@ philip glass
 2002 the poet acts ("the hours" movie)
 
 jorge morel
-1992 suite del sur ("southern suite"), no 2, prelude, in memory of my wife olga
+1992 suite del sur ("southern suite"), mov 2, prelude, in memory of my wife olga
 2015 milonga del viento ("milonga of the wind")
 
 paulo bellinati
@@ -239,9 +239,9 @@ dominic miller
 
 máximo diego pujol
 1996 suite del plata no 1
-  no 1, preludio ("prelude")
-  no 3, milonga
-  no 5, candombe
+  mov 1, preludio ("prelude")
+  mov 3, milonga
+  mov 5, candombe
 
 ralph towner
 1997 green and golden
@@ -251,12 +251,12 @@ koji kondo
 
 marcelo coronel
 2000 imaginario popular argentino ("popular argentine fantasy")
-  no 2, salamanca
-  no 5, velando al angelito ("watching over the little angel")
-2007 temple del diablo ("the devil's tuning"), no 6, andar y andar ("to walk and walk")
+  mov 2, salamanca
+  mov 5, velando al angelito ("watching over the little angel")
+2007 temple del diablo ("the devil's tuning"), mov 6, andar y andar ("to walk and walk")
 
 simone iannarelli
-2000 "etudes faciles, ou presque" ("easy studies, or almost"), no 1, moderato
+2000 etudes faciles, ou presque ("easy studies, or almost"), no 1, moderato
 
 nobuo uematsu
 2001 (jul) to zanarkand ("final fantasy x" game)

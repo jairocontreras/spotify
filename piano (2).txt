@@ -1,31 +1,31 @@
 johann sebastian bach
-1708 toccata and fugue, no 1, toccata | bwv 565
-1722 das wohltemperirte clavier ("the well-tempered clavier"), book 1, no 2, prelude and fugue, no 1, prelude | bwv 847
+1708 toccata | bwv 565
+1722 das wohltemperirte clavier ("the well-tempered clavier"), book 1, no 2, prelude | bwv 847
 1725 prelude | bwv 999
-1739 orchestral suite no 2, no 7, badinerie | bwv 1067
+1739 orchestral suite no 2, mov 7, badinerie | bwv 1067
 
 ludwig van beethoven
 piano sonata
-  1801 no 14, op 27, quasi una fantasia ("in the manner of a fantasy"), no 2, no 3 | moonlight
+  1801 no 14, op 27, no 2, quasi una fantasia ("in the manner of a fantasy"), mov 3 | moonlight
   1806 no 23, op 57, appassionata ("passionate")
-    no 1
-    no 3
+    mov 1
+    mov 3
 
 frédéric chopin
 1830 waltz no 14, op posth
 etude
-  1832 op 10, no 4, torrent
-  1836 (no 24) op 25, no 12, ocean
+  1832 op 10, no 4 | torrent
+  1836 (no 24) op 25, no 12 | ocean
 scherzo
   1833 no 1, op 20
   1837 no 2, op 31
 1839 prelude, op 28, no 3
 
 isaac albéniz
-1892 cantos de españa ("songs of spain"), op 232, no 1, preludio ("prelude") | suite española ("spanish suite") no 1, op 47, no 5, asturias, leyenda ("legend")
+1892 cantos de españa ("songs of spain"), op 232, mov 1, preludio ("prelude") | suite española no 1 ("spanish suite"), op 47, mov 5, asturias, leyenda ("legend") | track: mov 2
 
 manuel de falla
-1913 la vida breve ("the brief life"), act 2, scene 1, danza española ("spanish dance") no 1
+1913 la vida breve ("the brief life"), act 2, scene 1, danza española no 1 ("spanish dance")
 
 george gershwin
 1924
@@ -33,7 +33,7 @@ george gershwin
   (dec) the man i love
 
 sergei prokofiev
-1935 romeo and juliet, op 64, act 1, scene 2, no 13, dance of the knights
+1935 romeo and juliet, op 64, act 1, scene 2, dance of the knights
 
 stephen flaherty
 1997 once upon a december ("anastasia" movie) ft. liz callaway

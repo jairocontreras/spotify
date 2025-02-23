@@ -4,26 +4,26 @@ domenico scarlatti
   k.466
 
 baldassare galuppi
-1706-1785 harpsichord sonata, r.50, no 1
+1706-1785 harpsichord sonata, r.50, mov 1
 
 johann sebastian bach
-1729 ich steh mit einem fuß im grabe ("i stand with one foot in the grave"), no 1, sinfonia ("symphony") | arioso ("airy") | bwv 156
+1729 ich steh mit einem fuß im grabe ("i stand with one foot in the grave"), mov 1, sinfonia ("symphony") | arioso ("airy") | bwv 156
 
 christoph willibald gluck
 1774 orfeo ed euridice ("orpheus and eurydice"), melodie ("melody")
 
 wolfgang amadeus mozart
-1792 requiem, no 3, sequentia ("sequence"), no 6, lacrimosa ("weeping")
+1792 requiem, no 3, sequentia ("sequence"), mov 6, lacrimosa ("weeping")
 
 ludwig van beethoven
 piano sonata
   1798 no 8, op 13, pathetique ("emotional")
-    no 1
-    no 2
-  1801 no 14, op 27, quasi una fantasia ("in the manner of a fantasy"), no 2, no 1 | moonlight
+    mov 1
+    mov 2
+  1801 no 14, op 27, no 2, quasi una fantasia ("in the manner of a fantasy"), mov 1 | moonlight
 symphony
-  1808 no 5, op 67, no 3 | fate
-  1812 no 7, op 92, no 2
+  1808 no 5, op 67, mov 3 | fate
+  1812 no 7, op 92, mov 2
 
 john field
 1812 nocturne no 2
@@ -42,8 +42,8 @@ lieder ohne worte ("songs without words")
 
 frédéric chopin
 etude
-  1832 op 10, no 3, tristesse ("sadness")
-  1835 (no 19) op 25, no 7, cello
+  1832 op 10, no 3 | tristesse ("sadness")
+  1835 (no 19) op 25, no 7 | cello
 nocturne
   1832 op 9
     no 1
@@ -71,16 +71,16 @@ nocturne
 mazurka
   1833 (no 13) op 17, no 4
   1846 (no 41) op 63, no 3
-1834 andante spianato et grande polonaise brillante ("smooth andante and great brilliant polonaise"), op 22, no 1
+1834 andante spianato, op 22
 1835 ballade no 1, op 23
 piano sonata
-  1837 no 2, op 35, no 3, marche funebre ("funeral march")
-  1844 no 3, op 58, no 3
+  1837 no 2, op 35, mov 3, marche funebre ("funeral march")
+  1844 no 3, op 58, mov 3
 waltz
   1838 (no 3) op 34, no 2
   1847 (no 7) op 64, no 2
   1855
-    (no 9) op posth 69, no 1, l'adieu ("farewell") [comp 1835]
+    (no 9) op posth 69, no 1 [comp 1835] | l'adieu ("farewell")
     (no 10) op posth 69, no 2 [comp 1829]
     (no 12) op posth 70, no 2 [comp 1842]
   1868 no 14, op posth [comp 1830]
@@ -93,14 +93,14 @@ prelude
   1841 (no 25) op 45
 
 robert schumann
-1835 carnaval ("carnival"), op 9, no 12, chopin
-1838 kreisleriana, phantasien fur das pianoforte ("fantasies for the piano"), op 16, no 3, sehr aufgeregt ("very agitated")
+1835 carnaval ("carnival"), op 9, mov 12, chopin
+1838 kreisleriana, phantasien fur das pianoforte ("fantasies for the piano"), op 16, mov 3, sehr aufgeregt ("very agitated")
 
 franz liszt
 1848 romance
 1850
-  liebestraum ("love dream") no 3
-  trostung ("consolation") no 3
+  liebestraum no 3 ("love dream")
+  trostung no 3 ("consolation")
 1880 romance oubliee ("forgotten romance")
 
 georges bizet
@@ -113,7 +113,7 @@ johannes brahms
   no 4
   no 9
   no 15
-1883 symphony no 3, op 90, no 3
+1883 symphony no 3, op 90, mov 3
 
 edvard grieg
 lyriske stykker ("lyric pieces")
@@ -124,7 +124,7 @@ lyriske stykker ("lyric pieces")
     (no 20) no 4, smafugl ("little bird")
     (no 22) no 6, til foraret ("to spring")
   1888 (no 25) book 4, op 47, no 3, melodi ("melody")
-1876 peer gynt, op 23, act 4, no 4, anitras dans ("anitra's dance") | suite no 1, op 46, no 3
+1876 peer gynt, op 23, act 4, scene 4, anitras dans ("anitra's dance") | suite no 1, op 46, mov 3
 
 gabriel fauré
 1887 pavane, op 50
@@ -133,12 +133,12 @@ gabriel fauré
 claude debussy
 1888 la damoiselle elue ("the blessed damozel"), prelude
 1890 reverie ("daydream")
-1891 arabesque ("in the arabic style") no 1
+1891 arabesque no 1 ("in the arabic style")
 1892 nocturne
-1903 estampes ("prints"), no 1, pagodes ("pagodas")
+1903 estampes ("prints"), mov 1, pagodes ("pagodas")
 1905 suite bergamasque
-  no 1, prelude
-  no 3, clair de lune ("moonlight")
+  mov 1, prelude
+  mov 3, clair de lune ("moonlight")
 prelude
   1910 book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
   1913 (no 17) book 2, no 5, bruyeres ("heather")
@@ -159,7 +159,7 @@ sergei rachmaninoff
 1892 morceaux de fantaisie ("fantasy pieces"), op 3
   no 1, elegie ("elegy")
   no 2, prelude
-1901 piano concerto no 2, op 18, no 2 | ピアノ協奏曲
+1901 piano concerto no 2, op 18, mov 2 | ピアノ協奏曲
 1902 romance no 5, lilacs ("siren")
 1903 prelude, op 23, no 4
 1911 etudes-tableaux ("study pictures"), op 33, no 7 | track: no 8
@@ -171,7 +171,7 @@ alexander scriabin
 
 maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
-1905 sonatine ("sonatina"), no 2
+1905 sonatine ("sonatina"), mov 2
 
 manuel de falla
 1900 cancion ("song") | track: canciones populares españolas
@@ -205,10 +205,10 @@ duke ellington
 1935 in a sentimental mood
 
 william grant still
-1935 visions, no 2, summerland
+1935 visions, mov 2, summerland
 
 samuel barber
-1936 string quartet, op 11, no 2, adagio
+1936 string quartet, op 11, mov 2 | adagio for strings
 
 alberto ginastera
 1937 danzas argentinas ("argentine dances"), op 2, no 2, danza de la moza donosa ("dance of the graceful girl")
@@ -254,15 +254,15 @@ john barry
 1980 theme ("somewhere in time" movie)
 
 philip glass
-1981 glassworks, no 1, opening
+1981 glassworks, mov 1, opening
 1983 the late great johnny ace, coda (hearts and bones)
 1989 metamorphosis five
 1991 orphee, act 1, scene 5, la chambre d'orphee ("orphee's bedroom")
 etude
-  1994 vol 1
+  1994 book 1
     no 2
     no 5
-  2013 vol 2
+  2013 book 2
     no 18
     no 20
 1998 truman sleeps ("the truman show" movie)
@@ -339,7 +339,16 @@ max richter
 2017 the end of all our exploring ("the leftovers" season 3)
 
 tarō iwashiro
-2003 memories of night ("memories of murder" movie)
+2003 (may) memories of night ("memories of murder" movie)
+
+lee ru-ma (yiruma)
+2003 (oct) yellow room
+2020 (may)
+  (8) sunset bird
+  (22) room with a view
+    preludio al vento ("overture of the wind")
+    room with a view
+    berrylands rd
 
 dustin o'halloran
 2004 opus 28
@@ -425,24 +434,15 @@ luke faulkner
 2018 (jan) equinox
 
 víkingur ólafsson
-2018 das wohltemperirte clavier ("the well-tempered clavier"), book 1, no [x], prelude and fugue, no 1, prelude | bach reworks (pt. 1) [rework] ft johann sebastian bach
+2018 das wohltemperirte clavier ("the well-tempered clavier"), book 1, no [x], prelude | bach reworks (pt. 1) [rework] ft johann sebastian bach
   (sep) no 2 | bwv 847 | for johann
   (oct) no 1 | bwv 846 | and at the hour of death
 
 finneas o'connell
 2018 (oct) when the party's over ft. billie eilish
 
-yiruma
-2020 (may)
-  (8) sunset bird
-  (22) room with a view
-    preludio al vento ("overture of the wind")
-    room with a view
-    berrylands rd
-    yellow room
-
-lambert
-2020 (may 21) gdansk
+paul lambert
+2020 (may) gdansk
 
 tom ashbrook
 2020 (oct) solitude i
@@ -456,7 +456,7 @@ sophie hutchings
 jung jaeil
 2021 (sep 17) let's go out tonight ("squid game" series)
 
-patrik berg almkvisth
+patrik berg almkvisth (luchs)
 2021 (nov) braddjup ("precipice")
 
 rob burger

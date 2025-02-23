@@ -9,23 +9,23 @@ pieces de viole ("violin pieces")
   1725 (no 494) book 5, no 16, prelude en harpegement ("prelude in harp")
 
 antonio vivaldi
-1723 le quattro stagioni ("the four seasons"), concerto no 1, op 8, la primavera ("spring"), no 2
+1723 le quattro stagioni ("the four seasons"), concerto no 1, op 8, la primavera ("spring"), mov 2
 
 johann sebastian bach
 1725 prelude | bwv 999
-1729 ich steh mit einem fuß im grabe ("i stand with one foot in the grave"), no 1, sinfonia ("symphony") | arioso ("airy") | bwv 156
+1729 ich steh mit einem fuß im grabe ("i stand with one foot in the grave"), mov 1, sinfonia ("symphony") | arioso ("airy") | bwv 156
 
 christoph willibald gluck
 1774 orfeo ed euridice ("orpheus and eurydice"), melodie ("melody")
 
 wolfgang amadeus mozart
-1792 requiem, no 3, sequentia ("sequence"), no 6, lacrimosa ("weeping")
+1792 requiem, no 3, sequentia ("sequence"), mov 6, lacrimosa ("weeping")
 
 franz schubert
 1828 schwanengesang ("swan song"), no 4, standchen ("serenade")
 
 frédéric chopin
-1832 etude, op 10, no 3, tristesse ("sadness")
+1832 etude, op 10, no 3 | tristesse ("sadness")
 nocturne
   1832 op 9, no 2
   1837 (no 9) op 32, no 1
@@ -34,8 +34,8 @@ nocturne
     (no 16) no 2
   1875 no 20, op posth [comp 1830]
   1938 no 21, op posth [comp 1848]
-1835 etude (no 19), op 25, no 7, cello
-1837 piano sonata no 2, op 35, no 3, marche funebre ("funeral march")
+1835 etude (no 19), op 25, no 7 | cello
+1837 piano sonata no 2, op 35, mov 3, marche funebre ("funeral march")
 waltz
   1838 (no 3) op 34, no 2
   1855 (no 10) op posth 69, no 2 [comp 1829]
@@ -47,7 +47,7 @@ prelude
     no 20
 
 franz liszt
-1850 trostung ("consolation") no 3
+1850 trostung no 3 ("consolation")
 1880 romance oubliee ("forgotten romance")
 
 johannes brahms
@@ -57,10 +57,10 @@ césar franck
 1873 lied ("song") | fwv 83
 
 claude debussy
-1880 piano trio, no 2, scherzo
+1880 piano trio, mov 2, scherzo
 1890 reverie ("daydream")
 1891 beau soir ("beautiful evening")
-1905 suite bergamasque, no 3, clair de lune ("moonlight")
+1905 suite bergamasque, mov 3, clair de lune ("moonlight")
 1910 prelude, book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
 
 antonín dvořák
@@ -78,11 +78,11 @@ erik satie
 1897 je te veux ("i want you")
 
 enrique granados
-1890 danzas españolas ("spanish dances"), op 37, no 2, oriental
+1890 danzas españolas ("spanish dances"), op 37, mov 2, oriental
 
 sergei rachmaninoff
 1892 morceaux de fantaisie ("fantasy pieces"), op 3, no 1, elegie ("elegy")
-1901 piano concerto no 2, op 18, no 2
+1901 piano concerto no 2, op 18, mov 2
 1902 romance no 5, lilacs ("siren")
 1934 rhapsody on a theme of paganini, op 43, no 18
 
@@ -106,13 +106,13 @@ george gershwin
 1935 porgy and bess, act 1, scene 1, summertime
 
 samuel barber
-1936 string quartet, op 11, no 2, adagio
+1936 string quartet, op 11, mov 2, adagio
 
 alberto ginastera
 1937 danzas argentinas ("argentine dances"), op 2, no 2, danza de la moza donosa ("dance of the graceful girl")
 
 dmitri shostakovich
-1957 piano concerto no 2, op 102, no 2
+1957 piano concerto no 2, op 102, mov 2
 
 henry mancini
 1961 lujon
@@ -129,7 +129,7 @@ john lennon
 1971 imagine (album)
 
 peter sculthorpe
-1979 requiem for cello alone, no 4, lacrimosa ("weeping")
+1979 requiem for cello alone, mov 4, lacrimosa ("weeping")
 
 john tavener
 1981 funeral ikos
@@ -172,11 +172,11 @@ r. kelly
 1996 (nov) i believe i can fly ("space jam" movie)
 
 valentin silvestrov
-2002 stille musik ("silent music"), no 2, abendserenade ("evening serenade")
+2002 stille musik ("silent music"), mov 2, abendserenade ("evening serenade")
 
 max richter
 2004 on the nature of daylight
-2012 le quattro stagioni ("the four seasons"), concerto no 3, op 8, l'autunno ("autumn"), no 3 [rework] ft antonio vivaldi
+2012 le quattro stagioni ("the four seasons"), concerto no 3, op 8, l'autunno ("autumn"), mov 3 [rework] ft antonio vivaldi
 
 garry schyman
 2007 the ocean on his shoulders ("bioshock" game)
@@ -188,7 +188,7 @@ nils frahm
 2009 (dec 7) ambre
 
 masashi hamauzu
-2009 (dec 17) the promise | fabula nova crystallis ("the new tale of the crystal") ("final fantasy xiii" game)
+2009 (dec 17) the promise ("final fantasy xiii" game) | fabula nova crystallis ("the new tale of the crystal")
 
 brian eno
 2010 emerald and stone
@@ -219,7 +219,7 @@ chad lawson
 petter udland johansen
 2014 (nov) meditation ii
 
-goldmund
+keith kenniff (goldmund)
 2015 sometimes
   cascade
   travelling
