@@ -5,11 +5,11 @@ traditional
 
 marin marais
 pieces de viole ("violin pieces")
-  1717 (no 375) book 4, no 6, muzette ("bagpipe")
-  1725 (no 494) book 5, no 16, prelude en harpegement ("prelude in harp")
+  1717 book 4, no 6, muzette ("bagpipe")
+  1725 book 5, no 16, prelude en harpegement ("prelude in harp")
 
 antonio vivaldi
-1723 le quattro stagioni ("the four seasons"), concerto no 1, op 8, la primavera ("spring"), mov 2
+1723 le quattro stagioni ("the four seasons"), concerto no 1, la primavera ("spring"), op 8, mov 2
 
 johann sebastian bach
 1725 prelude | bwv 999
@@ -28,17 +28,17 @@ frédéric chopin
 1832 etude, op 10, no 3 | tristesse ("sadness")
 nocturne
   1832 op 9, no 2
-  1837 (no 9) op 32, no 1
+  1837 op 32, no 1
   1844 op 55
-    (no 15) no 1
-    (no 16) no 2
+    no 1
+    no 2
   1875 no 20, op posth [comp 1830]
   1938 no 21, op posth [comp 1848]
-1835 etude (no 19), op 25, no 7 | cello
+1835 etude, op 25, no 7 | cello
 1837 piano sonata no 2, op 35, mov 3, marche funebre ("funeral march")
 waltz
-  1838 (no 3) op 34, no 2
-  1855 (no 10) op posth 69, no 2 [comp 1829]
+  1838 op 34, no 2
+  1855 op posth 69, no 2 [comp 1829]
   1955 no 19, op posth [comp 1849]
 prelude
   1839 op 28
@@ -56,16 +56,18 @@ johannes brahms
 césar franck
 1873 lied ("song") | fwv 83
 
+antonín dvořák
+1880 ciganske melodie ("gypsy songs"), op 55, no 4, když mne stara matka zpivat učivala ("songs my mother taught me")
+1886 slovanske tance ("slavonic dances"), op 72, no 2
+1893 symphony no 9, from the new world, op 95, mov 4
+1894 humoreska ("humoresque"), op 101, no 7
+
 claude debussy
 1880 piano trio, mov 2, scherzo
 1890 reverie ("daydream")
 1891 beau soir ("beautiful evening")
 1905 suite bergamasque, mov 3, clair de lune ("moonlight")
 1910 prelude, book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
-
-antonín dvořák
-1886 (no 10) slovanske tance ("slavonic dances"), op 72, no 2
-1894 humoreska ("humoresque"), op 101, no 7
 
 gabriel fauré
 1887 pavane, op 50
@@ -106,7 +108,7 @@ george gershwin
 1935 porgy and bess, act 1, scene 1, summertime
 
 samuel barber
-1936 string quartet, op 11, mov 2, adagio
+1936 string quartet, op 11, mov 2 | adagio for strings
 
 alberto ginastera
 1937 danzas argentinas ("argentine dances"), op 2, no 2, danza de la moza donosa ("dance of the graceful girl")
@@ -176,7 +178,10 @@ valentin silvestrov
 
 max richter
 2004 on the nature of daylight
-2012 le quattro stagioni ("the four seasons"), concerto no 3, op 8, l'autunno ("autumn"), mov 3 [rework] ft antonio vivaldi
+2012 le quattro stagioni ("the four seasons"), concerto no 3, l'autunno ("autumn"), op 8, mov 3 [rework] ft antonio vivaldi
+
+coldplay
+2005 fix you (x&y)
 
 garry schyman
 2007 the ocean on his shoulders ("bioshock" game)
@@ -194,7 +199,8 @@ brian eno
 2010 emerald and stone
 
 a winged victory for the sullen
-2011 (sep) requiem for the static king part 1
+2011 (sep) requiem for the static king, part 1
+2014 atomos iii
 
 ólafur arnalds
 2011 (dec) near light
@@ -214,13 +220,16 @@ jon hopkins
 2014 (sep 15) i remember
 
 chad lawson
-2014 (sep 23) nocturne (no 15), op 55, no 1 [rework] ft frédéric chopin
+2014 (sep 23) nocturne, op 55, no 1 [rework] ft frédéric chopin
 
 petter udland johansen
 2014 (nov) meditation ii
 
+hania rani
+2015 (sep) preludium c-moll
+
 keith kenniff (goldmund)
-2015 sometimes
+2015 (nov) sometimes
   cascade
   travelling
   the hidden observer
@@ -232,6 +241,7 @@ bremer/mccoy
 2016 (sep) forsvinder ("disappearing")
   i eet ("in one")
   krystalklar ("crystal clear")
+2024 blomsten du sår ("the flower you sow")
 
 mino kabasawa
 2018 (mar 2) desert rose
@@ -247,7 +257,10 @@ finneas o'connell
 2019 i love you (when we all fall asleep, where do we go?) ft. billie eilish
 
 damjan krajacic; robert thies
-2020 forest path
+2020 (jan) forest path
+
+lee ru-ma (yiruma)
+2020 (may) sunset bird
 
 kian soltani
 2021 (sep) intermezzo, a scene from the past
@@ -264,7 +277,10 @@ darker in vine
 2023 largo introspectivo ("long introspective")
 
 benjamin gustafsson
-2022 close to her
+2022 (mar) close to her
+
+bear mccreary
+2022 (nov) letting go ("god of war ragnarök" game)
 
 daigo hanada
 2023

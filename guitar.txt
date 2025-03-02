@@ -23,12 +23,12 @@ lyriske stykker ("lyric pieces")
     no 2, vals ("waltz")
     no 6, norsk ("norwegian melody")
   1883 book 2, op 38
-    (no 9) no 1, berceuse ("lullaby")
-    (no 13) no 5, springdans ("spring dance")
-    (no 14) no 6, elegi ("elegy")
+    no 1, berceuse ("lullaby")
+    no 5, springdans ("spring dance")
+    no 6, elegi ("elegy")
 
 césar franck
-1890 (no 30) l'organiste ("the organist"), recueil de pieces pour orgue ou harmonium ("collection of pieces for organ or harmonium"), sept pieces en mi majeur et mi mineur ("7 pieces in e major and e minor"), no 2 | fwv 41
+1890 l'organiste ("the organist"), recueil de pieces pour orgue ou harmonium ("collection of pieces for organ or harmonium"), sept pieces en mi majeur et mi mineur ("7 pieces in e major and e minor"), no 2 | fwv 41
 
 enrique granados
 1890 danzas españolas ("spanish dances"), op 37
@@ -50,7 +50,7 @@ francisco tárrega
 1909 endecha ("lament")
 
 alexander scriabin
-1895 prelude (no 40), op 16, no 4
+1895 prelude, op 16, no 4
 
 manuel de falla
 1900 serenata andaluza ("andalusian serenade")
@@ -283,11 +283,12 @@ jeremy soule
 ólafur arnalds
 2011 (dec) tomorrow's song
 
-karl vandu
-2020 (apr) nachklang ("echo")
-
 hermanos gutiérrez
-2020 (sep) sonora
+2019 hoy como ayer ("today like yesterday")
+2020 sonora
+
+karl vandu
+2020 nachklang ("echo")
 
 olivia belli
 2022 prelude

@@ -17,10 +17,10 @@ wolfgang amadeus mozart
 
 ludwig van beethoven
 piano sonata
-  1798 no 8, op 13, pathetique ("emotional")
+  1798 no 8, op 13 | pathetique ("emotional")
     mov 1
     mov 2
-  1801 no 14, op 27, no 2, quasi una fantasia ("in the manner of a fantasy"), mov 1 | moonlight
+  1801 no 14, quasi una fantasia ("in the manner of a fantasy"), op 27, no 2, mov 1 | moonlight
 symphony
   1808 no 5, op 67, mov 3 | fate
   1812 no 7, op 92, mov 2
@@ -36,53 +36,53 @@ felix mendelssohn
 lieder ohne worte ("songs without words")
   1830 book 1, op 19, no 6, venetianisches gondellied ("venetian boat song")
   1834 book 2, op 30
-    (no 7) no 1
-    (no 12) no 6
-  1845 (no 46) book 8, op posth 102, no 4
+    no 1
+    no 6
+  1845 book 8, op posth 102, no 4
 
 frédéric chopin
 etude
   1832 op 10, no 3 | tristesse ("sadness")
-  1835 (no 19) op 25, no 7 | cello
+  1835 op 25, no 7 | cello
 nocturne
   1832 op 9
     no 1
     no 2
     no 3
   1833 op 15
-    (no 5) no 2
-    (no 6) no 3
+    no 2
+    no 3
   1836 op 27
-    (no 7) no 1
-    (no 8) no 2
-  1837 (no 9) op 32, no 1
+    no 1
+    no 2
+  1837 op 32, no 1
   1839 op 37
-    (no 11) no 1
-    (no 12) no 2
+    no 1
+    no 2
   1841 op 48
-    (no 13) no 1
-    (no 14) no 2
+    no 1
+    no 2
   1844 op 55
-    (no 15) no 1
-    (no 16) no 2
-  1855 (no 19) op posth 72, no 1 [comp 1826]
+    no 1
+    no 2
+  1855 op posth 72, no 1 [comp 1826]
   1875 no 20, op posth [comp 1830]
   1938 no 21, op posth [comp 1848]
 mazurka
-  1833 (no 13) op 17, no 4
-  1846 (no 41) op 63, no 3
+  1833 op 17, no 4
+  1846 op 63, no 3
 1834 andante spianato, op 22
 1835 ballade no 1, op 23
 piano sonata
   1837 no 2, op 35, mov 3, marche funebre ("funeral march")
   1844 no 3, op 58, mov 3
 waltz
-  1838 (no 3) op 34, no 2
-  1847 (no 7) op 64, no 2
+  1838 op 34, no 2
+  1847 op 64, no 2
   1855
-    (no 9) op posth 69, no 1 [comp 1835] | l'adieu ("farewell")
-    (no 10) op posth 69, no 2 [comp 1829]
-    (no 12) op posth 70, no 2 [comp 1842]
+    op posth 69, no 1 [comp 1835] | l'adieu ("farewell")
+    op posth 69, no 2 [comp 1829]
+    op posth 70, no 2 [comp 1842]
   1868 no 14, op posth [comp 1830]
   1955 no 19, op posth [comp 1849]
 prelude
@@ -90,7 +90,7 @@ prelude
     no 4
     no 6
     no 20
-  1841 (no 25) op 45
+  1841 op 45
 
 robert schumann
 1835 carnaval ("carnival"), op 9, mov 12, chopin
@@ -121,9 +121,9 @@ lyriske stykker ("lyric pieces")
     no 1, arietta
     no 2, vals ("waltz")
   1886 book 3, op 43
-    (no 20) no 4, smafugl ("little bird")
-    (no 22) no 6, til foraret ("to spring")
-  1888 (no 25) book 4, op 47, no 3, melodi ("melody")
+    no 4, smafugl ("little bird")
+    no 6, til foraret ("to spring")
+  1888 book 4, op 47, no 3, melodi ("melody")
 1876 peer gynt, op 23, act 4, scene 4, anitras dans ("anitra's dance") | suite no 1, op 46, mov 3
 
 gabriel fauré
@@ -141,7 +141,7 @@ claude debussy
   mov 3, clair de lune ("moonlight")
 prelude
   1910 book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
-  1913 (no 17) book 2, no 5, bruyeres ("heather")
+  1913 book 2, no 5, bruyeres ("heather")
 
 erik satie
 1888 gymnopedie
@@ -164,10 +164,13 @@ sergei rachmaninoff
 1903 prelude, op 23, no 4
 1911 etudes-tableaux ("study pictures"), op 33, no 7 | track: no 8
 
+pyotr ilyich tchaikovsky
+1893 symphony no 6, pathetique ("passionate"), op 74, mov 4
+
 alexander scriabin
 1896 prelude
   op 11, no 21
-  (no 36) op 16, no 1 [comp 1895]
+  op 16, no 1 [comp 1895]
 
 maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
@@ -195,8 +198,9 @@ manuel blancafort
     no 8, tema popular ("popular theme")
 
 george gershwin
-1924 the man i love
+1924 the man i love ft. marion harris
 1935 porgy and bess, act 1, scene 1, summertime
+1937 they can't take that away from me ("shall we dance" movie) ft. fred astaire
 
 george gurdjieff
 1924 untitled
@@ -213,6 +217,9 @@ samuel barber
 alberto ginastera
 1937 danzas argentinas ("argentine dances"), op 2, no 2, danza de la moza donosa ("dance of the graceful girl")
 
+joaquín rodrigo
+1939 concierto de aranjuez ("aranjuez concerto"), mov 2 | アランフェス協奏曲
+
 francis poulenc
 1940 melancolie ("melancholy")
 1959
@@ -220,7 +227,7 @@ francis poulenc
   novelette no 3, sur un theme de manuel de falla tire de "el amor brujo" ("on a theme by manuel de falla from 'love bewitched'")
 
 harry warren
-1941 at last ("sun valley serenade" movie) ft. pat friday
+1941 at last ("sun valley serenade" movie) ft. john payne, pat friday
 
 antônio carlos jobim
 1962 garota de ipanema ("the girl from ipanema")
@@ -305,6 +312,9 @@ ennio morricone
   playing love
   nocturne with no moon
 
+bebu silvetti
+1991 barroco ("baroque")
+
 michael nyman
 1993 the heart asks pleasure first ("the piano" movie)
 
@@ -331,6 +341,12 @@ joe hisaishi
   merry-go-round of life
   you're in love
 
+yann tiersen
+2001 (apr) la valse d'amelie ("amelie's waltz") ("the fabulous destiny of amélie poulain" movie)
+
+nobuo uematsu
+2001 (jul) to zanarkand ("final fantasy x" game)
+
 max richter
 2002 andras
 2004 on the nature of daylight
@@ -343,18 +359,21 @@ tarō iwashiro
 
 lee ru-ma (yiruma)
 2003 (oct) yellow room
-2020 (may)
-  (8) sunset bird
-  (22) room with a view
-    preludio al vento ("overture of the wind")
-    room with a view
-    berrylands rd
+2020
+  (may)
+    (8) sunset bird
+    (22) room with a view
+      preludio al vento ("overture of the wind")
+      room with a view
+      berrylands rd
+  (jul) walking in the forest
 
 dustin o'halloran
 2004 opus 28
 
-hans zimmer; john powell
-2008 oogway ascends ("kung fu panda" movie)
+hans zimmer
+2008 oogway ascends ("kung fu panda" movie) ft john powell
+2014 message from home ("interstellar" movie)
 
 nils frahm
 2009 (dec 7) ambre
@@ -368,11 +387,19 @@ nils frahm
     ode
     some
     merry
+2016 trance frendz ft ólafur arnalds
+  20:17
+  21:05
 2017 because this must be
+2018 my friend the forest
+2020 second defeat
 2021 late
 
 masashi hamauzu
 2009 (dec 17) the promise / the sunleth wasterscape ("final fantasy xiii" game)
+
+keith kenniff (goldmund)
+2010 bergen
 
 dario marianelli
 2011 (mar) jane eyre (movie)
@@ -389,15 +416,12 @@ ben lukas boysen
 2014 sleepers beat theme
 
 chad lawson
-2014 (sep) the chopin variations [rework] ft frédéric chopin
+2014 the chopin variations [rework] ft frédéric chopin
   nocturne, op 9, no 2
   prelude, op 28
     no 6
     no 15
     no 20
-
-hans zimmer
-2014 (nov) message from home ("interstellar" movie)
 
 stephan moccio
 2015 (feb) earned it ("fifty shades of grey" movie) ft. the weeknd
@@ -425,18 +449,24 @@ joep beving
     little waltz
     transfiguration
 
-nils frahm; ólafur arnalds
-2016 trance frendz
-  20:17
-  21:05
+daigo hanada
+2017 fragment, part 1
+2022
+  (jul) muku ft hiroko murakami
+  (dec) seis [rework] ft hiroko murakami
+2023 journey through memories
+  reminiscence
+  hide away
 
 luke faulkner
 2018 (jan) equinox
+2021 nightshade
+2023 valse bohemienne ("bohemian waltz")
 
 víkingur ólafsson
-2018 das wohltemperirte clavier ("the well-tempered clavier"), book 1, no [x], prelude | bach reworks (pt. 1) [rework] ft johann sebastian bach
-  (sep) no 2 | bwv 847 | for johann
-  (oct) no 1 | bwv 846 | and at the hour of death
+2018 das wohltemperirte clavier ("the well-tempered clavier"), book 1, no [x], prelude [rework] ft johann sebastian bach
+  (sep) for johann | no 2 | bwv 847
+  (oct) and at the hour of death | no 1 | bwv 846
 
 finneas o'connell
 2018 (oct) when the party's over ft. billie eilish
@@ -471,14 +501,8 @@ alexandra stréliski
 bea boethius
 2022 (may) the first birds
 
-daigo hanada; hiroko murakami
-2022 (jul) muku
-
-daigo hanada
-2022 (dec) seis [rework] ft hiroko murakami
-2023 journey through memories
-  reminiscence
-  hide away
+olivia belli
+2022 (jun) threnody | piano concerto no 23, mov 2 [rework] ft wolfgang amadeus mozart
 
 hania rani
 2023 (feb) on giacometti

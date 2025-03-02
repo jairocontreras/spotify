@@ -6,8 +6,8 @@ johann sebastian bach
 
 ludwig van beethoven
 piano sonata
-  1801 no 14, op 27, no 2, quasi una fantasia ("in the manner of a fantasy"), mov 3 | moonlight
-  1806 no 23, op 57, appassionata ("passionate")
+  1801 no 14, quasi una fantasia ("in the manner of a fantasy"), op 27, no 2, mov 3 | moonlight
+  1806 no 23, op 57 | appassionata ("passionate")
     mov 1
     mov 3
 
@@ -15,7 +15,7 @@ frédéric chopin
 1830 waltz no 14, op posth
 etude
   1832 op 10, no 4 | torrent
-  1836 (no 24) op 25, no 12 | ocean
+  1836 op 25, no 12 | ocean
 scherzo
   1833 no 1, op 20
   1837 no 2, op 31
