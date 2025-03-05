@@ -15,6 +15,9 @@ johann sebastian bach
 1725 prelude | bwv 999
 1729 ich steh mit einem fuß im grabe ("i stand with one foot in the grave"), mov 1, sinfonia ("symphony") | arioso ("airy") | bwv 156
 
+george frideric handel
+1685-1759 concerto-pasticcio, mov 1
+
 christoph willibald gluck
 1774 orfeo ed euridice ("orpheus and eurydice"), melodie ("melody")
 
@@ -25,33 +28,34 @@ franz schubert
 1828 schwanengesang ("swan song"), no 4, standchen ("serenade")
 
 frédéric chopin
-1832 etude, op 10, no 3 | tristesse ("sadness")
-nocturne
+1832 etudes, op 10, no 3 | tristesse ("sadness")
+nocturnes
   1832 op 9, no 2
   1837 op 32, no 1
   1844 op 55
     no 1
     no 2
-  1875 no 20, op posth [comp 1830]
-  1938 no 21, op posth [comp 1848]
-1835 etude, op 25, no 7 | cello
+  1875 op posth [comp 1830] | no 20
+  1938 op posth [comp 1848] | no 21
+1835 etudes, op 25, no 7 | cello
 1837 piano sonata no 2, op 35, mov 3, marche funebre ("funeral march")
-waltz
+waltzes
   1838 op 34, no 2
   1855 op posth 69, no 2 [comp 1829]
-  1955 no 19, op posth [comp 1849]
-prelude
+  1955 op posth [comp 1849] | no 19
+preludes
   1839 op 28
     no 4
     no 6
     no 20
+1847 cello sonata, op 65, mov 3
 
 franz liszt
-1850 trostung no 3 ("consolation")
+1850 trostungen ("consolations"), no 3
 1880 romance oubliee ("forgotten romance")
 
 johannes brahms
-1865 waltz, op 39, no 15
+1865 waltzes, op 39, no 15
 
 césar franck
 1873 lied ("song") | fwv 83
@@ -60,21 +64,28 @@ antonín dvořák
 1880 ciganske melodie ("gypsy songs"), op 55, no 4, když mne stara matka zpivat učivala ("songs my mother taught me")
 1886 slovanske tance ("slavonic dances"), op 72, no 2
 1893 symphony no 9, from the new world, op 95, mov 4
-1894 humoreska ("humoresque"), op 101, no 7
+1894 humoresky ("humoresques"), op 101, no 7
 
 claude debussy
 1880 piano trio, mov 2, scherzo
 1890 reverie ("daydream")
 1891 beau soir ("beautiful evening")
+1901 pour le piano ("for the piano"), mov 2, sarabande
 1905 suite bergamasque, mov 3, clair de lune ("moonlight")
-1910 prelude, book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
+1910 preludes, book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
+
+richard strauss
+1881 cello sonata, op 6, mov 2
+
+isaac albéniz
+1886 suite española no 1 ("spanish suite"), op 47, mov 3, sevilla
 
 gabriel fauré
 1887 pavane, op 50
 
 erik satie
-1888 gymnopedie no 3
-1890 gnossienne
+1888 gymnopedies, no 3
+1890 gnossiennes
   no 1
   no 3
 1897 je te veux ("i want you")
@@ -85,7 +96,7 @@ enrique granados
 sergei rachmaninoff
 1892 morceaux de fantaisie ("fantasy pieces"), op 3, no 1, elegie ("elegy")
 1901 piano concerto no 2, op 18, mov 2
-1902 romance no 5, lilacs ("siren")
+1902 romances, no 5, lilacs ("siren")
 1934 rhapsody on a theme of paganini, op 43, no 18
 
 maurice ravel
@@ -150,7 +161,7 @@ radiohead
 1992 creep
 
 philip glass
-1994 etude no 2 | echorus
+1994 etudes, no 2 | echorus
 
 kenji yamamoto; minako hamano
 1994 (mar) theme ("super metroid" game)
@@ -220,7 +231,7 @@ jon hopkins
 2014 (sep 15) i remember
 
 chad lawson
-2014 (sep 23) nocturne, op 55, no 1 [rework] ft frédéric chopin
+2014 (sep 23) nocturnes, op 55, no 1 [rework] ft frédéric chopin
 
 petter udland johansen
 2014 (nov) meditation ii
@@ -270,7 +281,7 @@ mark slater
 2022 bones
 
 edmund finnis
-2021 (nov) prelude no 1
+2021 (nov) preludes, no 1
 
 darker in vine
 2021 (dec) aleatoire ("random")

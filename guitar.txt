@@ -5,12 +5,12 @@ fernando sor
 1828 exercices tres faciles ("very easy exercises"), op 35, no 22
 
 frédéric chopin
-1839 prelude, op 28
+1839 preludes, op 28
   no 4
   no 20 | chord
 
 johannes brahms
-1865 waltz, op 39, no 15
+1865 waltzes, op 39, no 15
 
 julián arcas
 1865 fantasia sobre motivos de "la traviata" de verdi ("fantasy on themes from 'the fallen woman' by verdi")
@@ -27,6 +27,13 @@ lyriske stykker ("lyric pieces")
     no 5, springdans ("spring dance")
     no 6, elegi ("elegy")
 
+isaac albéniz
+1886 suite española no 1 ("spanish suite"), op 47, mov 3, sevilla
+1889 cantos de españa ("songs of spain"), op 232, mov 1, preludio ("prelude") | suite española no 1 ("spanish suite"), op 47, mov 5, asturias, leyenda ("legend")
+1890
+  españa ("spain"), op 165, mov 3, malagueña
+  mallorca, op 202
+
 césar franck
 1890 l'organiste ("the organist"), recueil de pieces pour orgue ou harmonium ("collection of pieces for organ or harmonium"), sept pieces en mi majeur et mi mineur ("7 pieces in e major and e minor"), no 2 | fwv 41
 
@@ -36,12 +43,6 @@ enrique granados
   mov 5, andaluza ("andalusian")
   mov 8, sardana
 
-isaac albéniz
-1890
-  españa ("spain"), op 165, mov 3, malagueña
-  mallorca, op 202
-1892 cantos de españa ("songs of spain"), op 232, mov 1, preludio ("prelude") | suite española no 1 ("spanish suite"), op 47, mov 5, asturias, leyenda ("legend")
-
 francisco tárrega
 1891 lagrima ("teardrop")
 1892 capricho arabe ("arabic caprice")
@@ -50,7 +51,7 @@ francisco tárrega
 1909 endecha ("lament")
 
 alexander scriabin
-1895 prelude, op 16, no 4
+1895 preludes, op 16, no 4
 
 manuel de falla
 1900 serenata andaluza ("andalusian serenade")
@@ -60,7 +61,7 @@ joaquín malats
 1903 serenata española ("spanish serenade")
 
 claude debussy
-1910 prelude, book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
+1910 preludes, book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
 
 manuel ponce
 1912 estrellita ("little star")
@@ -76,7 +77,7 @@ federico moreno tórroba
 1891-1982 madroños
 
 heitor villa-lobos
-1928 etude no 1
+1928 etudes, no 1
 1954 suite populaire bresilienne ("brazilian popular suite"), mov 1, mazurka-choro
 
 francisco calleja
@@ -90,7 +91,7 @@ duke ellington
 1935 in a sentimental mood
 
 manuel lópez-quiroga
-1937 copla no 4, ojos verdes ("green eyes")
+1937 coplas, no 4, ojos verdes ("green eyes")
 
 agustín barrios mangoré
 1938 la catedral ("the cathedral"), mov 1, preludio ("prelude"), saudade ("nostalgia")
@@ -100,13 +101,13 @@ agustín barrios mangoré
   una limosna por el amor de dios ("an alm for the love of god")
 
 antonio lauro
-1940 vals venezolano no 3 ("venezuelan waltz"), natalia
+1940 valses venezolanos ("venezuelan waltzes"), no 3, natalia
 
 ernesto grenet
 1942 drume negrita ("sleep little one") | cancion de cuna ("cradle song")
 
 federico mompou
-1942 cancion y danza ("song and dance"), no 6
+1942 cancons i danses ("songs and dances"), no 6
 1962 suite compostelana, mov 2, coral ("chorale")
 
 andrés segovia
@@ -160,7 +161,7 @@ malcolm arnold
 1971 fantasy, op 107, mov 3, arietta
 
 william walton
-1971 bagatelle no 4
+1971 bagatelles, no 4
 
 nino rota
 1972 (mar) love theme ("the godfather" movie)
@@ -180,14 +181,14 @@ john rutter
 1979 suite antique, mov 1, prelude
 
 leo brouwer
-1981 un dia de noviembre ("one day in november")
+1981 un dia de noviembre ("a day in november")
 1999 an idea, passacaglia for eli
 
 takashi yoshimatsu
 1984 tender toys
   romance for tree
   angels in twilight
-1993 water color scalar, op 57, no 1, prelude
+1993 water color scalar, op 57, mov 1, prelude
 
 astor piazzolla
 1985 histoire du tango ("history of the tango"), mov 2, cafe 1930
@@ -221,7 +222,7 @@ jorge cardoso
 
 philip glass
 1991 orphee, act 1, scene 5, la chambre d'orphee ("orphee's bedroom")
-1994 etude no 5
+1994 etudes, no 5
 1998 truman sleeps ("the truman show" movie)
 2002 the poet acts ("the hours" movie)
 
@@ -256,7 +257,7 @@ marcelo coronel
 2007 temple del diablo ("the devil's tuning"), mov 6, andar y andar ("to walk and walk")
 
 simone iannarelli
-2000 etudes faciles, ou presque ("easy studies, or almost"), no 1, moderato
+2000 etudes faciles, ou presque ("easy studies, or almost"), no 1
 
 nobuo uematsu
 2001 (jul) to zanarkand ("final fantasy x" game)

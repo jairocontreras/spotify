@@ -12,7 +12,7 @@
     (16) love story
       theme
     (31) lady caliph
-      la cena ("dinner") | track: nocturne
+      la cena ("dinner")
 1972 the godfather
   love theme | speak softly love
 1974 the godfather part ii
@@ -73,7 +73,7 @@
 2000
   (may) gladiator
     now we are free
-  (oct) malèna
+  (oct) malena
     theme
   (nov) unbreakable
     survivor

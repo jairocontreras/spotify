@@ -1,16 +1,19 @@
+johann sebastian bach
+1729 ich steh mit einem fuß im grabe ("i stand with one foot in the grave"), mov 1, sinfonia ("symphony") | arioso ("airy") | bwv 156
+
 domenico scarlatti
 1685-1757 keyboard sonata
   k.32
   k.466
 
-baldassare galuppi
-1706-1785 harpsichord sonata, r.50, mov 1
-
-johann sebastian bach
-1729 ich steh mit einem fuß im grabe ("i stand with one foot in the grave"), mov 1, sinfonia ("symphony") | arioso ("airy") | bwv 156
-
 christoph willibald gluck
 1774 orfeo ed euridice ("orpheus and eurydice"), melodie ("melody")
+
+joseph haydn
+1780 keyboard sonata, mov 2 | hob. xvi:37
+
+baldassare galuppi
+1706-1785 harpsichord sonata, mov 1 | r.50
 
 wolfgang amadeus mozart
 1792 requiem, no 3, sequentia ("sequence"), mov 6, lacrimosa ("weeping")
@@ -26,7 +29,7 @@ symphony
   1812 no 7, op 92, mov 2
 
 john field
-1812 nocturne no 2
+1812 nocturnes, no 2
 
 franz schubert
 1827 impromptu, op 90, no 3
@@ -41,10 +44,10 @@ lieder ohne worte ("songs without words")
   1845 book 8, op posth 102, no 4
 
 frédéric chopin
-etude
+etudes
   1832 op 10, no 3 | tristesse ("sadness")
   1835 op 25, no 7 | cello
-nocturne
+nocturnes
   1832 op 9
     no 1
     no 2
@@ -66,9 +69,9 @@ nocturne
     no 1
     no 2
   1855 op posth 72, no 1 [comp 1826]
-  1875 no 20, op posth [comp 1830]
-  1938 no 21, op posth [comp 1848]
-mazurka
+  1875 op posth [comp 1830] | no 20
+  1938 op posth [comp 1848] | no 21
+mazurkas
   1833 op 17, no 4
   1846 op 63, no 3
 1834 andante spianato, op 22
@@ -76,19 +79,20 @@ mazurka
 piano sonata
   1837 no 2, op 35, mov 3, marche funebre ("funeral march")
   1844 no 3, op 58, mov 3
-waltz
+waltzes
   1838 op 34, no 2
   1847 op 64, no 2
   1855
     op posth 69, no 1 [comp 1835] | l'adieu ("farewell")
     op posth 69, no 2 [comp 1829]
     op posth 70, no 2 [comp 1842]
-  1868 no 14, op posth [comp 1830]
-  1955 no 19, op posth [comp 1849]
-prelude
+  1868 op posth [comp 1830] | no 14
+  1955 op posth [comp 1849] | no 19
+preludes
   1839 op 28
     no 4
     no 6
+    no 15
     no 20
   1841 op 45
 
@@ -99,16 +103,16 @@ robert schumann
 franz liszt
 1848 romance
 1850
-  liebestraum no 3 ("love dream")
-  trostung no 3 ("consolation")
+  liebestraume ("dreams of love"), no 3
+  trostungen ("consolations"), no 3
 1880 romance oubliee ("forgotten romance")
 
 georges bizet
-1854 nocturne, wd 49
+1854 nocturne in f major
 1875 carmen, act 1, scene 5, l'amour est un oiseau rebelle ("love is a rebellious bird") | habanera
 
 johannes brahms
-1865 waltz, op 39
+1865 waltzes, op 39
   no 3
   no 4
   no 9
@@ -126,6 +130,12 @@ lyriske stykker ("lyric pieces")
   1888 book 4, op 47, no 3, melodi ("melody")
 1876 peer gynt, op 23, act 4, scene 4, anitras dans ("anitra's dance") | suite no 1, op 46, mov 3
 
+richard strauss
+1881 klavierstucke ("piano pieces"), op 3, no 1
+
+camille saint-saëns
+1886 le carnaval des animaux ("the carnival of the animals"), mov 13, le cygne ("the swan")
+
 gabriel fauré
 1887 pavane, op 50
 1902 pieces breves ("short pieces"), op 84, no 5, improvisation
@@ -133,22 +143,22 @@ gabriel fauré
 claude debussy
 1888 la damoiselle elue ("the blessed damozel"), prelude
 1890 reverie ("daydream")
-1891 arabesque no 1 ("in the arabic style")
-1892 nocturne
+1891 arabesques, no 1
+1892 nocturne | l.82
 1903 estampes ("prints"), mov 1, pagodes ("pagodas")
 1905 suite bergamasque
   mov 1, prelude
   mov 3, clair de lune ("moonlight")
-prelude
+preludes
   1910 book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
   1913 book 2, no 5, bruyeres ("heather")
 
 erik satie
-1888 gymnopedie
+1888 gymnopedies
   no 1
   no 2
   no 3
-gnossienne
+gnossiennes
   1890
     no 1
     no 3
@@ -160,28 +170,31 @@ sergei rachmaninoff
   no 1, elegie ("elegy")
   no 2, prelude
 1901 piano concerto no 2, op 18, mov 2 | ピアノ協奏曲
-1902 romance no 5, lilacs ("siren")
-1903 prelude, op 23, no 4
-1911 etudes-tableaux ("study pictures"), op 33, no 7 | track: no 8
+1902 romances, no 5, lilacs ("siren")
+1903 preludes, op 23, no 4
+1911 etudes-tableaux ("study pictures"), op 33, no 7
 
 pyotr ilyich tchaikovsky
 1893 symphony no 6, pathetique ("passionate"), op 74, mov 4
 
 alexander scriabin
-1896 prelude
+1895 preludes
   op 11, no 21
-  op 16, no 1 [comp 1895]
+  op 16, no 1
 
 maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
 1905 sonatine ("sonatina"), mov 2
 
 manuel de falla
-1900 cancion ("song") | track: canciones populares españolas
+1900 cancion ("song")
 
 henrique oswald
-1900 en nacelle ("in nacelle")
+1900 en nacelle
 1932 valsa lenta ("slow waltz"), op posth
+
+amy woodforde-finden
+1902 indian love lyrics, no 4, till i wake
 
 heitor villa-lobos
 1910 tristorosa ("sad rose")
@@ -223,8 +236,8 @@ joaquín rodrigo
 francis poulenc
 1940 melancolie ("melancholy")
 1959
-  improvisation no 13
-  novelette no 3, sur un theme de manuel de falla tire de "el amor brujo" ("on a theme by manuel de falla from 'love bewitched'")
+  improvisations, no 13
+  novelettes, no 3, sur un theme de manuel de falla tire de "el amor brujo" ("on a theme by manuel de falla from 'love bewitched'")
 
 harry warren
 1941 at last ("sun valley serenade" movie) ft. john payne, pat friday
@@ -265,7 +278,7 @@ philip glass
 1983 the late great johnny ace, coda (hearts and bones)
 1989 metamorphosis five
 1991 orphee, act 1, scene 5, la chambre d'orphee ("orphee's bedroom")
-etude
+etudes
   1994 book 1
     no 2
     no 5
@@ -342,7 +355,7 @@ joe hisaishi
   you're in love
 
 yann tiersen
-2001 (apr) la valse d'amelie ("amelie's waltz") ("the fabulous destiny of amélie poulain" movie)
+2001 (apr) la valse d'amelie ("amelie's waltz") ("the fabulous destiny of amelie poulain" movie)
 
 nobuo uematsu
 2001 (jul) to zanarkand ("final fantasy x" game)
@@ -378,12 +391,12 @@ hans zimmer
 nils frahm
 2009 (dec 7) ambre
 2010 over there, it's raining
-2012 screws {reworked}
+2012 screws
   you
   re
 2015
   (feb) them ("victoria" movie)
-  (mar) solo {remains}
+  (mar) solo
     ode
     some
     merry
@@ -417,8 +430,8 @@ ben lukas boysen
 
 chad lawson
 2014 the chopin variations [rework] ft frédéric chopin
-  nocturne, op 9, no 2
-  prelude, op 28
+  nocturnes, op 9, no 2
+  preludes, op 28
     no 6
     no 15
     no 20
@@ -437,7 +450,7 @@ joep beving
   day dream
   sleeping lotus
   the light she brings
-  reflection #2
+  reflection no 2
   autumn
 2022
   (jan) nocturnal
@@ -471,7 +484,7 @@ víkingur ólafsson
 finneas o'connell
 2018 (oct) when the party's over ft. billie eilish
 
-paul lambert
+lambert
 2020 (may) gdansk
 
 tom ashbrook
@@ -496,7 +509,7 @@ mark slater
 2022 (mar 18) descent
 
 alexandra stréliski
-2022 (mar 22) gnossienne no 1 [rework] ft erik satie
+2022 (mar 22) gnossiennes, no 1 [rework] ft erik satie
 
 bea boethius
 2022 (may) the first birds
