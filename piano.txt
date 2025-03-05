@@ -69,8 +69,8 @@ nocturnes
     no 1
     no 2
   1855 op posth 72, no 1 [comp 1826]
-  1875 op posth [comp 1830] | no 20
-  1938 op posth [comp 1848] | no 21
+  1875 no 20, op posth [comp 1830]
+  1938 no 21, op posth [comp 1848]
 mazurkas
   1833 op 17, no 4
   1846 op 63, no 3
@@ -86,8 +86,8 @@ waltzes
     op posth 69, no 1 [comp 1835] | l'adieu ("farewell")
     op posth 69, no 2 [comp 1829]
     op posth 70, no 2 [comp 1842]
-  1868 op posth [comp 1830] | no 14
-  1955 op posth [comp 1849] | no 19
+  1868 no 14, op posth [comp 1830]
+  1955 no 19, op posth [comp 1849]
 preludes
   1839 op 28
     no 4
@@ -172,7 +172,7 @@ sergei rachmaninoff
 1901 piano concerto no 2, op 18, mov 2 | ピアノ協奏曲
 1902 romances, no 5, lilacs ("siren")
 1903 preludes, op 23, no 4
-1911 etudes-tableaux ("study pictures"), op 33, no 7
+1911 etudes-tableaux ("study-pictures"), op 33, no 7
 
 pyotr ilyich tchaikovsky
 1893 symphony no 6, pathetique ("passionate"), op 74, mov 4
@@ -243,7 +243,7 @@ harry warren
 1941 at last ("sun valley serenade" movie) ft. john payne, pat friday
 
 antônio carlos jobim
-1962 garota de ipanema ("the girl from ipanema")
+1962 garota de ipanema ("the girl from ipanema") ft. pery ribeiro
 
 the beatles
 1969 across the universe (no one's gonna change our world)

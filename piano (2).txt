@@ -12,7 +12,7 @@ piano sonata
     mov 3
 
 frédéric chopin
-1830 waltzes, op posth | no 14
+1830 waltzes, no 14, op posth
 etudes
   1832 op 10, no 4 | torrent
   1836 op 25, no 12 | ocean
@@ -22,7 +22,7 @@ scherzo
 1839 preludes, op 28, no 3
 
 isaac albéniz
-1889 cantos de españa ("songs of spain"), op 232, mov 1, preludio ("prelude") | suite española no 1 ("spanish suite"), op 47, mov 5, asturias, leyenda ("legend")
+1892 cantos de españa ("songs of spain"), op 232, mov 1, preludio ("prelude") | suite española no 1 ("spanish suite"), op 47, mov 5, asturias, leyenda ("legend") [pub 1912]
 
 manuel de falla
 1913 la vida breve ("the brief life"), act 2, scene 1, danza española no 1 ("spanish dance")

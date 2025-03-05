@@ -35,14 +35,14 @@ nocturnes
   1844 op 55
     no 1
     no 2
-  1875 op posth [comp 1830] | no 20
-  1938 op posth [comp 1848] | no 21
+  1875 no 20, op posth [comp 1830]
+  1938 no 21, op posth [comp 1848]
 1835 etudes, op 25, no 7 | cello
 1837 piano sonata no 2, op 35, mov 3, marche funebre ("funeral march")
 waltzes
   1838 op 34, no 2
   1855 op posth 69, no 2 [comp 1829]
-  1955 op posth [comp 1849] | no 19
+  1955 no 19, op posth [comp 1849]
 preludes
   1839 op 28
     no 4

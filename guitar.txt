@@ -29,10 +29,10 @@ lyriske stykker ("lyric pieces")
 
 isaac albéniz
 1886 suite española no 1 ("spanish suite"), op 47, mov 3, sevilla
-1889 cantos de españa ("songs of spain"), op 232, mov 1, preludio ("prelude") | suite española no 1 ("spanish suite"), op 47, mov 5, asturias, leyenda ("legend")
 1890
   españa ("spain"), op 165, mov 3, malagueña
   mallorca, op 202
+1892 cantos de españa ("songs of spain"), op 232, mov 1, preludio ("prelude") | suite española no 1 ("spanish suite"), op 47, mov 5, asturias, leyenda ("legend") [pub 1912]
 
 césar franck
 1890 l'organiste ("the organist"), recueil de pieces pour orgue ou harmonium ("collection of pieces for organ or harmonium"), sept pieces en mi majeur et mi mineur ("7 pieces in e major and e minor"), no 2 | fwv 41
@@ -125,8 +125,8 @@ abel fleury
   te vas milonga ("you're going milonga")
 
 antônio carlos jobim
-1958 estrada do sol ("road to the sun")
-1962 garota de ipanema ("the girl from ipanema")
+1958 estrada do sol ("road to the sun") ft. silvia telles
+1962 garota de ipanema ("the girl from ipanema") ft. pery ribeiro
 
 luiz bonfá
 1959 manha de carnaval ("carnival morning") ("black orpheus" movie)
