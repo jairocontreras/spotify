@@ -24,9 +24,7 @@ piano sonata
     mov 1
     mov 2
   1801 no 14, quasi una fantasia ("in the manner of a fantasy"), op 27, no 2, mov 1 | moonlight
-symphony
-  1808 no 5, op 67, mov 3 | fate
-  1812 no 7, op 92, mov 2
+1812 symphony no 7, op 92, mov 2
 
 john field
 1812 nocturnes, no 2
@@ -124,9 +122,7 @@ lyriske stykker ("lyric pieces")
   1867 book 1, op 12
     no 1, arietta
     no 2, vals ("waltz")
-  1886 book 3, op 43
-    no 4, smafugl ("little bird")
-    no 6, til foraret ("to spring")
+  1886 book 3, op 43, no 6, til foraret ("to spring")
   1888 book 4, op 47, no 3, melodi ("melody")
 1876 peer gynt, op 23, act 4, scene 4, anitras dans ("anitra's dance") | suite no 1, op 46, mov 3
 
@@ -173,6 +169,9 @@ sergei rachmaninoff
 1902 romances, no 5, lilacs ("siren")
 1903 preludes, op 23, no 4
 1911 etudes-tableaux ("study-pictures"), op 33, no 7
+
+jean sibelius
+1893 impromptus, op 5, no 6
 
 pyotr ilyich tchaikovsky
 1893 symphony no 6, pathetique ("passionate"), op 74, mov 4
@@ -233,14 +232,13 @@ alberto ginastera
 joaquín rodrigo
 1939 concierto de aranjuez ("aranjuez concerto"), mov 2 | アランフェス協奏曲
 
+harry warren
+1941 at last ("sun valley serenade" movie) ft. john payne, pat friday
+
 francis poulenc
-1940 melancolie ("melancholy")
 1959
   improvisations, no 13
   novelettes, no 3, sur un theme de manuel de falla tire de "el amor brujo" ("on a theme by manuel de falla from 'love bewitched'")
-
-harry warren
-1941 at last ("sun valley serenade" movie) ft. john payne, pat friday
 
 antônio carlos jobim
 1962 garota de ipanema ("the girl from ipanema") ft. pery ribeiro

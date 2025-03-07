@@ -70,7 +70,6 @@ claude debussy
 1880 piano trio, mov 2, scherzo
 1890 reverie ("daydream")
 1891 beau soir ("beautiful evening")
-1901 pour le piano ("for the piano"), mov 2, sarabande
 1905 suite bergamasque, mov 3, clair de lune ("moonlight")
 1910 preludes, book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
 
@@ -114,6 +113,12 @@ manuel de falla
 
 joaquín rodrigo
 1923 canconeta ("little song")
+1939 concierto de aranjuez ("aranjuez concerto")
+  mov 1
+  mov 2
+
+ernest bloch
+1924 from jewish life, mov 1, prayer
 
 george gershwin
 1935 porgy and bess, act 1, scene 1, summertime

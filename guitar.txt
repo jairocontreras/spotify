@@ -1,9 +1,6 @@
 johann sebastian bach
 1723 cello suite no 1, mov 1, prelude | bwv 1007
 
-fernando sor
-1828 exercices tres faciles ("very easy exercises"), op 35, no 22
-
 frédéric chopin
 1839 preludes, op 28
   no 4
@@ -236,7 +233,6 @@ paulo bellinati
 
 dominic miller
 1995 eclipse
-1999 the last song
 
 máximo diego pujol
 1996 suite del plata no 1
