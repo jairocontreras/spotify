@@ -103,7 +103,6 @@ franz liszt
 1850
   liebestraume ("dreams of love"), no 3
   trostungen ("consolations"), no 3
-1880 romance oubliee ("forgotten romance")
 
 georges bizet
 1854 nocturne in f major
@@ -232,7 +231,7 @@ joaquín rodrigo
 1939 concierto de aranjuez ("aranjuez concerto"), mov 2 | アランフェス協奏曲
 
 harry warren
-1941 at last ("sun valley serenade" movie) ft. john payne, pat friday
+1941 at last ("sun valley serenade" movie) ft. john payne; pat friday
 
 francis poulenc
 1959
@@ -351,6 +350,9 @@ joe hisaishi
   merry-go-round of life
   you're in love
 
+mino kabasawa
+1999 dango 3 kyodai ("three dango brothers") | だんご３兄弟
+
 yann tiersen
 2001 (apr) la valse d'amelie ("amelie's waltz") ("the fabulous destiny of amelie poulain" movie)
 
@@ -447,7 +449,7 @@ joep beving
   day dream
   sleeping lotus
   the light she brings
-  reflection no 2
+  reflection #2
   autumn
 2022
   (jan) nocturnal

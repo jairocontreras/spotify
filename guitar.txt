@@ -31,9 +31,6 @@ isaac albéniz
   mallorca, op 202
 1892 cantos de españa ("songs of spain"), op 232, mov 1, preludio ("prelude") | suite española no 1 ("spanish suite"), op 47, mov 5, asturias, leyenda ("legend") [pub 1912]
 
-césar franck
-1890 l'organiste ("the organist"), recueil de pieces pour orgue ou harmonium ("collection of pieces for organ or harmonium"), sept pieces en mi majeur et mi mineur ("7 pieces in e major and e minor"), no 2 | fwv 41
-
 enrique granados
 1890 danzas españolas ("spanish dances"), op 37
   mov 2, oriental
@@ -44,7 +41,7 @@ francisco tárrega
 1891 lagrima ("teardrop")
 1892 capricho arabe ("arabic caprice")
 1899 recuerdos de la alhambra ("memories of the alhambra")
-1902 adelita
+1902 adelita ("little adela")
 1909 endecha ("lament")
 
 alexander scriabin
