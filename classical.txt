@@ -47,7 +47,7 @@ preludes
   1839 op 28
     no 4
     no 6
-    no 20
+    no 20 | chord
 1847 cello sonata, op 65, mov 3
 
 franz liszt
@@ -61,20 +61,17 @@ césar franck
 1873 lied ("song") | fwv 83
 
 antonín dvořák
-1880 ciganske melodie ("gypsy songs"), op 55, no 4, když mne stara matka zpivat učivala ("songs my mother taught me")
+1880 ciganske melodie ("gypsy songs"), op 55, no 4, kdyz mne stara matka zpivat ucivala ("songs my mother taught me")
 1886 slovanske tance ("slavonic dances"), op 72, no 2
-1893 symphony no 9, from the new world, op 95, mov 4
+1893 symphony no 9, z noveho sveta ("from the new world"), op 95, mov 4
 1894 humoresky ("humoresques"), op 101, no 7
 
 claude debussy
-1880 piano trio, mov 2, scherzo
+1880 piano trio, mov 2
 1890 reverie ("daydream")
 1891 beau soir ("beautiful evening")
 1905 suite bergamasque, mov 3, clair de lune ("moonlight")
 1910 preludes, book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
-
-richard strauss
-1881 cello sonata, op 6, mov 2
 
 isaac albéniz
 1886 suite española no 1 ("spanish suite"), op 47, mov 3, sevilla
@@ -257,7 +254,7 @@ bremer/mccoy
 2016 (sep) forsvinder ("disappearing")
   i eet ("in one")
   krystalklar ("crystal clear")
-2024 blomsten du sår ("the flower you sow")
+2024 blomsten du sar ("the flower you sow")
 
 mino kabasawa
 2018 (mar 2) desert rose
@@ -310,7 +307,7 @@ joep beving; maarten vos
 2024 (jul) the heron
 
 alexis ffrench
-2024 (sep) reverie ("lullaby")
+2024 (sep) reverie ("daydream")
 
 thomas newman
 2024 (oct) shoulder length

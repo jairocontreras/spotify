@@ -190,11 +190,6 @@ takashi yoshimatsu
 astor piazzolla
 1985 histoire du tango ("history of the tango"), mov 2, cafe 1930
 
-juan falú
-1986 la antuquera
-2000 ayer es siempre ("yesterday is forever")
-2007 yusberiana
-
 sérgio assad
 1986 aquarelle ("watercolor"), mov 2, valseana
 
@@ -245,6 +240,10 @@ ralph towner
 
 koji kondo
 1998 title theme ("the legend of zelda: ocarina of time" game)
+
+juan falú
+2000 ayer es siempre ("yesterday is forever")
+2007 yusberiana
 
 marcelo coronel
 2000 imaginario popular argentino ("popular argentine fantasy")
