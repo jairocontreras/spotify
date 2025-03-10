@@ -30,7 +30,7 @@ john field
 1812 nocturnes, no 2
 
 franz schubert
-1827 impromptu, op 90, no 3
+1827 impromptus, op 90, no 3
 1828 schwanengesang ("swan song"), no 4, standchen ("serenade")
 
 felix mendelssohn
@@ -105,7 +105,7 @@ franz liszt
   trostungen ("consolations"), no 3
 
 georges bizet
-1854 nocturne in f major
+1854 nocturne | wd 49
 1875 carmen, act 1, scene 5, l'amour est un oiseau rebelle ("love is a rebellious bird") | habanera
 
 johannes brahms
