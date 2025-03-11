@@ -388,7 +388,7 @@ hans zimmer
 2014 message from home ("interstellar" movie)
 
 nils frahm
-2009 (dec 7) ambre
+2009 (dec 07) ambre
 2010 over there, it's raining
 2012 screws
   you
@@ -499,14 +499,16 @@ christian badzura
 2021 (feb) muse d'eau ("water muse")
 
 sophie hutchings
-2021 (sep 3) empty city
+2021 (sep 03) empty city
 
 jung jaeil
 2021 (sep 17) let's go out tonight ("squid game" series)
 
 mark slater
 2021 (oct) next winter
-2022 descent
+2022 insula
+  bones
+  descent
 
 patrik berg almkvisth
 2021 (nov) braddjup ("precipice")
@@ -514,8 +516,11 @@ patrik berg almkvisth
 rob burger
 2022 (jan) night feet
 
+benjamin gustafsson
+2022 (mar 04) close to her
+
 alexandra stréliski
-2022 (mar) gnossiennes, no 1 [rework] ft erik satie
+2022 (mar 22) gnossiennes, no 1 [rework] ft erik satie
 
 bea boethius
 2022 (may) the first birds
