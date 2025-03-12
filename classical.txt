@@ -28,7 +28,9 @@ franz schubert
 1828 schwanengesang ("swan song"), no 4, standchen ("serenade")
 
 frédéric chopin
-1832 etudes, op 10, no 3 | tristesse ("sadness")
+etudes
+  1832 op 10, no 3 | tristesse ("sadness")
+  1835 op 25, no 7 | cello
 nocturnes
   1832 op 9, no 2
   1837 op 32, no 1
@@ -37,7 +39,6 @@ nocturnes
     no 2
   1875 no 20, op posth [comp 1830]
   1938 no 21, op posth [comp 1848]
-1835 etudes, op 25, no 7 | cello
 1837 piano sonata no 2, op 35, mov 3, marche funebre ("funeral march")
 waltzes
   1838 op 34, no 2
@@ -352,7 +353,7 @@ mark slater
 2022 (mar) bones
 
 bear mccreary
-2022 (nov) letting go ("god of war ragnarök" game)
+2022 (nov) letting go ("god of war ragnarok" game)
 
 tom ashbrook
 2024 (jan) out [rework] ft matthew wilcock
