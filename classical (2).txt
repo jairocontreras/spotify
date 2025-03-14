@@ -3,7 +3,6 @@ symphony
   1808 no 5, op 67 | fate
     mov 1
     mov 3
-  1812 no 7, op 92, mov 2
   1824 no 9, op 125, mov 2 | choral
 
 pyotr ilyich tchaikovsky

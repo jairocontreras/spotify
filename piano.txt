@@ -24,7 +24,9 @@ piano sonata
     mov 1
     mov 2
   1801 no 14, quasi una fantasia ("in the manner of a fantasy"), op 27, no 2, mov 1 | moonlight
-1812 symphony no 7, op 92, mov 2
+symphony
+  1808 no 5, op 67, mov 3 | fate
+  1812 no 7, op 92, mov 2
 
 john field
 1812 nocturnes, no 2
@@ -405,7 +407,7 @@ nils frahm
 2021 late
 
 masashi hamauzu
-2009 (dec 17) the promise / the sunleth wasterscape ("final fantasy xiii" game)
+2009 (dec 17) the promise ("final fantasy xiii" game)
 
 goldmund
 2010 bergen

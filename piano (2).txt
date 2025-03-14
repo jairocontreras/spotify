@@ -10,9 +10,7 @@ piano sonata
   1806 no 23, op 57 | appassionata ("passionate")
     mov 1
     mov 3
-symphony
-  1808 no 5, op 67, mov 3 | fate
-  1824 no 9, op 125, mov 2 | choral
+1824 symphony no 9, op 125, mov 2 | choral
 
 frédéric chopin
 1830 waltzes, no 14, op posth
