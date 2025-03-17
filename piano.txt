@@ -16,9 +16,6 @@ joseph haydn
 baldassare galuppi
 1706-1785 harpsichord sonata, mov 1 | r.50
 
-wolfgang amadeus mozart
-1792 requiem, no 3, sequentia ("sequence"), mov 6, lacrimosa ("weeping")
-
 ludwig van beethoven
 piano sonata
   1798 no 8, op 13 | pathetique ("emotional")
@@ -527,12 +524,9 @@ olivia belli
 2022 (jun) threnody | piano concerto no 23, mov 2 [rework] ft wolfgang amadeus mozart
 
 hania rani
-2023 (feb) on giacometti
+2023 on giacometti
   stampa ("print")
   dreamy
-
-alexis ffrench
-2023 (may) when the bells ring
 
 julius asal
 2024 december 32nd
