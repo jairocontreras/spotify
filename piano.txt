@@ -4,17 +4,17 @@ johann sebastian bach
 
 domenico scarlatti
 1685-1757 keyboard sonata
-  k.32
-  k.466
+  k 32
+  k 466
 
 christoph willibald gluck
 1774 orfeo ed euridice ("orpheus and eurydice"), melodie ("melody")
 
 joseph haydn
-1780 keyboard sonata, mov 2 | hob. xvi:37
+1780 keyboard sonata, mov 2 | hob xvi:37
 
 baldassare galuppi
-1706-1785 harpsichord sonata, mov 1 | r.50
+1706-1785 harpsichord sonata, mov 1 | r 50
 
 ludwig van beethoven
 piano sonata
@@ -123,23 +123,26 @@ lyriske stykker ("lyric pieces")
     no 2, vals ("waltz")
   1886 book 3, op 43, no 6, til foraret ("to spring")
   1888 book 4, op 47, no 3, melodi ("melody")
+  1891 book 5, op 54, no 4, notturno ("nocturne")
+  1895 book 7, op 62, no 5, drommesyn ("phantom")
 1876 peer gynt, op 23, act 4, scene 4, anitras dans ("anitra's dance") | suite no 1, op 46, mov 3
+
+gabriel fauré
+1877 melodies, op 7, no 1, apres un reve ("after a dream") | 夢のあとに
+1887 pavane, op 50
+1902 pieces breves ("short pieces"), op 84, no 5, improvisation
 
 richard strauss
 1881 klavierstucke ("piano pieces"), op 3, no 1
 
 camille saint-saëns
-1886 le carnaval des animaux ("the carnival of the animals"), mov 13, le cygne ("the swan")
-
-gabriel fauré
-1887 pavane, op 50
-1902 pieces breves ("short pieces"), op 84, no 5, improvisation
+1886 le carnaval des animaux ("the carnival of the animals"), mov 13, le cygne ("the swan") | 白鳥
 
 claude debussy
 1888 la damoiselle elue ("the blessed damozel"), prelude
 1890 reverie ("daydream")
 1891 arabesques, no 1
-1892 nocturne | l.82
+1892 nocturne | l 82
 1903 estampes ("prints"), mov 1, pagodes ("pagodas")
 1905 suite bergamasque
   mov 1, prelude
@@ -167,6 +170,9 @@ sergei rachmaninoff
 1901 piano concerto no 2, op 18, mov 2 | ピアノ協奏曲
 1902 romances, no 5, lilacs ("siren")
 1911 etudes-tableaux ("study-pictures"), op 33, no 7
+
+antonín dvořák
+1893 symphony no 9, z noveho sveta ("from the new world"), op 95, mov 4 | 新世界より
 
 jean sibelius
 1893 impromptus, op 5, no 6
@@ -293,12 +299,15 @@ ryuichi sakamoto
   (jul) before long
   (oct) theme ("the last emperor" movie)
 1990 theme ("the sheltering sky" movie)
+1991 theme ("high heels" movie)
 1995 smoochy
   bibo no aozora ("beautiful blue sky")
   aoneko no torso ("torso of a blue cat")
-1999 bttb
-  opus
-  energy flow
+bttb
+  1998
+    opus
+    intermezzo
+  1999 energy flow
 2002 bolerish ("femme fatale" movie)
 2004 ending theme ("seven samurai 20xx" game)
 2005 fountain
@@ -351,7 +360,9 @@ yann tiersen
 2001 (apr) la valse d'amelie ("amelie's waltz") ("the fabulous destiny of amelie poulain" movie)
 
 nobuo uematsu
-2001 (jul) to zanarkand ("final fantasy x" game)
+2001 (jul) final fantasy x (game)
+  to zanarkand
+  hymn of the fayth
 
 max richter
 2002 andras

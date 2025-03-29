@@ -12,13 +12,13 @@
     (16) love story
       theme
     (31) lady caliph
-      la cena ("dinner")
+      la cena ("dinner") | ~nocturne
 1972 the godfather
   love theme | speak softly love
 1974 the godfather part ii
   the immigrant
   kay
-1975 moses the lawgiver (series)
+1975 moses the lawgiver [series]
   theme (journey)
 1980 somewhere in time
   theme
@@ -26,8 +26,6 @@
   rachel's song
 1983 merry christmas, mr. lawrence
   theme
-    [2012]
-    [2016]
 1984
   (mar) nausicaa of the valley of the wind
     the legend of the wind
@@ -38,20 +36,20 @@
     overture | theme
   (dec) out of africa
     have you got a story for me
-    karen builds a school | i had a compass from denys (karen's theme ii)
+    karen builds a school
     end credits
 1986 the mission
   gabriel's oboe
 1987 the last emperor
   theme | endroll
-    [2012]
-    [2016]
-  rain (i want a divorce)
+  rain
 1988 cinema paradiso
   main theme | nostalgia
 1989 kiki's delivery service
   a town with an ocean view
   mother's broom
+1990 the sheltering sky
+  theme
 1991
   (may) chizuko's younger sister | ふたり
     two of us
@@ -100,14 +98,14 @@
     noah visits
   (sep) howl's moving castle
     merry-go-round of life
-2007 avatar: the last airbender (season 3)
+2007 avatar: the last airbender [season 3]
   the last agni kai
 2008 kung fu panda
   oogway ascends
 2010 inception
   time
 2012
-  (apr) game of thrones (season 2)
+  (apr) game of thrones [season 2]
     the rains of castamere
   (nov) the hobbit: an unexpected journey
     misty mountains

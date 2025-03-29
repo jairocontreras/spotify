@@ -23,6 +23,7 @@ lyriske stykker ("lyric pieces")
     no 1, berceuse ("lullaby")
     no 5, springdans ("spring dance")
     no 6, elegi ("elegy")
+  1888 book 4, op 47, no 3, melodi ("melody")
 
 isaac albéniz
 1886 suite española no 1 ("spanish suite"), op 47, mov 3, sevilla
@@ -119,7 +120,7 @@ abel fleury
   te vas milonga ("you're going milonga")
 
 antônio carlos jobim
-1958 estrada do sol ("road to the sun") ft. silvia telles
+1958 estrada do sol ("road to the sun") ft. sylvia telles
 1962 garota de ipanema ("the girl from ipanema") ft. pery ribeiro
 
 luiz bonfá
@@ -239,7 +240,9 @@ koji kondo
 1998 title theme ("the legend of zelda: ocarina of time" game)
 
 juan falú
-2000 ayer es siempre ("yesterday is forever")
+2000 album
+  como el aire ("like the air")
+  ayer es siempre ("yesterday is forever")
 2007 yusberiana
 
 marcelo coronel
@@ -259,7 +262,6 @@ howard shore
 
 gustavo santaolalla
 2004 (jan) lima ("the motorcycle diaries" movie)
-2020 longing ("the last of us part ii" game)
 
 max richter
 2004 (feb) on the nature of daylight

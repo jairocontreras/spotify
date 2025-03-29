@@ -9,18 +9,23 @@
   (jun) the bourne identity
     theme
   (dec) the lord of the rings: the two towers
-    the three hunters | the uruk-hai
+    the three hunters
     the battle of the hornburg
 2003
   (jun) pirates of the caribbean: the curse of the black pearl
     the black pearl
+    barbossa is hungry
   (nov) the last samurai
     spectres in the fog
+  (dec) paycheck
+    main title
 2004
   (oct) the incredibles
     the incredits
   (nov) national treasure
     ben
+  (dec) a series of unfortunate events
+    hurricane herman
 2005 batman begins
   molossus
 2006 pirates of the caribbean: dead man's chest
@@ -40,15 +45,19 @@
     coming back around
   (may) prince of persia: the sands of time
     theme
+  (nov) tron: legacy
+    the son of flynn
 2013 man of steel
   dna
   han's original sketchbook
 2016 (apr)
   (12) captain america: civil war
     cap's promise
-  (24) game of thrones (season 6)
+  (24) game of thrones [season 6]
     coronation
 2020 tenet
   windmills
+2021 loki [season 1]
+  tva
 2023 oppenheimer
   can you hear the music

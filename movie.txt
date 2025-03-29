@@ -22,8 +22,8 @@
 1997
   (may) the lost world: jurassic park
     malcolm's journey
-  (sep) fireworks
-    theme | hana-bi
+  (sep) hana-bi ("fireworks")
+    theme
 1998
   (jun) the truman show
     reunion
@@ -61,6 +61,7 @@
     first crop circles
   (dec)
     (05) the lord of the rings: the two towers
+      foundations of stone
       the story foretold
     (25) the hours
       the poet acts
@@ -85,6 +86,7 @@
     (01) the lord of the rings: the return of the king
       roots and beginnings
       eowyn's dream
+      the ride of the rohirrim
     (25) paycheck
       i don't remember
 2004
@@ -103,7 +105,7 @@
     one last look
     the letter that never came
 2005
-  (feb) avatar: the last airbender (series)
+  (feb) avatar: the last airbender [season 1]
     iroh's tsungi horn
   (may) batman begins
     eptesicus
@@ -126,6 +128,7 @@
 2006 pirates of the caribbean: dead man's chest
   hello beastie
 2007 ratatouille
+  theme
   anyone can cook
 2008 the dark knight
   harvey two-face
@@ -154,12 +157,12 @@
   (mar) jane eyre
     the end of childhood
     in jest or earnest
-  (apr) game of thrones (series)
+  (apr) game of thrones [season 1]
     the king's arrival
   (jul) captain america: the first avenger
     theme
 2012
-  (apr) game of thrones (season 2)
+  (apr) game of thrones [season 2]
     warrior of light
     winterfell
   (sep)
@@ -179,15 +182,15 @@
     alone
     change your world
   (oct) interstellar
-    dust
     day one | theme
+    dust
     afraid of time
     first step
 2015
   (feb) victoria
     our own roof
     them
-  (apr) game of thrones (season 5)
+  (apr) game of thrones [season 5]
     forgive me
   (dec) the revenant
     hell ensemble
@@ -196,7 +199,7 @@
     oogway's legacy
   (mar) batman v superman: dawn of justice
     day of the dead
-  (apr) game of thrones (season 6)
+  (apr) game of thrones [season 6]
     light of the seven
     my watch has ended
     winter has come
@@ -205,7 +208,7 @@
   (jun) finding dory
     everything about you
 2017
-  (jul) game of thrones (season 7)
+  (jul) game of thrones [season 7]
     see you for what you are
   (oct) blade runner 2049
     2049
@@ -223,19 +226,26 @@
     (02) the king
       hymn, mov 3, elegy
       song of hal, conclusio
-    (06) the spy (series)
+    (06) the spy [series]
       love theme
   (dec) 1917
     theme
-2021 (sep)
-  (03) dune
-    herald of the change
-  (17) squid game (series)
-    i remember my name
-    it hurts so bad
-2022 the lord of the rings: the rings of power (series)
-  where the shadows lie
-  durin iv
+2021
+  (jun) loki [season 2]
+    delivery
+  (sep)
+    (03) dune
+      herald of the change
+    (17) squid game [season 1]
+      i remember my name
+      it hurts so bad
+2022
+  (feb) severance [season 1]
+    still vibrating
+    done for the night
+  (sep) the lord of the rings: the rings of power [season 1]
+    where the shadows lie
+    durin iv
 2023
   (may)
     (18) indiana jones and the dial of destiny
@@ -247,3 +257,5 @@
       triumph
   (aug) the equalizer 3
     first walk
+2024 dune: part two
+  a time of quiet between the storms
