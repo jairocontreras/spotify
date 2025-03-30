@@ -22,7 +22,7 @@
 1997
   (may) the lost world: jurassic park
     malcolm's journey
-  (sep) hana-bi ("fireworks")
+  (sep) fireworks | hana-bi
     theme
 1998
   (jun) the truman show
@@ -177,6 +177,7 @@
     sent here for a reason
   (14) summer in february
     gilbert's theme
+    gilbert returns
 2014
   (sep) the equalizer
     alone
@@ -229,7 +230,7 @@
     (06) the spy [series]
       love theme
   (dec) 1917
-    theme
+    come back to us
 2021
   (jun) loki [season 2]
     delivery

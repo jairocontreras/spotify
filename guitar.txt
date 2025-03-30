@@ -1,6 +1,9 @@
 johann sebastian bach
 1723 cello suite no 1, mov 1, prelude | bwv 1007
 
+franz schubert
+1828 schwanengesang ("swan song"), no 4, standchen ("serenade")
+
 frédéric chopin
 1839 preludes, op 28
   no 4
@@ -27,9 +30,8 @@ lyriske stykker ("lyric pieces")
 
 isaac albéniz
 1886 suite española no 1 ("spanish suite"), op 47, mov 3, sevilla
-1890
-  españa ("spain"), op 165, mov 3, malagueña
-  mallorca, op 202
+1890 españa ("spain"), op 165, mov 3, malagueña
+1891 mallorca, op 202, barcarola ("barcarolle")
 1892 cantos de españa ("songs of spain"), op 232, mov 1, preludio ("prelude") | suite española no 1 ("spanish suite"), op 47, mov 5, asturias, leyenda ("legend") [pub 1912]
 
 enrique granados
@@ -63,13 +65,19 @@ manuel ponce
 1926 por ti mi corazon ("for you my heart")
 1927 guitar sonata no 3, mov 2
 
+agustín barrios mangoré
+1917 el sueño de la muñequita ("dream of the little doll")
+1922 preludio en do menor ("prelude in c minor")
+1938 la catedral ("the cathedral"), mov 1, preludio ("prelude"), saudade ("nostalgia")
+1944 una limosna por el amor de dios ("an alm for the love of god")
+
 federico moreno tórroba
 1924 sonatina, mov 2
 1926 suite castellana ("spanish suite")
   mov 1, fandanguillo ("little fandango")
   mov 2, arada ("plowing")
+1953 madroños
 1970 castillos de españa no 1 ("castles of spain"), mov 7, montemayor, romance de los pinos ("romance of the pines")
-1891-1982 madroños
 
 heitor villa-lobos
 1928 etudes, no 1
@@ -88,13 +96,6 @@ duke ellington
 manuel lópez-quiroga
 1937 coplas, no 4, ojos verdes ("green eyes")
 
-agustín barrios mangoré
-1938 la catedral ("the cathedral"), mov 1, preludio ("prelude"), saudade ("nostalgia")
-1885-1944
-  el sueño de la muñequita ("dream of the little doll")
-  preludio en do menor ("prelude in c minor")
-  una limosna por el amor de dios ("an alm for the love of god")
-
 antonio lauro
 1940 valses venezolanos ("venezuelan waltzes"), no 3, natalia
 
@@ -104,6 +105,10 @@ ernesto grenet
 federico mompou
 1942 cancons i danses ("songs and dances"), no 6
 1962 suite compostelana, mov 2, coral ("chorale")
+
+dilermando reis
+1952 se ela perguntar ("if she asks")
+1916-1977 uma valsa e dois amores ("a waltz and two loves")
 
 andrés segovia
 1954 estudio sin luz ("study without light")
@@ -120,11 +125,14 @@ abel fleury
   te vas milonga ("you're going milonga")
 
 antônio carlos jobim
-1958 estrada do sol ("road to the sun") ft. sylvia telles
+1958 estrada do sol ("road to the sun") ft. dolores duran / sylvia telles
 1962 garota de ipanema ("the girl from ipanema") ft. pery ribeiro
 
 luiz bonfá
 1959 manha de carnaval ("carnival morning") ("black orpheus" movie)
+
+héctor ayala
+1962 serie americana ("american series"), mov 1, preludio ("prelude")
 
 eduardo sainz de la maza
 1963 campanas del alba ("bells at dawn")
@@ -139,9 +147,12 @@ vicente emilio sojo
 the beatles
 1965
   (jul) yesterday ("help!" movie)
-  (dec) michelle (rubber soul)
-1968 blackbird (the beatles)
-1969 because (abbey road)
+  (dec) michelle {rubber soul}
+1968 blackbird {the beatles}
+1969 because {abbey road}
+
+vicente asencio
+1965 collectici intim ("intimate collection"), mov 3, la calma ("the calm")
 
 violeta parra
 1966 gracias a la vida ("thanks to life")
@@ -164,23 +175,24 @@ nino rota
 egberto gismonti
 1972 (apr) agua e vinho ("water and wine")
 
-dilermando reis
-1916-1977
-  se ela perguntar ("if she asks")
-  uma valsa e dois amores ("a waltz and two loves")
-
 john williams
 1977 princess leia's theme ("star wars" movie)
 
 john rutter
 1979 suite antique, mov 1, prelude
 
+emilio pujol
+1886-1980 morceaux espagnols ("spanish pieces"), no 3, guajira ("peasant")
+
 leo brouwer
 1981 un dia de noviembre ("a day in november")
 1999 an idea, passacaglia for eli
 
+william lovelady
+1983 curlew
+
 takashi yoshimatsu
-1984 tender toys
+1984 tender toys (album)
   romance for tree
   angels in twilight
 1993 water color scalar, op 57, mov 1, prelude
@@ -194,12 +206,10 @@ sérgio assad
 ennio morricone
 1986 (may) gabriel's oboe ("the mission" movie)
 1988 first youth ("cinema paradiso" movie)
+1998 playing love ("the legend of 1900" movie)
 
 ryuichi sakamoto
 1987 theme ("the last emperor" movie)
-
-héctor ayala
-1914-1990 serie americana ("american series"), mov 1, preludio ("prelude")
 
 josé luis merlin
 1990 suite del recuerdo ("memory suite")
@@ -240,7 +250,7 @@ koji kondo
 1998 title theme ("the legend of zelda: ocarina of time" game)
 
 juan falú
-2000 album
+2000 como el aire (album)
   como el aire ("like the air")
   ayer es siempre ("yesterday is forever")
 2007 yusberiana
@@ -279,11 +289,16 @@ jeremy soule
 2011 (dec) tomorrow's song
 
 hermanos gutiérrez
-2019 hoy como ayer ("today like yesterday")
+2019 hoy como ayer (album)
+  hoy como ayer ("today like yesterday")
+  cerca de ti ("close to you")
 2020 sonora
 
 karl vandu
 2020 nachklang ("echo")
+
+juan erena
+2021 carta a lucina ("letter to lucina")
 
 olivia belli
 2022 prelude

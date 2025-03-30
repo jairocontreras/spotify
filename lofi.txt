@@ -1,27 +1,27 @@
 1972 superstition
-1976 hotel california (album)
+1976 hotel california {album}
 1977
-  (nov) wonderful tonight (slowhand)
+  (nov) wonderful tonight {slowhand}
   (dec) stayin' alive ("saturday night fever" movie)
 1979 don't stop 'til you get enough
-1980 another one bites the dust (the game)
+1980 another one bites the dust {the game}
 1981
   (jan) in the air tonight
   (jul) endless love (movie)
 1982
-  (apr) africa (toto iv)
-  (nov) thriller
+  (apr) africa {toto iv}
+  (nov) thriller (album)
     thriller
     billie jean
 1983 jump
 1987
-  (jul) sweet child o' mine (appetite for destruction)
-  (aug) smooth criminal (bad)
+  (jul) sweet child o' mine {appetite for destruction}
+  (aug) smooth criminal {bad}
 1992 creep
 1993
   (jan) what is love
-  (mar) shape of my heart (ten summoner's tales)
-1997 make you feel my love (time out of mind)
+  (mar) shape of my heart {ten summoner's tales}
+1997 make you feel my love {time out of mind}
 1999
   (jun) you'll be in my heart ("tarzan" movie)
   (sep) age of empires ii: the age of kings (game)
@@ -31,38 +31,38 @@
   (nov) still d.r.e.
 2000 (oct)
   (16) taijiya sango ("inuyasha" series)
-  (24) in the end (hybrid theory)
+  (24) in the end {hybrid theory}
 2001
   (jan) mad world ("donnie darko" movie)
   (jul) one summer's day ("spirited away" movie) | the name of life
 2002
   (feb) don't know why
-  (jun) this love (songs about jane)
-  (aug) clocks (a rush of blood to the head)
-  (nov) justified
+  (jun) this love {songs about jane}
+  (aug) clocks {a rush of blood to the head}
+  (nov) justified (album)
     señorita
     cry me a river
       [2021]
       [2023]
-2003 numb (meteora)
+2003 numb {meteora}
 2004
   (feb) i don't wanna know
   (sep) you're in love ("howl's moving castle" movie)
-  (oct) you're beautiful (back to bedlam)
+  (oct) you're beautiful {back to bedlam}
 2005
   (feb) winter, spring, summer and fall ("avatar: the last airbender" series) | four seasons, four loves
-  (jun) fix you (x&y)
+  (jun) fix you {x&y}
 2006
   (mar)
     (13) crazy
       [2021]
       [2022]
     (17) leaves from the vine ("avatar: the last airbender" season 2)
-  (jun) say it right (loose)
-2007 apologize (shock value)
+  (jun) say it right {loose}
+2007 apologize {shock value}
 2008 viva la vida
 2009
-  (oct) dynamite (rokstarr)
+  (oct) dynamite {rokstarr}
   (nov) whataya want from me
     [2020]
     [2024]
@@ -73,55 +73,55 @@
   (jun) stereo hearts
   (jul) somebody that i used to know
 2012
-  (sep) demons (night visions)
+  (sep) demons {night visions}
   (oct)
     (01) locked out of heaven
     (08) latch
-  (nov) stay (unapologetic)
-  (dec) treasure (unorthodox jukebox)
+  (nov) stay {unapologetic}
+  (dec) treasure {unorthodox jukebox}
 2013
   (feb) mirrors
   (may) cool kids
   (sep) take me to church
 2014 a sky full of stars
 2014 (jun)
-  (03) let it go (ep)
+  (03) let it go {ep}
   (20) photograph
 2015
-  (feb) where are u now (skrillex and diplo present jack u)
+  (feb) where are u now {skrillex and diplo present jack u}
   (apr)
     (01) see you again ("furious 7" movie)
-    (07) the night we met (strange trails)
+    (07) the night we met {strange trails}
   (jun)
     (08) can't feel my face
-    (16) 7 years (lukas graham)
-  (nov) love yourself (purpose)
+    (16) 7 years {lukas graham}
+  (nov) love yourself {purpose}
 2016
-  (jan) love on the brain (anti)
+  (jan) love on the brain {anti}
   (jul) closer
   (aug)
     (01) heathens ("suicide squad" movie)
-    (20) pink + white (blonde)
+    (20) pink + white {blonde}
   (sep) starboy
   (oct) 24k magic
   (nov)
     (17)
       i feel it coming
       redbone
-    (18) that's what i like (24k magic)
-    (25) die for you (starboy)
-  (dec) congratulations (stoney)
+    (18) that's what i like {24k magic}
+    (25) die for you {starboy}
+  (dec) congratulations {stoney}
 2017
   (jan) shape of you
-  (mar) passionfruit (more life)
+  (mar) passionfruit {more life}
   (jun) wild thoughts
   (aug)
     (03) havana
-    (25) best part (freudian)
+    (25) best part {freudian}
   (sep) rockstar
 2018
-  (mar) moonlight ("?")
-  (apr) better now (beerbongs & bentleys)
+  (mar) moonlight {?}
+  (apr) better now {beerbongs & bentleys}
   (may) heat waves
     [2022]
     [2024]
@@ -138,14 +138,14 @@
   (nov)
     (13) everything i wanted
     (29) blinding lights
-  (dec) watermelon sugar (fine line)
+  (dec) watermelon sugar {fine line}
 2020 (aug 14)
   laugh now cry later
   lemonade
 2021
   (mar)
     (05) leave the door open
-    (19) justice
+    (19) justice (album)
       ghost
       peaches
   (apr) deja vu

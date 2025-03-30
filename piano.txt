@@ -4,8 +4,8 @@ johann sebastian bach
 
 domenico scarlatti
 1685-1757 keyboard sonata
-  k 32
-  k 466
+  k32
+  k466
 
 christoph willibald gluck
 1774 orfeo ed euridice ("orpheus and eurydice"), melodie ("melody")
@@ -14,7 +14,7 @@ joseph haydn
 1780 keyboard sonata, mov 2 | hob xvi:37
 
 baldassare galuppi
-1706-1785 harpsichord sonata, mov 1 | r 50
+1706-1785 harpsichord sonata, mov 1 | r50
 
 ludwig van beethoven
 piano sonata
@@ -31,7 +31,9 @@ john field
 
 franz schubert
 1827 impromptus, op 90, no 3
-1828 schwanengesang ("swan song"), no 4, standchen ("serenade")
+1828
+  schwanengesang ("swan song"), no 4, standchen ("serenade") | d957
+  piano sonata, mov 2 | d959
 
 felix mendelssohn
 lieder ohne worte ("songs without words")
@@ -101,8 +103,8 @@ robert schumann
 franz liszt
 1848 romance
 1850
-  liebestraume ("dreams of love"), no 3
-  trostungen ("consolations"), no 3
+  trostungen ("consolations"), no 3 | s172
+  liebestraume ("dreams of love"), no 3 | s541
 
 georges bizet
 1854 nocturne | wd 49
@@ -124,7 +126,7 @@ lyriske stykker ("lyric pieces")
   1886 book 3, op 43, no 6, til foraret ("to spring")
   1888 book 4, op 47, no 3, melodi ("melody")
   1891 book 5, op 54, no 4, notturno ("nocturne")
-  1895 book 7, op 62, no 5, drommesyn ("phantom")
+  1895 book 7, op 62, no 5, drømmesyn ("phantom")
 1876 peer gynt, op 23, act 4, scene 4, anitras dans ("anitra's dance") | suite no 1, op 46, mov 3
 
 gabriel fauré
@@ -142,7 +144,7 @@ claude debussy
 1888 la damoiselle elue ("the blessed damozel"), prelude
 1890 reverie ("daydream")
 1891 arabesques, no 1
-1892 nocturne | l 82
+1892 nocturne | l82
 1903 estampes ("prints"), mov 1, pagodes ("pagodas")
 1905 suite bergamasque
   mov 1, prelude
@@ -168,8 +170,9 @@ sergei rachmaninoff
   no 1, elegie ("elegy")
   no 2, prelude
 1901 piano concerto no 2, op 18, mov 2 | ピアノ協奏曲
-1902 romances, no 5, lilacs ("siren")
+1902 romances, op 21, no 5, lilacs ("siren")
 1911 etudes-tableaux ("study-pictures"), op 33, no 7
+1934 rhapsody on a theme of paganini, op 43, no 18
 
 antonín dvořák
 1893 symphony no 9, z noveho sveta ("from the new world"), op 95, mov 4 | 新世界より
@@ -194,7 +197,9 @@ henrique oswald
 1932 valsa lenta ("slow waltz"), op posth
 
 amy woodforde-finden
-1902 indian love lyrics, no 4, till i wake
+1902 indian love lyrics
+  no 3, kashmiri song
+  no 4, till i wake
 
 heitor villa-lobos
 1910 tristorosa ("sad rose")
@@ -237,15 +242,14 @@ harry warren
 1941 at last ("sun valley serenade" movie) ft. john payne; pat friday
 
 francis poulenc
-1959
-  improvisations, no 13
-  novelettes, no 3, sur un theme de manuel de falla tire de "el amor brujo" ("on a theme by manuel de falla from 'love bewitched'")
+1958 improvisations, no 13
+1959 novelettes, no 3, sur un theme de manuel de falla tire de "el amor brujo" ("on a theme by manuel de falla from 'love bewitched'") | fp 173
 
 antônio carlos jobim
 1962 garota de ipanema ("the girl from ipanema") ft. pery ribeiro
 
 the beatles
-1969 across the universe (no one's gonna change our world)
+1969 across the universe {no one's gonna change our world}
 
 henry mancini
 1970 (mar) love theme ("sunflower" movie)
@@ -274,7 +278,7 @@ john barry
 
 philip glass
 1981 glassworks, mov 1, opening
-1983 the late great johnny ace, coda (hearts and bones)
+1983 the late great johnny ace, coda {hearts and bones}
 1989 metamorphosis five
 1991 orphee, act 1, scene 5, la chambre d'orphee ("orphee's bedroom")
 etudes
@@ -300,14 +304,13 @@ ryuichi sakamoto
   (oct) theme ("the last emperor" movie)
 1990 theme ("the sheltering sky" movie)
 1991 theme ("high heels" movie)
-1995 smoochy
+1995 smoochy (album)
   bibo no aozora ("beautiful blue sky")
   aoneko no torso ("torso of a blue cat")
-bttb
-  1998
-    opus
-    intermezzo
-  1999 energy flow
+1998 bttb (album)
+  opus
+  intermezzo
+1999 energy flow
 2002 bolerish ("femme fatale" movie)
 2004 ending theme ("seven samurai 20xx" game)
 2005 fountain
@@ -331,23 +334,27 @@ michael nyman
 1993 the heart asks pleasure first ("the piano" movie)
 
 radiohead
-1995 fake plastic trees (the bends)
-1997 exit music (for a film) (ok computer)
-1998 how i made my millions (no surprises)
-2001 amnesiac
+1995 fake plastic trees {the bends}
+1997 exit music (for a film) {ok computer}
+1998 how i made my millions {no surprises}
+2001 amnesiac (album)
   knives out
   like spinning plates
 
 ludovico einaudi
 1996 passaggio ("passage")
 
+yann tiersen
+1996 (apr 01) comptine d'ete no 2 ("summer rhyme")
+2001 la valse d'amelie ("amelie's waltz") ("the fabulous destiny of amelie poulain" movie)
+
 secret garden
-1996 (apr) song from a secret garden
+1996 (apr 16) song from a secret garden
 
 joe hisaishi
 1997
   (jul) ashitaka and san ("princess mononoke" movie) | アシタカとサン
-  (sep) hana-bi ("fireworks" movie)
+  (sep) theme ("fireworks" movie) | hana-bi
 2001 one summer's day ("spirited away" movie) | あの夏へ
 2004 howl's moving castle (movie)
   merry-go-round of life
@@ -356,11 +363,8 @@ joe hisaishi
 ayumi shigemori; kentarō hayami
 1999 dango 3 kyodai ("three dango brothers") | だんご３兄弟
 
-yann tiersen
-2001 (apr) la valse d'amelie ("amelie's waltz") ("the fabulous destiny of amelie poulain" movie)
-
 nobuo uematsu
-2001 (jul) final fantasy x (game)
+2001 final fantasy x (game)
   to zanarkand
   hymn of the fayth
 
@@ -376,14 +380,17 @@ tarō iwashiro
 
 yiruma
 2003 (oct) yellow room
-2020
-  (may)
-    (8) sunset bird
-    (22) room with a view
-      preludio al vento ("overture of the wind")
-      room with a view
-      berrylands rd
-  (jul) walking in the forest
+2008 letter
+2017 frame (album)
+  flower
+  walking in the forest
+2019 nocturnal mind
+2020 (may)
+  (08) sunset bird
+  (22) room with a view (album)
+    preludio al vento ("overture of the wind")
+    room with a view
+    berrylands rd
 
 dustin o'halloran
 2004 opus 28
@@ -395,21 +402,30 @@ hans zimmer
 nils frahm
 2009 (dec 07) ambre
 2010 over there, it's raining
-2012 screws
+2012 screws (album)
   you
   re
 2015
   (feb) them ("victoria" movie)
-  (mar) solo
+  (mar) solo (album)
     ode
     some
     merry
-2016 trance frendz ft ólafur arnalds
-  20:17
-  21:05
+    four hands
+2016 (mar)
+  (04) trance frendz (album) ft ólafur arnalds
+    20:17
+    21:05
+  (28) solo remains (album)
+    him
+    son
 2017 because this must be
-2018 my friend the forest
-2020 second defeat
+2018 all melody (album)
+  my friend the forest
+  forever changeless
+2020 empty (album)
+  no step on wing
+  second defeat
 2021 late
 
 masashi hamauzu
@@ -417,7 +433,7 @@ masashi hamauzu
 
 goldmund
 2010 bergen
-2015 sometimes
+2015 sometimes (album)
   cascade
   the hidden observer
 
@@ -430,7 +446,7 @@ dario marianelli
 2011 (dec) tomorrow's song
 
 ben lukas boysen
-2013 gravity
+2013 gravity (album)
   only in the dark
   eos
 2014 sleepers beat theme
@@ -439,7 +455,7 @@ jon hopkins
 2014 (sep 15) i remember
 
 chad lawson
-2014 (sep 23) the chopin variations [rework] ft frédéric chopin
+2014 (sep 23) the chopin variations (album) [rework] ft frédéric chopin
   nocturnes, op 9, no 2
   preludes, op 28
     no 6
@@ -450,21 +466,29 @@ stephan moccio
 2015 (feb) earned it ("fifty shades of grey" movie) ft. the weeknd
 2021 ow
 2023 the sound of snow
-2024 nightingale
+2024
+  (jan) the wanderer
+  (feb) nightingale
+  (may) legends, myths and lavender (album)
+    polaris
+    galaxy
+    a daydream in camelot
+      celestial
+      cortege ("procession")
 
 joep beving
-2015 (mar) solipsism
+2015 (mar) solipsism (album)
   etude
   for steven
   zoetrope
   day dream
   sleeping lotus
   the light she brings
-  reflection #2
+  reflection no 2
   autumn
 2022
   (jan) nocturnal
-  (apr) hermetism
+  (apr) hermetism (album)
     la fee verte ("the green fairy")
     paris s'enflamme ("paris is burning")
     accent grave ("grave accent")
@@ -473,14 +497,16 @@ joep beving
     transfiguration
 
 daigo hanada
-2017 fragment, part 1
+2017 ichiru (album)
+  silhouette
+  fragment, part 1
 2022
   (jul) muku ft hiroko murakami
   (dec) seis [rework] ft hiroko murakami
 2023
   (mar) iris
   (apr) sakura sakura ("cherry blossoms")
-  (may) journey through memories
+  (may) journey through memories (album)
     reminiscence
     hide away
 
@@ -535,7 +561,7 @@ olivia belli
 2022 (jun) threnody | piano concerto no 23, mov 2 [rework] ft wolfgang amadeus mozart
 
 hania rani
-2023 on giacometti
+2023 on giacometti (album)
   stampa ("print")
   dreamy
 

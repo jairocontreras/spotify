@@ -60,9 +60,20 @@ johannes brahms
 césar franck
 1873 lied ("song") | fwv 83
 
+camille saint-saëns
+1874 danse macabre ("dance of death"), op 40
+
+henri duparc
+1874 extase ("ecstasy")
+
+gabriel fauré
+1879 melodies, op 23, no 1, les berceaux ("the cradles")
+1887 pavane, op 50
+
 antonín dvořák
 1880 ciganske melodie ("gypsy songs"), op 55, no 4, kdyz mne stara matka zpivat ucivala ("songs my mother taught me")
 1886 slovanske tance ("slavonic dances"), op 72, no 2
+1887 romanticke kusy ("romantic pieces"), op 75, mov 1
 1893 symphony no 9, z noveho sveta ("from the new world"), op 95, mov 4
 1894 humoresky ("humoresques"), op 101, no 7
 
@@ -75,9 +86,6 @@ claude debussy
 
 isaac albéniz
 1886 suite española no 1 ("spanish suite"), op 47, mov 3, sevilla
-
-gabriel fauré
-1887 pavane, op 50
 
 erik satie
 1888 gymnopedies, no 3
@@ -95,13 +103,18 @@ reynaldo hahn
 sergei rachmaninoff
 1892 morceaux de fantaisie ("fantasy pieces"), op 3, no 1, elegie ("elegy")
 1901 piano concerto no 2, op 18, mov 2
-1902 romances, no 5, lilacs ("siren")
+1902 romances, op 21
+  no 5, lilacs ("siren")
+  no 7, zdes' khorosho ("how fair this spot")
 1934 rhapsody on a theme of paganini, op 43, no 18
 
 maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
 1907 vocalise-etude en forme de habanera ("vocalise-study in the form of a habanera")
 1928 bolero
+
+fermo dante marchetti
+1904 valse tzigane ("gypsy waltz") | fascination ft. dinah shore / nat king cole
 
 manuel ponce
 1912 estrellita ("little star")
@@ -129,24 +142,27 @@ samuel barber
 alberto ginastera
 1937 danzas argentinas ("argentine dances"), op 2, no 2, danza de la moza donosa ("dance of the graceful girl")
 
+francis poulenc
+1943 metamorphoses, no 2, c'est ainsi que tu es ("that's how you are")
+
 dmitri shostakovich
 1957 piano concerto no 2, op 102, mov 2
 
 henry mancini
-1961 mr. lucky goes latin
+1961 mr. lucky goes latin (album)
   lujon
   the sound of silver
 
 simon & garfunkel
-1964 the sound of silence (wednesday morning, 3 a.m.)
+1964 the sound of silence {wednesday morning, 3 a.m.}
 
 the beatles
 1965 yesterday ("help!" movie)
-1967 within you without you (sgt. pepper's lonely hearts club band)
-1969 because (abbey road)
+1967 within you without you {sgt. pepper's lonely hearts club band}
+1969 because {abbey road}
 
 john lennon
-1971 imagine (album)
+1971 imagine {album}
 
 peter sculthorpe
 1979 requiem for cello alone, mov 4, lacrimosa ("weeping")
@@ -159,8 +175,8 @@ astor piazzolla
 
 sting
 1983 every breath you take ft. the police
-1987 fragile (nothing like the sun)
-1993 ten summoner's tales
+1987 fragile {nothing like the sun}
+1993 ten summoner's tales (album)
   fields of gold
   shape of my heart
 
@@ -171,10 +187,12 @@ philip glass
 1994 etudes, no 2 | echorus
 
 ryuichi sakamoto
-1995 smoochy
+1995 smoochy (album)
   bibo no aozora ("beautiful blue sky")
   aoneko no torso ("torso of a blue cat")
-2004 tamago ("egg")
+2004
+  (jan) ending theme ("seven samurai 20xx" game)
+  (nov) tamago ("egg")
 2014 blu
 
 secret garden
@@ -191,10 +209,11 @@ max richter
 2012 le quattro stagioni ("the four seasons"), concerto no 3, l'autunno ("autumn"), op 8, mov 3 [rework] ft antonio vivaldi
 
 coldplay
-2005 fix you (x&y)
+2005 fix you {x&y}
 
 nils frahm
 2009 ambre
+2018 a place
 
 brian eno
 2010 emerald and stone
@@ -212,10 +231,10 @@ ludovico einaudi
 2019 seven days walking, day 1, fox tracks
 
 ed sheeran
-2014 (jun) thinking out loud (x)
+2014 (jun) thinking out loud {x}
 
 chad lawson
-2014 (sep) the chopin variations [rework] ft frédéric chopin
+2014 (sep) the chopin variations (album) [rework] ft frédéric chopin
   nocturnes
     op 9, no 2
     op 55, no 1
@@ -233,29 +252,38 @@ sophie hutchings
 2016 (jul) grace
 
 bremer/mccoy
-2016 (sep) forsvinder ("disappearing")
+2016 (sep) forsvinder (album)
   i eet ("in one")
   krystalklar ("crystal clear")
 2024 blomsten du sar ("the flower you sow")
+
+yiruma
+2017 frame (album)
+  framed
+  a moonlight song
+2019 nocturnal mind
+2020 (may)
+  (08) sunset bird
+  (22) room with a view
 
 mino kabasawa
 2018 (mar 02) desert rose
 
 the weeknd
-2018 (mar 30) call out my name (my dear melancholy)
+2018 (mar 30) call out my name {my dear melancholy}
 
 bradley cooper; lady gaga
 2018 (aug) shallow ("a star is born" movie)
 
 finneas o'connell
 2018 (oct) when the party's over ft. billie eilish
-2019 i love you (when we all fall asleep, where do we go?) ft. billie eilish
+2019 i love you {when we all fall asleep, where do we go?} ft. billie eilish
 
 damjan krajacic; robert thies
-2020 (jan) forest path
+2020 forest path
 
-yiruma
-2020 (may) sunset bird
+stephan moccio
+2021 (apr) october
 
 kian soltani
 2021 (sep) intermezzo, a scene from the past
