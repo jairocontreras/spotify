@@ -98,7 +98,7 @@ preludes
 
 robert schumann
 1835 carnaval ("carnival"), op 9, mov 12, chopin
-1838 kreisleriana, phantasien fur das pianoforte ("fantasies for the piano"), op 16, mov 3, sehr aufgeregt ("very agitated")
+1838 kreisleriana, phantasien fur das pianoforte ("fantasies for the piano"), op 16, mov 3
 
 franz liszt
 1848 romance
@@ -181,9 +181,9 @@ jean sibelius
 1893 impromptus, op 5, no 6
 
 alexander scriabin
-1895 preludes
-  op 11, no 21
-  op 16, no 1
+preludes
+  1896 op 11, no 21
+  1897 op 16, no 1 [comp 1895]
 
 maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
@@ -262,9 +262,8 @@ leslie bricusse
 
 olivier toussaint; paul de senneville
 1974 (nov) dolannes melodie ("dolannes melody") ("no pockets in a shroud" movie)
-1978
-  a comme amour ("l as in love")
-  mariage d'amour ("marriage of love")
+1977 a comme amour ("l as in love")
+1978 mariage d'amour ("marriage of love")
 
 nino rota
 1974 (dec) the immigrant ("the godfather part ii" movie)
