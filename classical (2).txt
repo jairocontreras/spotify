@@ -7,6 +7,7 @@ symphony
 
 pyotr ilyich tchaikovsky
 1876 slavonic march, op 31
+1880 romeo and juliet (overture-fantasy)
 
 maurice ravel
 1928 bolero

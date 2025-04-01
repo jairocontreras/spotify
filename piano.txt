@@ -120,9 +120,7 @@ johannes brahms
 
 edvard grieg
 lyriske stykker ("lyric pieces")
-  1867 book 1, op 12
-    no 1, arietta
-    no 2, vals ("waltz")
+  1867 book 1, op 12, no 1, arietta
   1886 book 3, op 43, no 6, til foraret ("to spring")
   1888 book 4, op 47, no 3, melodi ("melody")
   1891 book 5, op 54, no 4, notturno ("nocturne")
